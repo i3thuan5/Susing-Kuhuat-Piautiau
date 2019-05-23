@@ -15,12 +15,12 @@ def kiatko(hunsu):
     詞性 = susing(hunsu)
     print(詞性)
     句物件 = 拆文分析器.分詞句物件(hunsu)
-    華語句物件, huagi_hunsu = huanik(句物件)
-    print(華語句物件, huagi_hunsu)
-    句法 = kuhuat(huagi_hunsu)
+    華語句物件, 華語翻譯詞句物件 = huanik(句物件)
+    print(華語句物件, 華語翻譯詞句物件)
+    句法 = kuhuat(華語翻譯詞句物件)
     print(句法)
-    tsiu = Tree.fromstring(句法)
-    tsiu.pretty_print()
+    tshiu = uann_tso_taigi_kuhuat(句物件, 句法)
+    tshiu.pretty_print()
 
 
 def susing(hunsu):
@@ -50,10 +50,37 @@ def huanik(句物件):
     huagisu = []
     for 詞物件 in 臺語句物件.網出詞物件():
         huagisu.append(詞物件.翻譯目標詞陣列[-1].看型())
-    return 華語句物件, ' '.join(huagisu)
+    return 華語句物件, 拆文分析器.建立句物件(' '.join(huagisu))
 
 
-def kuhuat(華語hunsu):
+def kuhuat(華語句物件):
+    kuhuat_tree = _kuhuat_mng(華語句物件.看型('', ' '))
+    while True:
+        tsiu = Tree.fromstring(kuhuat_tree)
+        if len(tsiu.leaves()) == len(華語句物件.網出詞物件()):
+            return kuhuat_tree
+        華語句物件, kuhuat_tree = _kuhuat_uannsine(華語句物件, kuhuat_tree)
+
+
+def _kuhuat_uannsine(華語句物件, kuhuat_tree):
+    tsiu = Tree.fromstring(kuhuat_tree)
+    huaniksu = []
+    斷詞 = tsiu.leaves()
+    斷詞所在 = 0
+    liaptsik = ''
+    for su in 華語句物件.網出詞物件():
+        while True:
+            liaptsik += 斷詞[斷詞所在]
+            if len(liaptsik) == len(su.看型()):
+                huaniksu.append(斷詞[斷詞所在])
+                斷詞所在 += 1
+                liaptsik = ''
+                break
+            斷詞所在 += 1
+    return 拆文分析器.建立句物件(' '.join(huaniksu)), _kuhuat_mng(' '.join(huaniksu))
+
+
+def _kuhuat_mng(華語hunsu):
     conn = HTTPConnection('kuhuat', port=5000)
     conn.request(
         "GET",
@@ -66,6 +93,24 @@ def kuhuat(華語hunsu):
         print(r1.status, r1.reason)
         raise RuntimeError()
     return json.loads(r1.read().decode('utf-8'))
+
+
+def uann_tso_taigi_kuhuat(句物件, 句法):
+    su = []
+    for 詞物件 in 句物件.網出詞物件():
+        su.append(詞物件.看分詞())
+    tshiu = Tree.fromstring(句法)
+    return uann_tshiu(su[::-1], tshiu)
+
+
+def uann_tshiu(su, tshiu):
+    kiann = []
+    for child in tshiu:
+        if isinstance(child, Tree):
+            kiann.append(uann_tshiu(su, child))
+        else:
+            kiann.append(su.pop())
+    return Tree(tshiu.label(), kiann)
 
 
 if __name__ == '__main__':
