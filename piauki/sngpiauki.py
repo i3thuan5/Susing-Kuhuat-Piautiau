@@ -16,12 +16,7 @@ def main():
     sia.writeheader()
     for hunsu in stdin:
         if hunsu.strip():
-            詞性, tshiu = kiatko(hunsu.strip())
-#             tsuliau.append({
-#                 '分詞': hunsu,
-#                 '詞性': 詞性,
-#                 '句法': tshiu,
-#             })
+            詞性, tshiu = sng(hunsu.strip())
             sia.writerow({
                 '分詞': hunsu,
                 '詞性': 詞性,
@@ -29,7 +24,7 @@ def main():
             })
 
 
-def kiatko(hunsu):
+def sng(hunsu):
     詞性 = susing(hunsu)
 
     句物件 = 拆文分析器.分詞句物件(hunsu)
