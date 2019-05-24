@@ -5,9 +5,13 @@ from sys import argv
 from urllib.parse import quote
 
 from nltk.tree import Tree
+
+
 from 臺灣言語工具.解析整理.拆文分析器 import 拆文分析器
 from 臺灣言語工具.翻譯.摩西工具.摩西用戶端 import 摩西用戶端
 from 臺灣言語工具.翻譯.摩西工具.語句編碼器 import 語句編碼器
+from 臺灣言語工具.音標系統.閩南語.臺灣閩南語羅馬字拼音 import 臺灣閩南語羅馬字拼音
+from 臺灣言語工具.語音合成.閩南語音韻.變調判斷 import 變調判斷
 
 
 def kiatko(hunsu):
@@ -20,6 +24,8 @@ def kiatko(hunsu):
     print(句法)
     tshiu = uann_tso_taigi_kuhuat(句物件, 句法)
     tshiu.pretty_print()
+    變調 = 變調判斷.判斷(句物件.轉音(臺灣閩南語羅馬字拼音, '音值'))
+    print(變調)
 
 
 def susing(hunsu):
