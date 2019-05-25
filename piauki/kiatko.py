@@ -39,8 +39,7 @@ def susing(hunsu):
     )
     r1 = conn.getresponse()
     if r1.status != 200:
-        print(r1.status, r1.reason)
-        raise RuntimeError()
+        raise RuntimeError(r1.status, r1.reason, hunsu)
     詞性結果 = []
     for _分詞, 詞性 in json.loads(r1.read().decode('utf-8')):
         詞性結果.append(詞性)
@@ -96,8 +95,7 @@ def _kuhuat_mng(華語hunsu):
     )
     r1 = conn.getresponse()
     if r1.status != 200:
-        print(r1.status, r1.reason)
-        raise RuntimeError()
+        raise RuntimeError(r1.status, r1.reason, 華語hunsu)
     return json.loads(r1.read().decode('utf-8'))
 
 
