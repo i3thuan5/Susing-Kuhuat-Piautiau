@@ -2,7 +2,7 @@
 from csv import DictWriter
 from sys import stdin, stdout, stderr
 
-from kiatko import susing, huanik, kuhuat, uann_tso_taigi_kuhuat, pian_jitshuan
+from kiatko import pian_jitshuan
 
 
 from 臺灣言語工具.解析整理.拆文分析器 import 拆文分析器

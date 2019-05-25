@@ -15,6 +15,7 @@ cat 結案/ithuan-igua.txt | time docker-compose run -T piauki python sngpiauki.
 cat 結案/例句150.txt | time docker-compose run -T piauki python sngpiauki
 .py > leku150.csv
 cat 結案/散文5 | time docker-compose run -T piauki python sngpiauki.py > suannbun.csv
-cat 結案/kautian-leku.txt | head -n 1000 | time docker-compose run -T piauki python sngpiauki.py > kautian-leku.txt
-cat 結案/kautian.txt || timedocker-compose run -T piauki python sngpiauki.py > kautian.csv
+cat 結案/kautian-leku.txt | head -n 1000 | time docker-compose run -T piauki python sngpiauki.py > kautian-leku.csv
+cat 結案/kautian.txt | time docker-compose run -T piauki python sngpiauki.py > kautian.csv
+cat 結案/kautian.txt | time docker-compose run -T piauki python sngpiantiau.py > kautian2.csv
 ```
