@@ -25,7 +25,8 @@ def kiatko(hunsu):
     tshiu = uann_tso_taigi_kuhuat(句物件, 句法)
     tshiu.pretty_print()
     變調 = 變調判斷.判斷(句物件.轉音(臺灣閩南語羅馬字拼音, '音值'))
-    print(變調)
+    變調名 = pian_jitshuan(變調)
+    print(變調名)
 
 
 def susing(hunsu):
@@ -116,6 +117,13 @@ def uann_tshiu(su, tshiu):
         else:
             kiann.append(su.pop())
     return Tree(tshiu.label(), kiann)
+
+
+def pian_jitshuan(piantiau):
+    mia = []
+    for tiau in piantiau:
+        mia.append(str(tiau))
+    return mia
 
 
 if __name__ == '__main__':
