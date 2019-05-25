@@ -54,12 +54,25 @@ def huanik(句物件):
     華語句物件, 臺語句物件, _分數 = 用戶端.翻譯分析(句物件)
     huagisu = []
     for 詞物件 in 臺語句物件.網出詞物件():
-        huagisu.append(詞物件.翻譯目標詞陣列[-1].看型())
+        try:
+            huagisu.append(詞物件.翻譯目標詞陣列[-1].看型())
+        except IndexError:
+            huagisu.append(詞物件.看型())
     return 華語句物件, 拆文分析器.建立句物件(' '.join(huagisu))
 
 
 def kuhuat(華語句物件):
-    kuhuat_tree = _kuhuat_mng(華語句物件.看型('', ' '))
+    kuhuat_tree = _kuhuat_mng(
+        華語句物件.看型('', ' ')
+        .replace('𨑨迌', '走走').replace('迌', '走').replace('𨑨', '走')
+        .replace('𤉙湯', '煮湯').replace('𩛩', '夾')
+        .replace('𤆬', '帶')
+        .replace('𠢕', '強')
+        .replace('𣁳', '碗')
+        .replace('𪜶', '他')
+        .replace('紩', '縫')
+        .replace('𥍉', '閃')
+    )
     while True:
         tsiu = Tree.fromstring(kuhuat_tree)
         if len(tsiu.leaves()) == len(華語句物件.網出詞物件()):
