@@ -1,0 +1,2428 @@
+分詞,詞性,句法,變調
+"一｜tsit8 身｜sian1 人｜lang5
+","['Neu', 'Nf', 'Na']",(ROOT (IP (NP (NN 一｜tsit8) (NN 身｜sian1)) (VP (VA 人｜lang5)))),"['規則變調', '規則變調', '本調#']"
+"伊｜i1 干-焦｜kan1-na1 一｜tsit8 身｜sian1 人｜lang5 爾-爾｜nia7-nia7 ，｜, 無｜bo5 長｜tiong2 半｜puann3 項｜hang7 。｜.
+","['Nh', 'Da', 'Neu', 'Nf', 'Na', 'T', 'PUNC', 'D', 'Na', 'Neqa', 'Nf', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (NP (NR 伊｜i1))
+      (VP
+        (VV 干-焦｜kan1-na1)
+        (NP
+          (NP
+            (NP (QP (CD 一｜tsit8)) (NP (NN 身｜sian1)))
+            (NP (NN 人｜lang5)))
+          (NP (NN 爾-爾｜nia7-nia7)))))
+    (PU ，｜,)
+    (IP
+      (VP
+        (VE 無｜bo5)
+        (NP (NN 長｜tiong2))
+        (QP (CD 半｜puann3) (CLP (M 項｜hang7)))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"一-路｜tsit8-loo7
+",['D'],(ROOT (ADVP (AD 一-路｜tsit8-loo7))),"['規則變調', '本調#']"
+"祝｜tsiok4 恁｜lin2 一-路｜tsit8-loo7 平-安｜ping5-an1 。｜.
+","['VE', 'Nh', 'D', 'VH', 'PUNC']","(ROOT
+  (IP
+    (NP (NR 祝｜tsiok4))
+    (VP
+      (ADVP (AD 恁｜lin2))
+      (VP (VV 一-路｜tsit8-loo7) (NP (NN 平-安｜ping5-an1))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"一-霎-仔-久｜tsit8-tiap4-a2-ku2
+",['Nd'],(ROOT (FRAG (NR 一-霎-仔-久｜tsit8-tiap4-a2-ku2))),"['規則變調', '仔前變調&', '規則變調', '本調#']"
+"伊｜i1 來｜lai5 一-霎-仔-久｜tsit8-tiap4-a2-ku2 就｜to7 轉｜tng2 去｜0khi3 矣｜0ah4 。｜.
+","['Nh', 'D', 'Nd', 'D', 'VCL', 'Na', 'Na', 'PUNC']","(ROOT
+  (CP
+    (IP
+      (NP (NN 伊｜i1))
+      (VP
+        (VP (VV 來｜lai5) (VP (VV 一-霎-仔-久｜tsit8-tiap4-a2-ku2)))
+        (PU 就｜to7)
+        (VP (VRD (VV 轉｜tng2) (VV 去｜0khi3)))))
+    (SP 矣｜0ah4)
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '仔前變調&', '規則變調', '本調#', '規則變調', '本調#', '輕聲%', '輕聲%', '毋是台語']"
+"了-了｜liau2-liau2
+",['Na'],(ROOT (FRAG (NR 了-了｜liau2-liau2))),"['規則變調', '本調#']"
+"這｜tsit4 个｜e5 袂-使｜be7-sai2 ，｜, 彼｜hit4 个｜e5 毋-通｜m7-thang1 ，｜, 全｜tsuan5 你｜li2 的｜e5 意-見｜i3-kian3 了-了｜0liau2-liau2 。｜.
+","['Nep', 'Nf', 'D', 'PUNC', 'Nep', 'Nf', 'D', 'PUNC', 'Neqa', 'Nh', 'DE', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (IP (VP (VV 這｜tsit4) (IP (VP (VV 个｜e5)))))
+      (VP (VV 袂-使｜be7-sai2)))
+    (PU ，｜,)
+    (IP
+      (VP
+        (VP
+          (NN 彼｜hit4)
+          (NP (QP (CLP (M 个｜e5))) (NP (NN 毋-通｜m7-thang1))))
+        (PU ，｜,)
+        (IP
+          (ADVP (AD 全｜tsuan5))
+          (NP
+            (QP (QP (CD 你｜li2)) (ADVP (AD 的｜e5)))
+            (NP (NN 意-見｜i3-kian3)))
+          (VP (VV 了-了｜0liau2-liau2)))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '輕聲%', '輕聲%', '毋是台語']"
+"了-尾-仔-囝｜liau2-bue2-a2-kiann2 了-尾-仔-囝｜liau2-be2-a2-kiann2
+","['Na', 'Na']","(ROOT
+  (IP
+    (NP (NR 了-尾-仔-囝｜liau2-bue2-a2-kiann2))
+    (VP (VV 了-尾-仔-囝｜liau2-be2-a2-kiann2))))","['規則變調', '仔前變調&', '規則變調', '本調#', '規則變調', '仔前變調&', '規則變調', '本調#']"
+"你｜li2 著｜tioh8 較｜khah4 拍-拚｜phah4-piann3 咧｜0leh4 ，｜, 毋-通｜m7-thang1 做｜tso3 了-尾-仔-囝｜liau2-bue2-a2-kiann2 。｜.
+","['Nh', 'D', 'Dfa', 'VH', 'Na', 'PUNC', 'D', 'VC', 'Na', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (VP
+        (VV 你｜li2)
+        (AS 著｜tioh8)
+        (IP
+          (VP
+            (ADVP (AD 較｜khah4))
+            (VP (VV 拍-拚｜phah4-piann3) (NP (NN 咧｜0leh4)))))))
+    (PU ，｜,)
+    (IP
+      (VP
+        (NP
+          (NN 毋-通｜m7-thang1)
+          (NN 做｜tso3)
+          (NN 了-尾-仔-囝｜liau2-bue2-a2-kiann2))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '本調#', '輕聲%', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '仔前變調&', '規則變調', '本調#', '毋是台語']"
+"人-中｜jin5-tiong1 人-中｜lin5-tiong1
+","['Na', 'Na']",(ROOT (NP (NR 人-中｜jin5-tiong1) (NN 人-中｜lin5-tiong1))),"['規則變調', '規則變調', '規則變調', '本調#']"
+"人-中｜jin5-tiong1 長｜tng5 的｜e5 人｜lang5 較｜khah4 長-歲-壽｜tng5-hue3-siu7 。｜.
+","['Na', 'VH', 'DE', 'Na', 'Dfa', 'VH', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (ADVP (AD 人-中｜jin5-tiong1))
+      (VP
+        (NP
+          (NP (ADJP (JJ 長｜tng5)) (NP (JJ 的｜e5)))
+          (ADJP (JJ 人｜lang5))
+          (ADJP (JJ 較｜khah4))
+          (NP (NN 長-歲-壽｜tng5-hue3-siu7)))))
+    (PU 。｜.)))","['規則變調', '規則變調', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"人-面｜lang5-bin7
+",['Na'],(ROOT (NP (NN 人-面｜lang5-bin7))),"['規則變調', '本調#']"
+"伊｜i1 的｜e5 人-面｜lang5-bin7 真｜tsin1 闊｜khuah4 ，｜, 共｜ka7 伊｜i1 拜-託｜pai3-thok4 就｜to7 無-毋-著｜bo5-m7-tioh8 ！｜!
+","['Nh', 'DE', 'Na', 'Dfa', 'VH', 'PUNC', 'P', 'Nh', 'VC', 'D', 'D', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (VP
+        (ADVP (AD 伊｜i1))
+        (VP
+          (ADVP (AD 的｜e5))
+          (ADVP (AD 人-面｜lang5-bin7))
+          (ADVP (AD 真｜tsin1))
+          (VP (VA 闊｜khuah4)))))
+    (PU ，｜,)
+    (IP
+      (IP (VP (IP (VP (VV 共｜ka7))) (VP (VV 伊｜i1))))
+      (VP (VV 拜-託｜pai3-thok4)))
+    (IP (IP (VP (VV 就｜to7))) (VP (VV 無-毋-著｜bo5-m7-tioh8)))
+    (PU ！｜!)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"刁-古-董｜tiau1-koo2-tong2
+",['Na'],(ROOT (FRAG (NR 刁-古-董｜tiau1-koo2-tong2))),"['規則變調', '規則變調', '本調#']"
+"你｜li2 莫｜mai3 共｜ka7 伊｜i1 刁-古-董｜tiau1-koo2-tong2 。｜.
+","['Nh', 'D', 'P', 'Nh', 'Na', 'PUNC']","(ROOT
+  (IP
+    (DFL (PN 你｜li2))
+    (NP (PN 莫｜mai3))
+    (DFL (PN 共｜ka7) (PN 伊｜i1) (PN 刁-古-董｜tiau1-koo2-tong2))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"十-二-生-相｜tsap8-ji7-senn1-siunn3 十-二-生-相｜tsap8-li7-sinn1-siunn3
+","['Na', 'Na']","(ROOT
+  (IP
+    (VP
+      (ADVP (AD 十-二-生-相｜tsap8-ji7-senn1-siunn3))
+      (VP (AD 十-二-生-相｜tsap8-li7-sinn1-siunn3)))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"時-機｜si5-ki1 誠｜tsiann5 䆀｜bai2 ，｜, 害｜hai7 我｜gua2 十-二｜tsap8-ji7 生-相｜senn1-siunn3 變-透-透｜pian3-thau3-thau3 嘛｜ma7 變-無-撚｜pian3-bo5-lian2 。｜.
+","['Na', 'Dfa', 'VH', 'PUNC', 'VC', 'Nh', 'Neu', 'Na', 'Nc', 'D', 'Na', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (NP (NN 時-機｜si5-ki1))
+      (VP (ADVP (AD 誠｜tsiann5)) (VP (VV 䆀｜bai2))))
+    (PU ，｜,)
+    (IP
+      (VP
+        (IP
+          (VP
+            (ADVP (AD 害｜hai7))
+            (VP (ADVP (AD 我｜gua2)) (VP (AD 十-二｜tsap8-ji7)))))
+        (ADVP
+          (ADVP (AD 生-相｜senn1-siunn3))
+          (ADVP (AD 變-透-透｜pian3-thau3-thau3)))
+        (VP (VV 嘛｜ma7) (VP (VV 變-無-撚｜pian3-bo5-lian2)))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"十-八-變｜tsap8-peh4-pian3
+",['VH'],(ROOT (IP (VP (VV 十-八-變｜tsap8-peh4-pian3)))),"['規則變調', '規則變調', '本調#']"
+"我｜gua2 才｜tsiah4 看｜khuann3 你｜li2 按-怎｜an2-tsuann2 十-八-變｜tsap8-peh4-pian3 。｜.
+","['Nh', 'Da', 'VC', 'Nh', 'D', 'VH', 'PUNC']","(ROOT
+  (IP
+    (NP (PN 我｜gua2))
+    (VP
+      (ADVP (AD 才｜tsiah4))
+      (VP
+        (VV 看｜khuann3)
+        (NP
+          (ADJP (JJ 你｜li2))
+          (ADJP (JJ 按-怎｜an2-tsuann2))
+          (NP (NN 十-八-變｜tsap8-peh4-pian3)))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"十-足｜tsap8-tsiok4
+",['D'],(ROOT (IP (VP (VA 十-足｜tsap8-tsiok4)))),"['規則變調', '本調#']"
+"睏-飽｜khun3-pa2 了-後｜liau2-au7 ，｜, 氣-力｜khui3-lat8 十-足｜tsap8-tsiok4 。｜.
+","['VH', 'Ng', 'PUNC', 'Na', 'D', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (NP
+        (LCP (ADVP (AD 睏-飽｜khun3-pa2)) (LC 了-後｜liau2-au7))
+        (PU ，｜,)
+        (NP (NN 氣-力｜khui3-lat8) (NN 十-足｜tsap8-tsiok4))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"三-不-五-時｜sam1-put4-goo7-si5
+",['D'],(ROOT (ADVP (AD 三-不-五-時｜sam1-put4-goo7-si5))),"['規則變調', '規則變調', '規則變調', '本調#']"
+"伊｜i1 三-不-五-時｜sam1-put4-goo7-si5 就｜to7 來｜lai5 阮｜guan2 兜｜tau1 行-踏｜kiann5-tah8 。｜.
+","['Nh', 'D', 'D', 'D', 'Nh', 'Nc', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (NP
+        (NN 伊｜i1)
+        (NN 三-不-五-時｜sam1-put4-goo7-si5)
+        (NN 就｜to7)
+        (NN 來｜lai5)
+        (NN 阮｜guan2)
+        (NN 兜｜tau1)
+        (NN 行-踏｜kiann5-tah8)))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"三-角-窗｜sann1-kak4-thang1
+",['VA'],(ROOT (NP (NN 三-角-窗｜sann1-kak4-thang1))),"['規則變調', '規則變調', '本調#']"
+"三-角-窗｜sann1-kak4-thang1 的｜e5 厝｜tshu3 來｜lai5 做｜tso3 店-面｜tiam3-bin7 上｜siong7 好｜ho2 。｜.
+","['VA', 'DE', 'Na', 'D', 'VC', 'Na', 'Dfa', 'VH', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (NP (NN 三-角-窗｜sann1-kak4-thang1))
+      (VP
+        (NP (QP (CD 的｜e5)) (NP (NN 厝｜tshu3)))
+        (VP
+          (MSP 來｜lai5)
+          (VP
+            (VV 做｜tso3)
+            (IP
+              (LCP (NP (NN 店-面｜tiam3-bin7)) (LC 上｜siong7))
+              (VP (VA 好｜ho2)))))))
+    (PU 。｜.)))","['規則變調', '規則變調', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"三-跤-貓｜sann1-kha1-niau1
+",['Na'],(ROOT (NP (NN 三-跤-貓｜sann1-kha1-niau1))),"['規則變調', '規則變調', '本調#']"
+"三-跤-貓｜sann1-kha1-niau1 笑｜tshio3 一｜tsit8 目｜bak8 狗｜kau2 。｜.
+","['Na', 'VA', 'Neu', 'Nf', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP
+      (NP (NN 三-跤-貓｜sann1-kha1-niau1) (NN 笑｜tshio3))
+      (NP (QP (CD 一｜tsit8)) (NP (NN 目｜bak8))))
+    (PU 狗｜kau2)
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"三｜sann1 頓｜tng3
+","['Neu', 'Nf']",(ROOT (NP (NP (NR 三｜sann1)) (NP (NN 頓｜tng3)))),"['規則變調', '本調#']"
+"時-機｜si5-ki1 遐｜hiah4 䆀｜bai2 ，｜, 三｜sann1 頓｜tng3 若｜na7 顧｜koo3 會｜e7 齊-勻｜tsiau5-un5 就｜to7 誠｜tsiann5 佳-哉｜ka1-tsai3 矣｜0ah4 。｜.
+","['Na', 'D', 'VH', 'PUNC', 'Neu', 'Nf', 'Cbb', 'VC', 'D', 'VH', 'D', 'Dfa', 'D', 'Na', 'PUNC']","(ROOT
+  (IP
+    (IP (NP (NN 時-機｜si5-ki1)) (VP (VCD (VA 遐｜hiah4) (VA 䆀｜bai2))))
+    (PU ，｜,)
+    (IP
+      (NP (NN 三｜sann1) (NN 頓｜tng3) (NN 若｜na7))
+      (VP (VV 顧｜koo3) (IP (NP (NN 會｜e7)) (VP (VA 齊-勻｜tsiau5-un5)))))
+    (PU 就｜to7)
+    (CP (NP (NN 誠｜tsiann5)) (FLR (SP 佳-哉｜ka1-tsai3)) (SP 矣｜0ah4))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '輕聲%', '毋是台語']"
+"上-久｜siong7-ku2 上-久｜siang7-ku2
+","['Na', 'Na']",(ROOT (IP (VP (ADVP (AD 上-久｜siong7-ku2)) (VP (VV 上-久｜siang7-ku2))))),"['規則變調', '規則變調', '規則變調', '本調#']"
+"對｜tui3 臺-北｜tai5-pak4 坐｜tse7 飛-機｜hui1-ki1 到｜kau3 高-雄｜ko1-hiong5 上-久｜siong7-ku2 是｜si7 一｜tsit8 點-鐘｜tiam2-tsing1 。｜.
+","['P', 'Nc', 'VA', 'Na', 'P', 'Nc', 'Na', 'SHI', 'Neu', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (PP (P 對｜tui3) (NP (NR 臺-北｜tai5-pak4)))
+      (VP
+        (VP
+          (VP (VV 坐｜tse7) (NP (NN 飛-機｜hui1-ki1)))
+          (VP (VV 到｜kau3) (NP (NR 高-雄｜ko1-hiong5))))
+        (VP
+          (ADVP (AD 上-久｜siong7-ku2))
+          (VP
+            (VC 是｜si7)
+            (IP (NP (NN 一｜tsit8)) (VP (VV 點-鐘｜tiam2-tsing1)))))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"上-水｜tsiunn7-tsui2
+",['Na'],(ROOT (IP (VP (VV 上-水｜tsiunn7-tsui2)))),"['規則變調', '本調#']"
+"彼｜hit4 口｜khau2 井｜tsenn2 敢｜kam2 閣｜koh4 有｜u7 咧｜teh4 上-水｜tshiunn7-tsui2 ？｜?
+","['Nep', 'Nf', 'Na', 'D', 'D', 'V_2', 'P', 'VC', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (LCP (NP (NN 彼｜hit4)) (LC 口｜khau2))
+      (NP (NN 井｜tsenn2))
+      (VP
+        (LCP (IP (VP (VV 敢｜kam2) (NP (NN 閣｜koh4)))) (LC 有｜u7))
+        (ADVP (AD 咧｜teh4))
+        (VP (VV 上-水｜tshiunn7-tsui2))))
+    (PU ？｜?)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '再變調$', '規則變調', '本調#', '毋是台語']"
+"上-加｜siong7-ke1 上-加｜siang7-ke1
+","['Na', 'Na']",(ROOT (NP (NR 上-加｜siong7-ke1) (NR 上-加｜siang7-ke1))),"['規則變調', '規則變調', '規則變調', '本調#']"
+"遮-的｜tsia1-e5 上-加｜siong7-ke1 是｜si7 兩｜nng7 百｜pah4 箍｜khoo1 。｜.
+","['Neqa', 'Na', 'SHI', 'Neu', 'Neu', 'Nf', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (NP
+        (NR 遮-的｜tsia1-e5)
+        (NR 上-加｜siong7-ke1)
+        (NR 是｜si7)
+        (NR 兩｜nng7)
+        (NR 百｜pah4)
+        (NR 箍｜khoo1)))
+    (PU 。｜.)))","['本調#', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"上-殕｜tshiunn7-phu2
+",['VH'],(ROOT (IP (VP (VV 上-殕｜tshiunn7-phu2)))),"['規則變調', '本調#']"
+"這｜tsit4 塊｜te3 餅｜piann2 已-經｜i2-king1 上-殕｜tshiunn7-phu2 矣｜0ah4 ，｜, 你｜li2 袂-使｜be7-sai2 提｜theh8 去｜khi3 食｜tsiah8 。｜.
+","['Nep', 'Nf', 'Na', 'D', 'VH', 'Na', 'PUNC', 'Nh', 'D', 'VC', 'D', 'VC', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (DFL
+        (DEG 這｜tsit4)
+        (NP
+          (NN 塊｜te3)
+          (NN 餅｜piann2)
+          (SP 已-經｜i2-king1)
+          (VV 上-殕｜tshiunn7-phu2)))
+      (FLR (SP 矣｜0ah4))
+      (PU ，｜,)
+      (NP (PN 你｜li2))
+      (VP
+        (VP (VV 袂-使｜be7-sai2))
+        (VP (VV 提｜theh8) (NP (NN 去｜khi3) (NN 食｜tsiah8)))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '輕聲%', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '再變調$', '本調#', '毋是台語']"
+"上-課｜siong7-kho3
+",['VA'],(ROOT (IP (VP (VV 上-課｜siong7-kho3)))),"['規則變調', '本調#']"
+"學-生｜hak8-sing1 囡-仔｜gin2-a2 逐｜tak8 工｜kang1 攏｜long2 愛｜ai3 去｜khi3 學-校｜hak8-hau7 上-課｜siong7-kho3 。｜.
+","['Na', 'Na', 'Nes', 'Nf', 'D', 'D', 'D', 'Nc', 'VA', 'PUNC']","(ROOT
+  (UCP
+    (NP (NN 學-生｜hak8-sing1))
+    (PU 囡-仔｜gin2-a2)
+    (IP
+      (VP
+        (VV 逐｜tak8)
+        (NP (NN 工｜kang1))
+        (IP
+          (VP
+            (VV 攏｜long2)
+            (IP
+              (VP
+                (VP (VV 愛｜ai3) (NP (NN 去｜khi3) (NN 學-校｜hak8-hau7)))
+                (VP (VV 上-課｜siong7-kho3))))))))
+    (PU 。｜.)))","['規則變調', '規則變調', '仔前變調&', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '再變調$', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"下-勻｜e7-un5
+",['Na'],(ROOT (IP (VP (VV 下-勻｜e7-un5)))),"['規則變調', '本調#']"
+"這-馬｜tsit4-ma2 下-勻｜e7-un5 的｜e5 少-年｜siau3-lian5 人｜lang5 ，｜, 想-法｜siunn7-huat4 佮｜kah4 阮｜guan2 往-過｜ing2-kue3 攏｜long2 無-仝｜bo5-kang7 。｜.
+","['Nd', 'Na', 'DE', 'VH', 'Na', 'PUNC', 'Na', 'P', 'Nh', 'Nd', 'D', 'VH', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (NP
+        (NP
+          (NP
+            (NP
+              (NP (NP (NN 這-馬｜tsit4-ma2)) (NP (NN 下-勻｜e7-un5)))
+              (NP (NN 的｜e5)))
+            (NP (NN 少-年｜siau3-lian5)))
+          (NP (NN 人｜lang5)))
+        (PU ，｜,)
+        (NP
+          (ADJP (JJ 想-法｜siunn7-huat4))
+          (ADJP (JJ 佮｜kah4))
+          (ADJP (JJ 阮｜guan2))
+          (ADJP (JJ 往-過｜ing2-kue3))
+          (ADJP (JJ 攏｜long2))
+          (NP (NN 無-仝｜bo5-kang7)))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"下-早-仔｜e1-tsai2-a2
+",['Nd'],(ROOT (FRAG (NR 下-早-仔｜e1-tsai2-a2))),"['規則變調', '仔前變調&', '本調#']"
+"下-早-仔｜e1-tsai2-a2 去｜khi3 較｜khah4 袂｜be7 熱｜juah8 。｜.
+","['Nd', 'D', 'Dfa', 'D', 'VHC', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (NP
+        (NP (ADJP (JJ 下-早-仔｜e1-tsai2-a2)) (NP (NN 去｜khi3)))
+        (NP (NN 較｜khah4) (NN 袂｜be7))
+        (NP (NN 熱｜juah8))))
+    (PU 。｜.)))","['規則變調', '仔前變調&', '本調#', '再變調$', '規則變調', '規則變調', '本調#', '毋是台語']"
+"下-跤｜e7-kha1
+",['Ncd'],(ROOT (NP (NN 下-跤｜e7-kha1))),"['規則變調', '本調#']"
+"我｜gua2 佇｜ti7 下-跤｜e7-kha1 等｜tan2 伊｜i1 落｜loh8 來｜0lai5 。｜.
+","['Nh', 'P', 'Ncd', 'Cab', 'Nh', 'VC', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP
+      (DEG 我｜gua2)
+      (NP (NN 佇｜ti7) (NN 下-跤｜e7-kha1) (ETC 等｜tan2))
+      (NP (NN 伊｜i1)))
+    (PU 落｜loh8)
+    (VP (VV 來｜0lai5))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '輕聲%', '毋是台語']"
+"下-跤-手-人｜e7-kha1-tshiu2-lang5
+",['Na'],(ROOT (NP (NN 下-跤-手-人｜e7-kha1-tshiu2-lang5))),"['規則變調', '規則變調', '規則變調', '本調#']"
+"𪜶｜in1 兜｜tau1 倩｜tshiann3 真｜tsin1 濟｜tse7 下-跤-手-人｜e7-kha1-tshiu2-lang5 。｜.
+","['Nh', 'Nc', 'VF', 'Dfa', 'VH', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (NP
+        (NP
+          (NP (NN 𪜶｜in1) (NN 兜｜tau1) (NN 倩｜tshiann3) (NN 真｜tsin1))
+          (NP (NN 濟｜tse7)))
+        (NP (NN 下-跤-手-人｜e7-kha1-tshiu2-lang5))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"乞-食｜khit4-tsiah8
+",['Na'],(ROOT (NP (NN 乞-食｜khit4-tsiah8))),"['規則變調', '本調#']"
+"人｜lang5 若｜na7 肯｜khing2 拍-拚｜phah4-piann3 ，｜, 乞-食｜khit4-tsiah8 也｜ia7 會｜e7 出-頭-天｜tshut4-thau5-thinn1 。｜.
+","['Na', 'Cbb', 'VL', 'VH', 'PUNC', 'Na', 'D', 'D', 'VH', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (VP
+        (ADVP (AD 人｜lang5))
+        (VP
+          (VP (VV 若｜na7))
+          (VP (ADVP (AD 肯｜khing2)) (VP (VV 拍-拚｜phah4-piann3)))))
+      (PU ，｜,)
+      (VP
+        (VV 乞-食｜khit4-tsiah8)
+        (IP
+          (VP
+            (VV 也｜ia7)
+            (IP (VP (VCD (VV 會｜e7) (VV 出-頭-天｜tshut4-thau5-thinn1))))))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"凡-勢｜huan7-se3
+",['Nd'],(ROOT (FRAG (NR 凡-勢｜huan7-se3))),"['規則變調', '本調#']"
+"天｜thinn1 遐-爾-仔｜hiah4-ni7-a2 烏｜oo1 ，｜, 等｜tan2 咧｜0leh4 凡-勢｜huan7-se3 會｜e7 落-雨｜loh8-hoo7 。｜.
+","['Nc', 'D', 'VH', 'PUNC', 'Cab', 'Na', 'Nd', 'D', 'VA', 'PUNC']","(ROOT
+  (IP
+    (NP
+      (ADJP (JJ 天｜thinn1))
+      (ADJP (JJ 遐-爾-仔｜hiah4-ni7-a2))
+      (NP (NN 烏｜oo1)))
+    (PU ，｜,)
+    (VP
+      (VV 等｜tan2)
+      (IP
+        (NP (NN 咧｜0leh4) (NN 凡-勢｜huan7-se3) (NN 會｜e7))
+        (VP (VV 落-雨｜loh8-hoo7))))
+    (PU 。｜.)))","['規則變調', '規則變調', '仔前變調&', '本調#', '規則變調', '毋是台語', '本調#', '輕聲%', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"口-灶｜khau2-tsau3
+",['Nf'],(ROOT (NP (NN 口-灶｜khau2-tsau3))),"['規則變調', '本調#']"
+"這｜tsit4 个｜e5 庄-頭｜tsng1-thau5 無｜bo5 偌｜gua7 大｜tua7 ，｜, 蹛｜tua3 無｜bo5 幾｜kui2 口-灶｜khau2-tsau3 。｜.
+","['Nep', 'Nf', 'Nc', 'D', 'Dfa', 'VH', 'PUNC', 'VCL', 'D', 'Neu', 'Nf', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (NP (DP (DT 這｜tsit4) (CLP (M 个｜e5))) (NP (NN 庄-頭｜tsng1-thau5)))
+      (VP
+        (VP (VE 無｜bo5) (NP (ADJP (JJ 偌｜gua7)) (NP (NN 大｜tua7))))
+        (PU ，｜,)
+        (VP
+          (ADVP (AD 蹛｜tua3))
+          (VP (VV 無｜bo5) (NP (NN 幾｜kui2) (NN 口-灶｜khau2-tsau3))))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"口-供｜khau2-king1
+",['VF'],(ROOT (NP (NN 口-供｜khau2-king1))),"['規則變調', '本調#']"
+"伊｜i1 去｜khi3 予｜hoo7 警-察｜king2-tshat4 召｜tiau3 去｜khi3 問｜mng7 口-供｜khau2-king1 。｜.
+","['Nh', 'D', 'P', 'Na', 'VG', 'D', 'VE', 'VF', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (VV 伊｜i1)
+      (IP
+        (VP
+          (VV 去｜khi3)
+          (VP
+            (VV 予｜hoo7)
+            (NP (NN 警-察｜king2-tshat4))
+            (IP
+              (VP
+                (VV 召｜tiau3)
+                (IP
+                  (VP
+                    (MSP 去｜khi3)
+                    (VP (VV 問｜mng7) (NP (NN 口-供｜khau2-king1)))))))))))
+    (PU 。｜.)))","['規則變調', '再變調$', '規則變調', '規則變調', '規則變調', '規則變調', '再變調$', '規則變調', '規則變調', '本調#', '毋是台語']"
+"口-座｜khau2-tso7
+",['Na'],(ROOT (NP (NN 口-座｜khau2-tso7))),"['規則變調', '本調#']"
+"伊｜i1 佇｜ti7 彼｜hit4 間｜king1 銀-行｜gin5-hang5 有｜u7 一｜tsit8 个｜e5 口-座｜khau2-tso7 。｜.
+","['Nh', 'P', 'Nep', 'Nf', 'Nc', 'V_2', 'Neu', 'Nf', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (VV 伊｜i1)
+      (IP
+        (NP
+          (LCP (NP (ADJP (JJ 佇｜ti7)) (NP (NN 彼｜hit4))) (LC 間｜king1))
+          (NP (NN 銀-行｜gin5-hang5)))
+        (VP
+          (VE 有｜u7)
+          (NP
+            (ADJP (JJ 一｜tsit8))
+            (QP (CLP (M 个｜e5)))
+            (NP (NN 口-座｜khau2-tso7))))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"土-公-仔-性｜thoo2-kong1-a2-sing3
+",['VH'],(ROOT (FRAG (NR 土-公-仔-性｜thoo2-kong1-a2-sing3))),"['規則變調', '仔前變調&', '規則變調', '本調#']"
+"伊｜i1 就｜to7 是｜si7 彼｜hit4 款｜khuan2 土-公-仔-性｜thoo2-kong1-a2-sing3 ，｜, 你｜li2 莫｜mai3 佮｜kah4 伊｜i1 計-較｜ke3-kau3 。｜.
+","['Nh', 'D', 'SHI', 'Nep', 'Nf', 'VH', 'PUNC', 'Nh', 'D', 'P', 'Nh', 'VK', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (VP
+        (VP (VV 伊｜i1))
+        (PU 就｜to7)
+        (VP
+          (VP (VA 是｜si7))
+          (NP
+            (DNP (NP (NN 彼｜hit4)) (DEG 款｜khuan2))
+            (NP (NN 土-公-仔-性｜thoo2-kong1-a2-sing3))))))
+    (PU ，｜,)
+    (NP (NN 你｜li2))
+    (VP
+      (ADVP (AD 莫｜mai3))
+      (VP (VP (VV 佮｜kah4) (NP (NR 伊｜i1))) (VP (VV 計-較｜ke3-kau3))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '仔前變調&', '規則變調', '本調#', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"土-話｜thoo2-ue7
+",['Na'],(ROOT (NP (NN 土-話｜thoo2-ue7))),"['規則變調', '本調#']"
+"土-人｜thoo2-lang5 講｜kong2 土-話｜thoo2-ue7 。｜.
+","['Na', 'VE', 'Na', 'PUNC']","(ROOT
+  (IP
+    (CP
+      (IP (NP (NN 土-人｜thoo2-lang5)) (VP (VV 講｜kong2)))
+      (SP 土-話｜thoo2-ue7))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"大-主-大-意｜tua7-tsu2-tua7-i3
+",['VL'],(ROOT (NP (NN 大-主-大-意｜tua7-tsu2-tua7-i3))),"['規則變調', '規則變調', '規則變調', '本調#']"
+"啥-人｜siann2-lang5 叫｜kio3 你｜li2 大-主-大-意｜tua7-tsu2-tua7-i3 做｜tso3 這｜tsit4 件｜kiann7 代-誌｜tai7-tsi3 ？｜?
+","['Nh', 'VF', 'Nh', 'VL', 'VC', 'Nep', 'Nf', 'Na', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (NP (PN 啥-人｜siann2-lang5))
+      (VP
+        (VV 叫｜kio3)
+        (NP (PN 你｜li2))
+        (IP
+          (VP
+            (VV 大-主-大-意｜tua7-tsu2-tua7-i3)
+            (NP
+              (NN 做｜tso3)
+              (NN 這｜tsit4)
+              (NN 件｜kiann7)
+              (NN 代-誌｜tai7-tsi3))))))
+    (PU ？｜?)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"大｜tua7 代-誌｜tai7-tsi3
+","['VH', 'Na']",(ROOT (NP (ADJP (JJ 大｜tua7)) (NP (NN 代-誌｜tai7-tsi3)))),"['規則變調', '規則變調', '本調#']"
+"這｜tse1 毋｜m7 是｜si7 啥-物｜siann2-mih4 大｜tua7 代-誌｜tai7-tsi3 。｜.
+","['Nep', 'D', 'SHI', 'Nep', 'VH', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (NP
+        (NN 這｜tse1)
+        (NN 毋｜m7)
+        (NN 是｜si7)
+        (NN 啥-物｜siann2-mih4)
+        (NN 大｜tua7)
+        (NN 代-誌｜tai7-tsi3)))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"大-名｜tua7-mia5
+",['Na'],(ROOT (NP (NN 大-名｜tua7-mia5))),"['規則變調', '本調#']"
+"伊｜i1 的｜e5 大-名｜tua7-mia5 ，｜, 大-部-份｜tua7-poo7-hun7 的｜e5 人｜lang5 攏｜long2 知｜tsai1 。｜.
+","['Nh', 'DE', 'Na', 'PUNC', 'Neqa', 'DE', 'Na', 'D', 'VK', 'PUNC']","(ROOT
+  (IP
+    (NP (DNP (NP (NN 伊｜i1)) (DEG 的｜e5)) (NP (NN 大-名｜tua7-mia5)))
+    (PU ，｜,)
+    (VP
+      (QP (QP (CD 大-部-份｜tua7-poo7-hun7)) (ADVP (AD 的｜e5)))
+      (VP (VV 人｜lang5) (IP (VP (VV 攏｜long2) (NP (VV 知｜tsai1))))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"大-面-神｜tua7-bin7-sin5
+",['D'],(ROOT (NP (NN 大-面-神｜tua7-bin7-sin5))),"['規則變調', '規則變調', '本調#']"
+"彼｜hit4 个｜e5 人｜lang5 有-夠｜u7-kau3 大-面-神｜tua7-bin7-sin5 ，｜, 攏｜long2 毋｜m7 知-影｜tsai1-iann2 通｜thang1 歹-勢｜phainn2-se3 。｜.
+","['Nep', 'Nf', 'Na', 'Dfa', 'D', 'PUNC', 'D', 'D', 'VK', 'D', 'VH', 'PUNC']","(ROOT
+  (IP
+    (NP
+      (ADJP (JJ 彼｜hit4))
+      (NP
+        (QP (CLP (M 个｜e5)))
+        (IP (NP (NN 人｜lang5)) (VP (VA 有-夠｜u7-kau3)))
+        (NP (NN 大-面-神｜tua7-bin7-sin5))))
+    (PU ，｜,)
+    (VP
+      (VP
+        (VV 攏｜long2)
+        (NP (ADJP (JJ 毋｜m7)) (NP (NN 知-影｜tsai1-iann2))))
+      (VP (VV 通｜thang1) (NP (NN 歹-勢｜phainn2-se3))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"大-家-口｜tua7-ke1-khau2
+",['Na'],(ROOT (NP (NN 大-家-口｜tua7-ke1-khau2))),"['規則變調', '規則變調', '本調#']"
+"𪜶｜in1 兜｜tau1 是｜si7 大-家-口｜tua7-ke1-khau2 ，｜, 扞-家｜huann7-ke1 的｜e5 人｜lang5 誠｜tsiann5 忝-頭｜thiam2-thau5 。｜.
+","['Nh', 'Nc', 'SHI', 'Na', 'PUNC', 'VA', 'DE', 'Na', 'Dfa', 'VH', 'PUNC']","(ROOT
+  (IP
+    (NP (NN 𪜶｜in1) (NN 兜｜tau1) (NN 是｜si7) (NN 大-家-口｜tua7-ke1-khau2))
+    (PU ，｜,)
+    (VP
+      (VA 扞-家｜huann7-ke1)
+      (VP
+        (VA 的｜e5)
+        (VP (VA 人｜lang5) (VCD (VA 誠｜tsiann5) (VA 忝-頭｜thiam2-thau5)))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"大-細-目｜tua7-se3-ba1 大-細-目｜tua7-sue3-ba1
+","['Na', 'Na']",(ROOT (NP (NN 大-細-目｜tua7-se3-ba1) (NN 大-細-目｜tua7-sue3-ba1))),"['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"你｜li2 看｜khuann3 人｜lang5 大-細-目｜tua7-se3-bak8 ，｜, 早-慢｜tsa2-ban7 會｜e7 出-代-誌｜tshut4-tai7-tsi3 。｜.
+","['Nh', 'VC', 'Na', 'Na', 'PUNC', 'D', 'D', 'VH', 'PUNC']","(ROOT
+  (IP
+    (NP (ADJP (JJ 你｜li2)) (ADJP (JJ 看｜khuann3)) (NP (NN 人｜lang5)))
+    (VP
+      (VP (VA 大-細-目｜tua7-se3-bak8))
+      (PU ，｜,)
+      (VP
+        (VV 早-慢｜tsa2-ban7)
+        (IP (VP (VV 會｜e7) (IP (VP (VV 出-代-誌｜tshut4-tai7-tsi3)))))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"大-量｜tai7-liong7
+",['Neqa'],(ROOT (QP (CD 大-量｜tai7-liong7))),"['規則變調', '本調#']"
+"大-量｜tai7-liong7 生-產｜sing1-san2 才｜tsiah4 算｜sng3 會｜e7 和｜ho5 。｜.
+","['Neqa', 'VC', 'Da', 'VG', 'D', 'VC', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (VP
+        (VA 大-量｜tai7-liong7)
+        (VA 生-產｜sing1-san2)
+        (VP (VA 才｜tsiah4) (VA 算｜sng3) (VA 會｜e7)))
+      (VP (VA 和｜ho5)))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"大-話｜tua7-ue7
+",['VA'],(ROOT (NP (NN 大-話｜tua7-ue7))),"['規則變調', '本調#']"
+"毋-通｜m7-thang1 定-定｜tiann7-tiann7 講｜kong2 大-話｜tua7-ue7 。｜.
+","['D', 'D', 'VE', 'VA', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (NP
+        (NN 毋-通｜m7-thang1)
+        (NN 定-定｜tiann7-tiann7)
+        (NN 講｜kong2)
+        (NN 大-話｜tua7-ue7)))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"大-路｜tua7-loo7
+",['Na'],(ROOT (NP (NN 大-路｜tua7-loo7))),"['規則變調', '本調#']"
+"你｜li2 著｜tioh8 較｜khah4 大-路｜tua7-loo7 咧｜0leh4 ，｜, 毋-通｜m7-thang1 凍-霜｜tang3-sng1 。｜.
+","['Nh', 'D', 'Dfa', 'Na', 'Na', 'PUNC', 'D', 'VH', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (VP
+        (VV 你｜li2)
+        (AS 著｜tioh8)
+        (IP
+          (VP
+            (PP (P 較｜khah4) (NP (NN 大-路｜tua7-loo7)))
+            (VP (VA 咧｜0leh4))))))
+    (PU ，｜,)
+    (IP (NP (NN 毋-通｜m7-thang1)) (VP (VV 凍-霜｜tang3-sng1)))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '本調#', '輕聲%', '毋是台語', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"小-可-仔｜sio2-khua2-a2
+",['VH'],(ROOT (FRAG (NR 小-可-仔｜sio2-khua2-a2))),"['規則變調', '仔前變調&', '本調#']"
+"小-可-仔｜sio2-khua2-a2 錢｜tsinn5 嘛｜ma7 是｜si7 錢｜tsinn5 ，｜, 該｜kai1 儉｜khiam7 著｜tioh8 愛｜ai3 儉｜khiam7 。｜.
+","['VH', 'Na', 'D', 'SHI', 'Na', 'PUNC', 'D', 'VC', 'D', 'D', 'VC', 'PUNC']","(ROOT
+  (IP
+    (NP
+      (NN 小-可-仔｜sio2-khua2-a2)
+      (NN 錢｜tsinn5)
+      (NN 嘛｜ma7)
+      (NN 是｜si7)
+      (NN 錢｜tsinn5))
+    (PU ，｜,)
+    (VP
+      (VV 該｜kai1)
+      (VP
+        (VV 儉｜khiam7)
+        (IP
+          (VP (VV 著｜tioh8) (VP (VV 愛｜ai3) (IP (VP (VV 儉｜khiam7))))))))
+    (PU 。｜.)))","['規則變調', '仔前變調&', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"工-課｜khang1-khue3
+",['Na'],(ROOT (NP (NN 工-課｜khang1-khue3))),"['規則變調', '本調#']"
+"我｜gua2 的｜e5 工-課｜khang1-khue3 足｜tsiok4 濟｜tse7 的｜0e5 。｜.
+","['Nh', 'DE', 'Na', 'Dfa', 'VH', 'Na', 'PUNC']","(ROOT
+  (CP
+    (IP
+      (DFL (DEG 我｜gua2) (DEG 的｜e5))
+      (NP (NN 工-課｜khang1-khue3))
+      (VP (VV 足｜tsiok4) (AS 濟｜tse7)))
+    (SP 的｜0e5)
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '隨前變調@', '毋是台語']"
+"才-調｜tsai5-tiau7
+",['Na'],(ROOT (NP (NN 才-調｜tsai5-tiau7))),"['規則變調', '本調#']"
+"有｜u7 才-調｜tsai5-tiau7 你｜li2 早｜tsa2 就｜to7 考-牢｜kho2-tiau5 矣｜0ah4 ！｜!
+","['V_2', 'Na', 'Nh', 'D', 'D', 'VC', 'Na', 'PUNC']","(ROOT
+  (CP
+    (IP
+      (ADVP (AD 有｜u7))
+      (NP (NN 才-調｜tsai5-tiau7))
+      (VP (VV 你｜li2) (VP (VA 早｜tsa2)))
+      (PU 就｜to7)
+      (VP (NN 考-牢｜kho2-tiau5)))
+    (SP 矣｜0ah4)
+    (PU ！｜!)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '輕聲%', '毋是台語']"
+"不-時｜put4-si5
+",['D'],(ROOT (ADVP (AD 不-時｜put4-si5))),"['規則變調', '本調#']"
+"伊｜i1 不-時｜put4-si5 嘛｜ma7 咧｜teh4 讀｜thak8 冊｜tsheh4 。｜.
+","['Nh', 'D', 'D', 'P', 'VC', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (VV 伊｜i1)
+      (VP
+        (VV 不-時｜put4-si5)
+        (IP
+          (VP
+            (VV 嘛｜ma7)
+            (IP
+              (VP
+                (VV 咧｜teh4)
+                (VP (VV 讀｜thak8) (IP (VP (VV 冊｜tsheh4))))))))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '再變調$', '規則變調', '本調#', '毋是台語']"
+"不-答-不-七｜put4-tap4-put4-tshit4
+",['Na'],(ROOT (IP (VP (VV 不-答-不-七｜put4-tap4-put4-tshit4)))),"['規則變調', '規則變調', '規則變調', '本調#']"
+"你｜li2 莫｜mai3 見｜kian3 講｜kong2 攏｜long2 是｜si7 一-寡｜tsit8-kua2 不-答-不-七｜put4-tap4-put4-tshit4 的｜e5 話｜ue7 。｜.
+","['Nh', 'D', 'VE', 'VE', 'D', 'SHI', 'Neqa', 'Na', 'DE', 'Na', 'PUNC']","(ROOT
+  (IP
+    (CP
+      (IP
+        (VP
+          (ADVP (AD 你｜li2))
+          (VP
+            (ADVP (AD 莫｜mai3))
+            (VP
+              (VV 見｜kian3)
+              (IP
+                (NP (NR 講｜kong2))
+                (VP
+                  (VRD (VV 攏｜long2) (VA 是｜si7))
+                  (NP
+                    (NP (NN 一-寡｜tsit8-kua2))
+                    (QP (CD 不-答-不-七｜put4-tap4-put4-tshit4))
+                    (NP (NN 的｜e5)))))))))
+      (SP 話｜ue7))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '本調#', '毋是台語']"
+"中-人｜tiong1-lang5
+",['Na'],(ROOT (NP (NN 中-人｜tiong1-lang5))),"['規則變調', '本調#']"
+"你｜li2 若｜na7 欲｜beh4 買｜be2 厝｜tshu3 ，｜, 就｜to7 去｜khi3 揣｜tshue7 伊｜i1 做｜tso3 中-人｜tiong1-lang5 。｜.
+","['Nh', 'Cbb', 'D', 'VC', 'Na', 'PUNC', 'D', 'D', 'VC', 'Nh', 'VC', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (NP
+        (NP
+          (NN 你｜li2)
+          (NN 若｜na7)
+          (NN 欲｜beh4)
+          (NN 買｜be2)
+          (NN 厝｜tshu3))
+        (PU ，｜,)
+        (NP
+          (NN 就｜to7)
+          (NN 去｜khi3)
+          (NN 揣｜tshue7)
+          (NN 伊｜i1)
+          (NN 做｜tso3)
+          (NN 中-人｜tiong1-lang5))))
+    (PU 。｜.)))","['規則變調', '規則變調', '再變調$', '規則變調', '規則變調', '毋是台語', '規則變調', '再變調$', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"中-計｜tiong3-ke3
+",['Na'],(ROOT (NP (NN 中-計｜tiong3-ke3))),"['規則變調', '本調#']"
+"伊｜i1 咧｜teh4 騙｜phian3 你｜0li2 ，｜, 你｜li2 毋-通｜m7-thang1 中-計｜tiong3-ke3 。｜.
+","['Nh', 'P', 'VC', 'Na', 'PUNC', 'Nh', 'D', 'Na', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (NP (NN 伊｜i1))
+      (VP (ADVP (AD 咧｜teh4)) (VP (VV 騙｜phian3) (NP (PN 你｜0li2)))))
+    (PU ，｜,)
+    (NP (NN 你｜li2) (NN 毋-通｜m7-thang1) (NN 中-計｜tiong3-ke3))
+    (PU 。｜.)))","['規則變調', '再變調$', '本調#', '隨前變調@', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"中-晝-飯｜tiong1-tau3-png1
+",['Na'],(ROOT (FRAG (NR 中-晝-飯｜tiong1-tau3-png1))),"['規則變調', '規則變調', '本調#']"
+"中-晝-飯｜tiong1-tau3-png7 食-飽｜tsiah8-pa2 就｜to7 好｜ho2 歇-睏｜hioh4-khun3 ，｜, 毋-通｜m7-thang1 閣｜koh4 咧｜teh4 外-口｜gua7-khau2 四-界-趖｜si3-ke3-so5 。｜.
+","['Na', 'VH', 'D', 'VH', 'VA', 'PUNC', 'D', 'D', 'P', 'Ncd', 'D', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (VP
+        (VV 中-晝-飯｜tiong1-tau3-png7)
+        (IP
+          (VP
+            (VV 食-飽｜tsiah8-pa2)
+            (IP
+              (VP
+                (ADVP (VV 就｜to7))
+                (VP (VSB (VV 好｜ho2) (VV 歇-睏｜hioh4-khun3))))))))
+      (PU ，｜,)
+      (VP
+        (VV 毋-通｜m7-thang1)
+        (IP
+          (VP
+            (VV 閣｜koh4)
+            (IP
+              (VP
+                (VV 咧｜teh4)
+                (IP (VP (VV 外-口｜gua7-khau2) (VV 四-界-趖｜si3-ke3-so5)))))))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '再變調$', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"予｜hoo7 人｜lang5 諞｜phian2 去｜0khi3
+","['P', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (VP
+      (PP
+        (P 予｜hoo7)
+        (IP
+          (VP
+            (ADVP (AD 人｜lang5))
+            (VP (VRD (VV 諞｜phian2) (VV 去｜0khi3)))))))))","['規則變調', '規則變調', '本調#', '輕聲%']"
+"伊｜i1 予｜hoo7 人｜lang5 諞｜pian2 去｜0khi3 矣｜0ah4 。｜.
+","['Nh', 'P', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (NN 伊｜i1))
+    (VP
+      (VSB
+        (PP
+          (P 予｜hoo7)
+          (IP
+            (VP
+              (ADVP (AD 人｜lang5))
+              (ADVP (AD 諞｜pian2))
+              (VP (VV 去｜0khi3)))))
+        (SP 矣｜0ah4)))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '本調#', '輕聲%', '輕聲%', '毋是台語']"
+"予｜hoo7 伊｜i1 誤｜goo7 去｜0khi3 矣｜0ah4
+","['P', 'Nh', 'VJ', 'Na', 'Na']","(ROOT
+  (CP
+    (IP
+      (VP
+        (PP (P 予｜hoo7) (NP (NN 伊｜i1)))
+        (ADVP (AD 誤｜goo7))
+        (VP (VV 去｜0khi3))))
+    (SP 矣｜0ah4)))","['規則變調', '規則變調', '本調#', '輕聲%', '輕聲%']"
+"這｜tsit4 層｜tsan5 代-誌｜tai7-tsi3 攏｜long2 予｜hoo7 伊｜i1 誤｜goo7 去｜0khi3 矣｜0ah4 ！｜!
+","['Nep', 'Nf', 'Na', 'D', 'P', 'Nh', 'VJ', 'Na', 'Na', 'PUNC']","(ROOT
+  (CP
+    (IP
+      (VP
+        (VV 這｜tsit4)
+        (IP
+          (NP (M 層｜tsan5) (NP (NN 代-誌｜tai7-tsi3)))
+          (VP
+            (VV 攏｜long2)
+            (IP
+              (VP
+                (VP (VV 予｜hoo7) (NP (NN 伊｜i1)))
+                (VP (ADVP (AD 誤｜goo7)) (VP (VV 去｜0khi3)))))))))
+    (SP 矣｜0ah4)
+    (PU ！｜!)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '輕聲%', '輕聲%', '毋是台語']"
+"予｜hoo7 你｜li2 臆｜ioh4
+","['P', 'Nh', 'VE']",(ROOT (IP (VP (VV 予｜hoo7) (IP (VP (VV 你｜li2) (NP (NN 臆｜ioh4))))))),"['規則變調', '規則變調', '本調#']"
+"我｜gua2 毋｜m7 講｜kong2 ，｜, 予｜hoo7 你｜li2 臆｜ioh4 。｜.
+","['Nh', 'D', 'VE', 'PUNC', 'P', 'Nh', 'VE', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (VV 我｜gua2)
+      (IP
+        (VP
+          (VSB (VV 毋｜m7) (VV 講｜kong2))
+          (PU ，｜,)
+          (VP (VV 予｜hoo7) (IP (VP (VV 你｜li2) (NP (NN 臆｜ioh4))))))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '本調#', '毋是台語']"
+"五-路｜ngoo2-loo7
+",['Nes'],(ROOT (NP (NN 五-路｜ngoo2-loo7))),"['規則變調', '本調#']"
+"開｜khui1 武-林｜bu2-lim5 大-會｜tai7-hue7 的｜e5 時｜si5 ，｜, 五-路｜ngoo2-loo7 英-雄｜ing1-hiong5 攏｜long2 會｜e7 齊｜tsiau5 到｜kau3 。｜.
+","['VC', 'Nc', 'Na', 'DE', 'Na', 'PUNC', 'Nes', 'Na', 'D', 'D', 'VH', 'P', 'PUNC']","(ROOT
+  (IP
+    (NP (NN 開｜khui1))
+    (NP (NP (NN 武-林｜bu2-lim5)) (NP (NN 大-會｜tai7-hue7)))
+    (VP
+      (VP
+        (VP (NP (NN 的｜e5)) (NP (NN 時｜si5)))
+        (PU ，｜,)
+        (NP (NN 五-路｜ngoo2-loo7)))
+      (VP
+        (VV 英-雄｜ing1-hiong5)
+        (IP
+          (VP
+            (VV 攏｜long2)
+            (IP
+              (VP
+                (VV 會｜e7)
+                (IP (VP (VCD (VV 齊｜tsiau5) (VV 到｜kau3))))))))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"今-仔｜tann1-a2
+",['D'],(ROOT (FRAG (NR 今-仔｜tann1-a2))),"['仔前變調&', '本調#']"
+"我｜gua2 今-仔｜tann1-a2 才｜tsiah4 看-著｜khuann3-tioh8 伊｜i1 對｜tui3 門-口｜mng5-khau2 行｜kiann5 出-去｜0tshut4-khi3 。｜.
+","['Nh', 'D', 'Da', 'VE', 'Nh', 'P', 'Nc', 'VA', 'Na', 'PUNC']","(ROOT
+  (IP
+    (DEG 我｜gua2)
+    (NP (NN 今-仔｜tann1-a2))
+    (VP
+      (ADVP (AD 才｜tsiah4))
+      (VP
+        (VV 看-著｜khuann3-tioh8)
+        (IP
+          (VP
+            (VV 伊｜i1)
+            (IP
+              (VP
+                (PP (P 對｜tui3) (NP (NN 門-口｜mng5-khau2)))
+                (VP (VRD (VV 行｜kiann5) (VV 出-去｜0tshut4-khi3)))))))))
+    (PU 。｜.)))","['規則變調', '仔前變調&', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '輕聲%', '輕聲%', '毋是台語']"
+"介-在｜kai3-tsai7
+",['Na'],(ROOT (IP (VP (VV 介-在｜kai3-tsai7)))),"['規則變調', '本調#']"
+"代-誌｜tai7-tsi3 會｜e7 成｜sing5 袂｜be7 成｜sing5 ，｜, 介-在｜kai3-tsai7 你｜li2 欲｜beh4 做｜tso3 毋｜m7 做｜tso3 。｜.
+","['Na', 'D', 'VG', 'D', 'VG', 'PUNC', 'Na', 'Nh', 'D', 'VC', 'D', 'VC', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (VP
+        (ADVP (AD 代-誌｜tai7-tsi3))
+        (ADVP (AD 會｜e7))
+        (VP (VRD (VRD (VV 成｜sing5) (VV 袂｜be7)) (VA 成｜sing5))))
+      (PU ，｜,)
+      (VP
+        (VV 介-在｜kai3-tsai7)
+        (DFL (VV 你｜li2))
+        (IP
+          (VP
+            (VV 欲｜beh4)
+            (VP (VV 做｜tso3) (DFL (VV 毋｜m7)) (IP (VP (VV 做｜tso3))))))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '再變調$', '規則變調', '規則變調', '本調#', '毋是台語']"
+"允-頭-路｜in2-thau5-loo7 允-頭-路｜un2-thau5-loo7
+","['Na', 'Na']","(ROOT
+  (NP (NP (NR 允-頭-路｜in2-thau5-loo7)) (NP (NN 允-頭-路｜un2-thau5-loo7))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"看｜khuann3 報-紙｜po3-tsua2 允-頭-路｜in2-thau5-loo7 。｜.
+","['VC', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (NP
+        (NN 看｜khuann3)
+        (NN 報-紙｜po3-tsua2)
+        (NN 允-頭-路｜in2-thau5-loo7)))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"公-分｜kong1-pun1
+",['VH'],(ROOT (QP (CLP (M 公-分｜kong1-pun1)))),"['規則變調', '本調#']"
+"一｜tsit8 塊｜te3 餅｜piann2 予｜hoo7 兩｜nng7 个｜e5 人｜lang5 公-分｜kong1-pun1 。｜.
+","['Neu', 'Nf', 'Na', 'P', 'Neu', 'Nf', 'Na', 'VH', 'PUNC']","(ROOT
+  (IP
+    (NP (NN 一｜tsit8) (NN 塊｜te3) (NN 餅｜piann2))
+    (VP
+      (VV 予｜hoo7)
+      (NP (NP (NN 兩｜nng7)) (NP (NN 个｜e5)))
+      (NP (NP (NN 人｜lang5)) (NP (M 公-分｜kong1-pun1))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"公-開｜kong1-khui1
+",['Na'],(ROOT (IP (VP (VA 公-開｜kong1-khui1)))),"['規則變調', '本調#']"
+"年-節-時-仔｜ni5-tseh4-si5-a2 ，｜, 庄-頭｜tsng1-thau5 做-戲｜tso3-hi3 的｜e5 錢｜tsinn5 攏｜long2 是｜si7 規｜kui1 庄-頭｜tsng1-thau5 公-開｜kong1-khui1 的｜0e5 。｜.
+","['VA', 'PUNC', 'Nc', 'VA', 'DE', 'Na', 'D', 'SHI', 'Neqa', 'Nc', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (NN 年-節-時-仔｜ni5-tseh4-si5-a2))
+    (PU ，｜,)
+    (NP (NN 庄-頭｜tsng1-thau5))
+    (NP (NP (NN 做-戲｜tso3-hi3)) (NP (NN 的｜e5)) (NP (NN 錢｜tsinn5)))
+    (VP
+      (VRD (VV 攏｜long2) (VA 是｜si7))
+      (AS 規｜kui1)
+      (NP
+        (DP (DT 庄-頭｜tsng1-thau5))
+        (NP (CP (IP (VP (JJ 公-開｜kong1-khui1))) (DEG 的｜0e5)))))
+    (PU 。｜.)))","['規則變調', '規則變調', '仔前變調&', '本調#', '毋是台語', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '隨前變調@', '毋是台語']"
+"公-親｜kong1-tshin1
+",['VC'],(ROOT (NP (NN 公-親｜kong1-tshin1))),"['規則變調', '本調#']"
+"你｜li2 著｜tioh8 細-膩｜se3-ji7 ，｜, 毋-通｜m7-thang1 公-親｜kong1-tshin1 變｜pian3 事-主｜su7-tsu2 。｜.
+","['Nh', 'D', 'VK', 'PUNC', 'D', 'VC', 'VH', 'Ng', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (VP
+        (ADVP (AD 你｜li2))
+        (ADVP (AD 著｜tioh8))
+        (VP (VA 細-膩｜se3-ji7)))
+      (PU ，｜,)
+      (NP
+        (NN 毋-通｜m7-thang1)
+        (NN 公-親｜kong1-tshin1)
+        (NN 變｜pian3)
+        (NN 事-主｜su7-tsu2)))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"冇-數｜phann3-siau3
+",['Na'],(ROOT (NP (NN 冇-數｜phann3-siau3))),"['規則變調', '本調#']"
+"伊｜i1 有｜u7 一｜tsit8 筆｜pit4 冇-數｜phann3-siau3 ，｜, 到-今｜kau3-tann1 猶｜iau2 收｜siu1 袂｜be7 轉｜tng2 來｜0lai5 。｜.
+","['Nh', 'V_2', 'Neu', 'Na', 'Na', 'PUNC', 'P', 'D', 'VC', 'D', 'VCL', 'Na', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (NP (NN 伊｜i1))
+      (VP
+        (VP
+          (VE 有｜u7)
+          (NP
+            (ADJP (JJ 一｜tsit8))
+            (NP (NN 筆｜pit4) (NN 冇-數｜phann3-siau3))))
+        (PU ，｜,)
+        (VP
+          (ADVP (AD 到-今｜kau3-tann1))
+          (VP
+            (VV 猶｜iau2)
+            (IP
+              (NP (NP (NR 收｜siu1)) (NP (NN 袂｜be7)))
+              (VP (VRD (VV 轉｜tng2) (VV 來｜0lai5))))))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '輕聲%', '毋是台語']"
+"分-伻｜pun1-phenn1
+",['VD'],(ROOT (IP (VP (VV 分-伻｜pun1-phenn1)))),"['規則變調', '本調#']"
+"咱｜lan2 共｜ka7 伊｜i1 鬥｜tau3 分-伻｜pun1-phenn1 淡-薄-仔｜0tam7-poh8-a2 ，｜, 伊｜i1 較｜khah4 袂｜be7 遐｜hiah4 忝｜thiam2 。｜.
+","['Nh', 'P', 'Nh', 'D', 'VD', 'Na', 'PUNC', 'Nh', 'Dfa', 'D', 'D', 'VHC', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (NP (NN 咱｜lan2))
+      (VP
+        (VV 共｜ka7)
+        (IP
+          (VP
+            (VP (VV 伊｜i1) (NP (NN 鬥｜tau3)))
+            (VP (VV 分-伻｜pun1-phenn1) (NP (NR 淡-薄-仔｜0tam7-poh8-a2)))))))
+    (PU ，｜,)
+    (NP
+      (IP (NP (NR 伊｜i1)) (VP (ADVP (AD 較｜khah4)) (VP (VV 袂｜be7))))
+      (NP (NN 遐｜hiah4) (NN 忝｜thiam2)))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '輕聲%', '輕聲%', '本調#', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"勼-跤｜kiu1-kha1
+",['VK'],(ROOT (NP (NN 勼-跤｜kiu1-kha1))),"['規則變調', '本調#']"
+"代-誌｜tai7-tsi3 做｜tso3 猶-未｜iau2-bue7 一-半｜tsit8-puann3 ，｜, 袂-當｜be7-tang3 勼-跤｜kiu1-kha1 。｜.
+","['Na', 'VC', 'D', 'Neqa', 'PUNC', 'D', 'VK', 'PUNC']","(ROOT
+  (IP
+    (QP
+      (QP (CD 代-誌｜tai7-tsi3))
+      (QP
+        (QP (CD 做｜tso3))
+        (QP (QP (CD 猶-未｜iau2-bue7)) (QP (CD 一-半｜tsit8-puann3)))))
+    (PU ，｜,)
+    (VP (VV 袂-當｜be7-tang3) (NP (VV 勼-跤｜kiu1-kha1)))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"反-白-睚｜ping2-peh8-kainn5
+",['Na'],(ROOT (FRAG (NR 反-白-睚｜ping2-peh8-kainn5))),"['規則變調', '規則變調', '本調#']"
+"你｜li2 莫｜mai3 閣｜koh4 講｜kong2 矣｜0ah4 ，｜, 無｜bo5 看-著｜khuann3-tioh8 伊｜i1 咧｜teh4 反-白-睚｜ping2-peh8-kainn5 是｜si7 無｜0bo5 ？｜?
+","['Nh', 'D', 'D', 'VE', 'Na', 'PUNC', 'D', 'VE', 'Nh', 'P', 'Na', 'SHI', 'Na', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (ADVP (AD 你｜li2))
+      (NP (NP (ADJP (JJ 莫｜mai3)) (NP (NN 閣｜koh4))) (NP (NN 講｜kong2)))
+      (FLR (SP 矣｜0ah4))
+      (PU ，｜,)
+      (VP
+        (VP
+          (VP (VE 無｜bo5) (AS 看-著｜khuann3-tioh8) (NP (NN 伊｜i1)))
+          (VP (VV 咧｜teh4) (NP (NN 反-白-睚｜ping2-peh8-kainn5))))
+        (VP (ADVP (AD 是｜si7)) (VP (VE 無｜0bo5)))))
+    (PU ？｜?)))","['規則變調', '規則變調', '規則變調', '本調#', '輕聲%', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '再變調$', '規則變調', '規則變調', '規則變調', '本調#', '輕聲%', '毋是台語']"
+"反-倒-轉｜huan2-to3-tng2
+",['Na'],(ROOT (FRAG (NR 反-倒-轉｜huan2-to3-tng2))),"['規則變調', '規則變調', '本調#']"
+"伊｜i1 毋-但｜m7-na7 無｜bo5 抾-恨｜khioh4-hin7 ，｜, 反-倒-轉｜huan2-to3-tng2 閣｜koh4 來｜lai5 共｜ka7 咱｜lan2 鬥-相-共｜tau3-sann1-kang7 。｜.
+","['Nh', 'Cbb', 'D', 'VK', 'PUNC', 'Na', 'D', 'D', 'P', 'Nh', 'VC', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (VP
+        (VV 伊｜i1)
+        (IP
+          (VP
+            (VV 毋-但｜m7-na7)
+            (IP (VP (VSB (VV 無｜bo5) (VV 抾-恨｜khioh4-hin7)))))))
+      (PU ，｜,)
+      (VP
+        (VV 反-倒-轉｜huan2-to3-tng2)
+        (NP
+          (NN 閣｜koh4)
+          (NN 來｜lai5)
+          (NN 共｜ka7)
+          (NN 咱｜lan2)
+          (NN 鬥-相-共｜tau3-sann1-kang7))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"反-輾-轉｜ping2-lian3-tng2 反-輾-轉｜ping2-lin3-tng2
+","['D', 'Na']","(ROOT
+  (IP
+    (VP
+      (ADVP (AD 反-輾-轉｜ping2-lian3-tng2))
+      (VP (VV 反-輾-轉｜ping2-lin3-tng2)))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"伊｜i1 車｜tshia1 駛｜sai2 傷｜siunn1 緊｜kin2 ，｜, 駛｜sai2 甲｜kah4 規｜kui1 台｜tai5 車｜tshia1 反-輾-轉｜ping2-lian3-tng2 。｜.
+","['Nh', 'Na', 'VA', 'Dfa', 'D', 'PUNC', 'VA', 'DE', 'Neqa', 'Nf', 'Na', 'D', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (VP
+        (ADVP (AD 伊｜i1))
+        (ADVP (AD 車｜tshia1))
+        (ADVP (AD 駛｜sai2))
+        (ADVP (AD 傷｜siunn1))
+        (VP (VA 緊｜kin2))))
+    (PU ，｜,)
+    (IP
+      (VP
+        (ADVP (AD 駛｜sai2))
+        (VP
+          (VV 甲｜kah4)
+          (IP
+            (VP
+              (VV 規｜kui1)
+              (IP
+                (VP
+                  (VV 台｜tai5)
+                  (IP
+                    (VP
+                      (VCD (VV 車｜tshia1) (VV 反-輾-轉｜ping2-lian3-tng2)))))))))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"天-公-生｜thinn1-kong1-senn1 天-公-生｜thinn1-kong1-sinn1
+","['Nb', 'Na']","(ROOT
+  (NP
+    (NP (NN 天-公-生｜thinn1-kong1-senn1))
+    (NP (NR 天-公-生｜thinn1-kong1-sinn1))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"舊-曆｜ku7-lik8 正｜tsiann1 月｜gueh8 初-九｜tshe1-kau2 是｜si7 天-公-生｜thinn1-kong1-senn1 。｜.
+","['Na', 'Nd', 'Na', 'Neu', 'SHI', 'Nb', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (NP
+        (NN 舊-曆｜ku7-lik8)
+        (NN 正｜tsiann1)
+        (NN 月｜gueh8)
+        (NN 初-九｜tshe1-kau2)
+        (NN 是｜si7)
+        (NN 天-公-生｜thinn1-kong1-senn1)))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"心-肝-窟-仔｜sim1-kuann1-khut4-a2
+",['Nc'],(ROOT (FRAG (NR 心-肝-窟-仔｜sim1-kuann1-khut4-a2))),"['規則變調', '規則變調', '仔前變調&', '本調#']"
+"我｜gua2 的｜e5 心-肝-窟-仔｜sim1-kuann1-khut4-a2 當-咧｜tng1-teh4 疼｜thiann3 。｜.
+","['Nh', 'DE', 'Nc', 'D', 'VH', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (VA 我｜gua2)
+      (VA 的｜e5)
+      (VP
+        (VA 心-肝-窟-仔｜sim1-kuann1-khut4-a2)
+        (VP (VCD (VA 當-咧｜tng1-teh4) (VA 疼｜thiann3)))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '仔前變調&', '本調#', '規則變調', '再變調$', '本調#', '毋是台語']"
+"心-酸｜sim1-sng1
+",['VH'],(ROOT (IP (VP (VV 心-酸｜sim1-sng1)))),"['規則變調', '本調#']"
+"伊｜i1 的｜e5 身-世｜sin1-se3 予｜hoo7 人｜lang5 聽｜thiann1 起-來｜0khi2-lai5 感-覺｜kam2-kak4 誠｜tsiann5 心-酸｜sim1-sng1 。｜.
+","['Nh', 'DE', 'Na', 'P', 'Na', 'VE', 'Na', 'VK', 'Dfa', 'VH', 'PUNC']","(ROOT
+  (IP
+    (NP (DNP (NP (NN 伊｜i1)) (DEG 的｜e5)) (NP (NN 身-世｜sin1-se3)))
+    (VP
+      (PP
+        (P 予｜hoo7)
+        (IP
+          (VP
+            (ADVP (AD 人｜lang5))
+            (VP (VRD (VV 聽｜thiann1) (VV 起-來｜0khi2-lai5))))))
+      (VP
+        (VV 感-覺｜kam2-kak4)
+        (IP (VP (ADVP (AD 誠｜tsiann5)) (VP (VV 心-酸｜sim1-sng1))))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '輕聲%', '輕聲%', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"戶-橂｜hoo7-ting7
+",['Na'],(ROOT (NP (NN 戶-橂｜hoo7-ting7))),"['規則變調', '本調#']"
+"囡-仔-人｜gin2-a2-lang5 毋-通｜m7-thang1 坐｜tse7 戶-橂｜hoo7-ting7 。｜.
+","['Na', 'D', 'VA', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (NP
+        (NN 囡-仔-人｜gin2-a2-lang5)
+        (NN 毋-通｜m7-thang1)
+        (NN 坐｜tse7)
+        (NN 戶-橂｜hoo7-ting7)))
+    (PU 。｜.)))","['仔前變調&', '規則變調', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"手-路｜tshiu2-loo7
+",['Na'],(ROOT (NP (NN 手-路｜tshiu2-loo7))),"['規則變調', '本調#']"
+"伊｜i1 捌｜bat4 足｜tsiok4 濟｜tse7 種｜tsiong2 做｜tso3 瓷-仔｜hui5-a2 的｜e5 手-路｜tshiu2-loo7 。｜.
+","['Nh', 'D', 'Dfa', 'VH', 'Nf', 'VC', 'Na', 'DE', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (NN 伊｜i1) (NN 捌｜bat4))
+    (VP
+      (VV 足｜tsiok4)
+      (AS 濟｜tse7)
+      (NP
+        (QP (CLP (M 種｜tsiong2)))
+        (NP (NN 做｜tso3) (NN 瓷-仔｜hui5-a2))
+        (NP (ADVP (AD 的｜e5)) (NP (NN 手-路｜tshiu2-loo7)))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '仔前變調&', '本調#', '規則變調', '規則變調', '本調#', '毋是台語']"
+"手-路-菜｜tshiu2-loo7-tshai3
+",['VI'],(ROOT (NP (NN 手-路-菜｜tshiu2-loo7-tshai3))),"['規則變調', '規則變調', '本調#']"
+"這｜tse1 是｜si7 阮｜guan2 阿-母｜a1-bu2 的｜e5 手-路-菜｜tshiu2-loo7-tshai3 。｜.
+","['Nep', 'SHI', 'Nh', 'Na', 'DE', 'VI', 'PUNC']","(ROOT
+  (IP
+    (NP
+      (NN 這｜tse1)
+      (NN 是｜si7)
+      (NN 阮｜guan2)
+      (NN 阿-母｜a1-bu2)
+      (NN 的｜e5)
+      (NN 手-路-菜｜tshiu2-loo7-tshai3))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"手｜tshiu2 軁｜nng1 袂｜be7 過｜ue3
+","['Na', 'VC', 'D', 'Na']","(ROOT
+  (IP
+    (VP
+      (ADVP (AD 手｜tshiu2))
+      (VP (VCD (VV 軁｜nng1) (VV 袂｜be7)) (AS 過｜ue3)))))","['規則變調', '規則變調', '規則變調', '本調#']"
+"手-䘼｜tshiu2-ng2 傷｜siunn1 束｜sok4 ，｜, 我｜gua2 的｜e5 手｜tshiu2 軁｜nng1 袂｜be7 過｜kue3 。｜.
+","['Na', 'Dfa', 'Nf', 'PUNC', 'Nh', 'DE', 'Na', 'VC', 'D', 'VCL', 'PUNC']","(ROOT
+  (IP
+    (IP (VP (VV 手-䘼｜tshiu2-ng2) (AS 傷｜siunn1) (NP (NN 束｜sok4))))
+    (PU ，｜,)
+    (IP
+      (VP
+        (NP
+          (NT 我｜gua2)
+          (NT 的｜e5)
+          (NT 手｜tshiu2)
+          (NT 軁｜nng1)
+          (NT 袂｜be7)
+          (NT 過｜kue3))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"文-文-仔-笑｜bun5-bun5-a2-tshio3
+",['VA'],(ROOT (NP (NN 文-文-仔-笑｜bun5-bun5-a2-tshio3))),"['規則變調', '仔前變調&', '規則變調', '本調#']"
+"伊｜i1 攏｜long2 文-文-仔-笑｜bun5-bun5-a2-tshio3 。｜.
+","['Nh', 'D', 'VA', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (VV 伊｜i1)
+      (IP (VP (VV 攏｜long2) (AS 文-文-仔-笑｜bun5-bun5-a2-tshio3))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '仔前變調&', '規則變調', '本調#', '毋是台語']"
+"方-言｜hong1-gian5 方-言｜hong1-gan5
+","['Na', 'Na']",(ROOT (NP (NN 方-言｜hong1-gian5) (NN 方-言｜hong1-gan5))),"['規則變調', '規則變調', '規則變調', '本調#']"
+"我｜gua2 聽｜thiann1 無｜bo5 𪜶｜in1 遐｜hia1 的｜e5 方-言｜hong1-gian5 。｜.
+","['Nh', 'VE', 'D', 'Nh', 'Ncd', 'DE', 'Na', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (NP (NN 我｜gua2))
+      (VP
+        (VP (VV 聽｜thiann1) (NP (NN 無｜bo5)))
+        (VP (VV 𪜶｜in1) (NP (NN 遐｜hia1)))
+        (VP (VV 的｜e5) (NP (NN 方-言｜hong1-gian5)))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '本調#', '毋是台語']"
+"月-內｜gueh8-lai7 月-內｜geh8-lai7
+","['VA', 'Na']",(ROOT (NP (NN 月-內｜gueh8-lai7) (NN 月-內｜geh8-lai7))),"['規則變調', '規則變調', '規則變調', '本調#']"
+"查-某-人｜tsa1-boo2-lang5 月-內｜gueh8-lai7 若｜na7 無｜bo5 做｜tso3 好｜ho2 ，｜, 後-擺｜au7-pai2 身-體｜sin1-the2 會｜e7 較｜khah4 䆀｜bai2 。｜.
+","['Na', 'VA', 'Cbb', 'D', 'VC', 'VH', 'PUNC', 'Nd', 'Na', 'D', 'Dfa', 'VH', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (VV 查-某-人｜tsa1-boo2-lang5)
+      (IP
+        (VP
+          (VV 月-內｜gueh8-lai7)
+          (IP
+            (VP
+              (IP
+                (IP
+                  (VP
+                    (ADVP (CS 若｜na7))
+                    (VP (VE 無｜bo5) (VP (VCD (VV 做｜tso3) (VV 好｜ho2))))))
+                (PU ，｜,)
+                (VP (ADVP (AD 後-擺｜au7-pai2)) (VP (AD 身-體｜sin1-the2))))
+              (ADVP (ADVP (AD 會｜e7)) (ADVP (AD 較｜khah4)))
+              (VP (VA 䆀｜bai2)))))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"止-枵｜tsi2-iau1
+",['VB'],(ROOT (FRAG (NR 止-枵｜tsi2-iau1))),"['規則變調', '本調#']"
+"飯｜png7 猶-未｜iau2-bue7 煮｜tsu2 好｜ho2 ，｜, 你｜li2 先｜sing1 去｜khi3 食｜tsiah8 一｜tsit8 塊｜te3 餅｜piann2 止-枵｜tsi2-iau1 。｜.
+","['Na', 'D', 'VC', 'VH', 'PUNC', 'Nh', 'D', 'D', 'VC', 'Neu', 'Nf', 'Na', 'VB', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (VP
+        (VV 飯｜png7)
+        (IP
+          (VP
+            (VP
+              (VV 猶-未｜iau2-bue7)
+              (IP (VP (VSB (VV 煮｜tsu2) (VV 好｜ho2)))))
+            (PU ，｜,)
+            (VP (VV 你｜li2) (VP (VV 先｜sing1) (VP (VV 去｜khi3))))))))
+    (PU 食｜tsiah8)
+    (IP
+      (NP (NN 一｜tsit8) (NN 塊｜te3) (NN 餅｜piann2))
+      (VP (VV 止-枵｜tsi2-iau1)))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '再變調$', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"歹-剃-頭｜phainn2-thi3-thau5
+",['VH'],(ROOT (FRAG (NR 歹-剃-頭｜phainn2-thi3-thau5))),"['規則變調', '規則變調', '本調#']"
+"伊｜i1 是｜si7 我｜gua2 拄｜tu2 過｜0kue3 上｜siong7 歹-剃-頭｜phainn2-thi3-thau5 的｜e5 人｜lang5 。｜.
+","['Nh', 'SHI', 'Nh', 'D', 'Na', 'Dfa', 'VH', 'DE', 'Na', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (NP (NN 伊｜i1))
+      (VP
+        (ADVP (AD 是｜si7))
+        (NP (NN 我｜gua2))
+        (VP
+          (VV 拄｜tu2)
+          (AS 過｜0kue3)
+          (IP
+            (IP
+              (NP (LC 上｜siong7))
+              (VP (VV 歹-剃-頭｜phainn2-thi3-thau5)))
+            (VP (VV 的｜e5) (NP (NN 人｜lang5)))))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '本調#', '輕聲%', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '本調#', '毋是台語']"
+"歹-看-相｜phainn2-khuann3-siunn3
+",['VH'],(ROOT (IP (VP (VA 歹-看-相｜phainn2-khuann3-siunn3)))),"['規則變調', '規則變調', '本調#']"
+"那｜na2 行｜kiann5 那｜na2 食｜tsiah8 物-件｜mih8-kiann7 ，｜, 實-在｜sit8-tsai7 真｜tsin1 歹-看-相｜phainn2-khuann3-siunn3 。｜.
+","['D', 'VA', 'D', 'VC', 'Na', 'PUNC', 'D', 'Dfa', 'VH', 'PUNC']","(ROOT
+  (IP
+    (NP
+      (NN 那｜na2)
+      (NN 行｜kiann5)
+      (NN 那｜na2)
+      (NN 食｜tsiah8)
+      (NN 物-件｜mih8-kiann7))
+    (PU ，｜,)
+    (VP
+      (VA 實-在｜sit8-tsai7)
+      (IP (VP (VCD (VA 真｜tsin1) (VA 歹-看-相｜phainn2-khuann3-siunn3)))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"歹-話｜phainn2-ue7
+",['Na'],(ROOT (NP (NN 歹-話｜phainn2-ue7))),"['規則變調', '本調#']"
+"伊｜i1 專-門｜tsuan1-bun5 佇｜ti7 後-壁｜au7-piah4 講｜kong2 人｜lang5 的｜e5 歹-話｜phainn2-ue7 。｜.
+","['Nh', 'VL', 'P', 'Ncd', 'VE', 'Na', 'DE', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (NN 伊｜i1))
+    (VP
+      (ADVP (AD 專-門｜tsuan1-bun5))
+      (VP
+        (VP
+          (VV 佇｜ti7)
+          (NP (NN 後-壁｜au7-piah4) (NN 講｜kong2) (NN 人｜lang5)))
+        (VP (VV 的｜e5) (NP (NN 歹-話｜phainn2-ue7)))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '本調#', '毋是台語']"
+"歹-講｜phainn2-kong2
+",['VK'],(ROOT (NP (NN 歹-講｜phainn2-kong2))),"['規則變調', '本調#']"
+"未-來｜bi7-lai5 社-會｜sia7-hue7 會｜e7 變｜pian3 按-怎｜an2-tsuann2 ，｜, 真｜tsin1 歹-講｜phainn2-kong2 。｜.
+","['Nd', 'Na', 'D', 'VH', 'D', 'PUNC', 'Dfa', 'VK', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (VP
+        (ADVP (AD 未-來｜bi7-lai5))
+        (ADVP (AD 社-會｜sia7-hue7))
+        (ADVP (AD 會｜e7))
+        (ADVP (AD 變｜pian3))
+        (VP (VV 按-怎｜an2-tsuann2)))
+      (PU ，｜,)
+      (VP (VCD (VV 真｜tsin1) (VV 歹-講｜phainn2-kong2))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '本調#', '毋是台語']"
+"毋-甘｜m7-kam1
+",['VL'],(ROOT (IP (VP (VV 毋-甘｜m7-kam1)))),"['規則變調', '本調#']"
+"伊｜i1 真｜tsin1 凍-霜｜tang3-sng1 ，｜, 連｜lian5 一-屑-仔｜tsit8-sut4-a2 物｜mih8 都｜to1 毋-甘｜m7-kam1 予｜hoo7 人｜0lang5 。｜.
+","['Nh', 'Dfa', 'VH', 'PUNC', 'Cbb', 'Neqa', 'Na', 'D', 'VL', 'P', 'Na', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (NP (NN 伊｜i1) (NN 真｜tsin1) (NN 凍-霜｜tang3-sng1))
+      (PU ，｜,)
+      (NP
+        (NP (ADJP (JJ 連｜lian5)) (NP (NN 一-屑-仔｜tsit8-sut4-a2)))
+        (NP (NN 物｜mih8)))
+      (VP
+        (ADVP (AD 都｜to1))
+        (VP
+          (VV 毋-甘｜m7-kam1)
+          (IP (VP (VV 予｜hoo7) (NP (NN 人｜0lang5)))))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '仔前變調&', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '輕聲%', '毋是台語']"
+"毋-甘｜m7-kam1 嫌｜hiam5
+","['VL', 'VK']",(ROOT (IP (NP (NN 毋-甘｜m7-kam1)) (VP (VV 嫌｜hiam5)))),"['規則變調', '規則變調', '本調#']"
+"是｜si7 你｜li2 毋-甘｜m7-kam1 嫌｜hiam5 啦｜0lah4 。｜.
+","['SHI', 'Nh', 'VL', 'VK', 'Na', 'PUNC']","(ROOT
+  (IP
+    (DEG 是｜si7)
+    (CP
+      (IP
+        (NP (PN 你｜li2))
+        (VP (VV 毋-甘｜m7-kam1) (IP (VP (VV 嫌｜hiam5)))))
+      (SP 啦｜0lah4))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '本調#', '輕聲%', '毋是台語']"
+"毋｜m7 好-勢｜ho2-se3
+","['D', 'VH']",(ROOT (NP (ADJP (JJ 毋｜m7)) (NP (NN 好-勢｜ho2-se3)))),"['規則變調', '規則變調', '本調#']"
+"若-是｜na7-si7 一｜tsit8 个｜e5 毋｜m7 好-勢｜ho2-se3 ，｜, 代-誌｜tai7-tsi3 就｜to7 去-了-了｜khi3-liau2-liau2 矣｜0ah4 。｜.
+","['Cbb', 'Neu', 'Nf', 'D', 'VH', 'PUNC', 'Na', 'D', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (VP
+        (ADVP (AD 若-是｜na7-si7))
+        (ADVP (AD 一｜tsit8))
+        (ADVP (AD 个｜e5))
+        (ADVP (AD 毋｜m7))
+        (VP (VV 好-勢｜ho2-se3))))
+    (PU ，｜,)
+    (CP
+      (IP
+        (NP (NN 代-誌｜tai7-tsi3))
+        (PU 就｜to7)
+        (AS 去-了-了｜khi3-liau2-liau2))
+      (SP 矣｜0ah4))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '再變調$', '規則變調', '本調#', '輕聲%', '毋是台語']"
+"毋-但｜m7-na7 毋-但｜m7-nia7
+","['Cbb', 'Na']",(ROOT (NP (ADVP (AD 毋-但｜m7-na7)) (NP (NN 毋-但｜m7-nia7)))),"['規則變調', '規則變調', '規則變調', '本調#']"
+"我｜gua2 看｜khuann3 伊｜i1 做｜tso3 的｜e5 歹｜phainn2 代-誌｜tai7-tsi3 毋-但｜m7-na7 按-呢｜an2-ne1 爾-爾｜nia7-nia7 。｜.
+","['Nh', 'VC', 'Nh', 'VC', 'DE', 'VH', 'Na', 'Cbb', 'VH', 'T', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (VV 我｜gua2)
+      (IP
+        (VP
+          (VP
+            (VV 看｜khuann3)
+            (NP (CP (IP (NP (NN 伊｜i1)) (VP (VV 做｜tso3))) (DEC 的｜e5))))
+          (VP
+            (ADVP (AD 歹｜phainn2))
+            (ADVP (AD 代-誌｜tai7-tsi3))
+            (ADVP (AD 毋-但｜m7-na7))
+            (VP (ADVP (AD 按-呢｜an2-ne1)) (ADVP (AD 爾-爾｜nia7-nia7)))))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"毋-拄-好｜m7-tu2-ho2
+",['D'],(ROOT (IP (VP (VA 毋-拄-好｜m7-tu2-ho2)))),"['規則變調', '規則變調', '本調#']"
+"你｜li2 著｜tioh8 愛｜ai3 攑｜giah8 雨-傘｜hoo7-suann3 去｜khi3 ，｜, 毋-拄-好｜m7-tu2-ho2 落-雨｜loh8-hoo7 就｜to7 用｜ing7 會｜e7 著｜tioh8 。｜.
+","['Nh', 'D', 'D', 'VC', 'Na', 'D', 'PUNC', 'D', 'VA', 'D', 'P', 'D', 'D', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (VP
+        (VV 你｜li2)
+        (DFL (VV 著｜tioh8))
+        (VP
+          (VV 愛｜ai3)
+          (DFL (VV 攑｜giah8))
+          (VP (VV 雨-傘｜hoo7-suann3) (VP (VV 去｜khi3)))))
+      (PU ，｜,)
+      (VP
+        (VV 毋-拄-好｜m7-tu2-ho2)
+        (VP
+          (VV 落-雨｜loh8-hoo7)
+          (VP
+            (VV 就｜to7)
+            (VP (VV 用｜ing7) (IP (VP (VCD (VV 會｜e7) (VV 著｜tioh8)))))))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '再變調$', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"毋｜m7 知-影｜tsai1-iann2
+","['D', 'VK']",(ROOT (NP (ADVP (AD 毋｜m7)) (NP (NN 知-影｜tsai1-iann2)))),"['規則變調', '規則變調', '本調#']"
+"逐-家｜tak8-ke1 攏｜long2 毋｜m7 知-影｜tsai1-iann2 伊｜i1 走｜tsau2 去｜khi3 佗-位｜to2-ui7 。｜.
+","['Nh', 'D', 'D', 'VK', 'Nh', 'VA', 'D', 'Ncd', 'PUNC']","(ROOT
+  (IP
+    (NP (NR 逐-家｜tak8-ke1))
+    (VP
+      (VV 攏｜long2)
+      (IP
+        (NP (ADJP (JJ 毋｜m7)) (NP (NN 知-影｜tsai1-iann2)))
+        (VP
+          (VV 伊｜i1)
+          (VP (VV 走｜tsau2) (NP (NN 去｜khi3) (NN 佗-位｜to2-ui7))))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '再變調$', '規則變調', '本調#', '毋是台語']"
+"毋-挃｜m7-tih8
+",['Na'],(ROOT (NP (NN 毋-挃｜m7-tih8))),"['規則變調', '本調#']"
+"物-件｜mih8-kiann7 猶-閣｜iau2-koh4 好-好｜ho2-ho2 你｜li2 就｜to7 毋-挃｜m7-tih8 矣｜0ah4 ，｜, 敢｜kam2 袂｜be7 傷｜siunn1 討-債｜tho2-tse3 ？｜?
+","['Na', 'D', 'VH', 'Nh', 'D', 'Na', 'Na', 'PUNC', 'D', 'D', 'Dfa', 'VH', 'PUNC']","(ROOT
+  (CP
+    (IP
+      (NP
+        (NP (NN 物-件｜mih8-kiann7) (NN 猶-閣｜iau2-koh4))
+        (ADJP (JJ 好-好｜ho2-ho2))
+        (NP (VV 你｜li2)))
+      (PU 就｜to7)
+      (NP (NN 毋-挃｜m7-tih8))
+      (FLR (SP 矣｜0ah4))
+      (PU ，｜,)
+      (FLR (SP 敢｜kam2) (SP 袂｜be7))
+      (FLR (SP 傷｜siunn1)))
+    (SP 討-債｜tho2-tse3)
+    (PU ？｜?)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '輕聲%', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"毋-是-勢｜m7-si7-se3
+",['Na'],(ROOT (FRAG (NR 毋-是-勢｜m7-si7-se3))),"['規則變調', '規則變調', '本調#']"
+"等｜tan2 一-下｜0tsit8-e7 看｜khuann3 毋-是-勢｜m7-si7-se3 ，｜, 你｜li2 著｜tioh8 緊｜kin2 走｜tsau2 。｜.
+","['Cab', 'Na', 'VC', 'Na', 'PUNC', 'Nh', 'D', 'D', 'VA', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (VV 等｜tan2)
+      (ADVP (AD 一-下｜0tsit8-e7))
+      (DFL
+        (PP (P 看｜khuann3) (NP (NN 毋-是-勢｜m7-si7-se3)))
+        (PU ，｜,)
+        (CD 你｜li2)
+        (AS 著｜tioh8))
+      (VP (VCD (VV 緊｜kin2) (VV 走｜tsau2))))
+    (PU 。｜.)))","['本調#', '輕聲%', '輕聲%', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"毋-值｜m7-tat8
+",['VJ'],(ROOT (IP (VP (VA 毋-值｜m7-tat8)))),"['規則變調', '本調#']"
+"你｜li2 做｜tso3 甲｜kah4 遐｜hiah4 辛-苦｜sin1-khoo2 閣｜koh4 予｜hoo7 人｜lang5 嫌｜hiam5 ，｜, 實-在｜sit8-tsai7 真｜tsin1 毋-值｜m7-tat8 ！｜!
+","['Nh', 'VC', 'DE', 'D', 'VHC', 'D', 'P', 'Na', 'VK', 'PUNC', 'D', 'Dfa', 'VJ', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (VP
+        (VV 你｜li2)
+        (IP
+          (NP (NN 做｜tso3))
+          (VP
+            (ADVP (AD 甲｜kah4))
+            (VP
+              (VV 遐｜hiah4)
+              (NP (NN 辛-苦｜sin1-khoo2) (NN 閣｜koh4))
+              (IP
+                (VP
+                  (PP (P 予｜hoo7) (NP (NN 人｜lang5)))
+                  (VP (VV 嫌｜hiam5))))))))
+      (PU ，｜,)
+      (VP (VV 實-在｜sit8-tsai7) (AS 真｜tsin1)))
+    (SP 毋-值｜m7-tat8)
+    (PU ！｜!)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"毋-通｜m7-thang1
+",['D'],(ROOT (NP (NN 毋-通｜m7-thang1))),"['規則變調', '本調#']"
+"你｜li2 毋-通｜m7-thang1 傷｜siunn1 晏｜uann3 轉｜tng2 來｜0lai5 。｜.
+","['Nh', 'D', 'Dfa', 'VH', 'VCL', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (NN 你｜li2))
+    (PU 毋-通｜m7-thang1)
+    (VP
+      (VP (VV 傷｜siunn1) (NP (NN 晏｜uann3)))
+      (VP (VRD (VV 轉｜tng2) (VV 來｜0lai5))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '輕聲%', '毋是台語']"
+"毋-著｜m7-tioh8
+",['D'],(ROOT (NP (NN 毋-著｜m7-tioh8))),"['規則變調', '本調#']"
+"這｜tsit4 件｜kiann7 代-誌｜tai7-tsi3 毋-著｜m7-tioh8 的｜e5 人｜lang5 是｜si7 你｜li2 。｜.
+","['Nep', 'Nf', 'Na', 'D', 'DE', 'Na', 'SHI', 'Nh', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (NP
+        (CP
+          (IP
+            (VP (NP (NN 這｜tsit4) (NN 件｜kiann7) (NN 代-誌｜tai7-tsi3))))
+          (SP 毋-著｜m7-tioh8))
+        (CP (IP (VP (ADVP (AD 的｜e5)) (VP (VV 人｜lang5)))) (DEC 是｜si7))
+        (NP (PN 你｜li2))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"毋-過｜m7-koh4 毋-過｜m7-ko3 毋-過｜m7-ku3
+","['Cbb', 'Na', 'Na']",(ROOT (IP (VP (VV 毋-過｜m7-koh4) (AS 毋-過｜m7-ko3) (VV 毋-過｜m7-ku3)))),"['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"雖-然｜sui1-jian5 𪜶｜in1 兜｜tau1 真｜tsin1 散-赤｜san3-tshiah4 ，｜, 毋-過｜m7-koh4 𪜶｜in1 的｜e5 囡-仔｜gin2-a2 攏｜long2 真｜tsin1 有｜u7 出-脫｜tshut4-thuat4 。｜.
+","['Cbb', 'Nh', 'Nc', 'Dfa', 'VH', 'PUNC', 'Cbb', 'Nh', 'DE', 'Na', 'D', 'Dfa', 'V_2', 'VA', 'PUNC']","(ROOT
+  (IP
+    (NP
+      (ADJP (JJ 雖-然｜sui1-jian5))
+      (ADJP (JJ 𪜶｜in1))
+      (ADJP (JJ 兜｜tau1))
+      (ADJP (JJ 真｜tsin1))
+      (NP (NN 散-赤｜san3-tshiah4)))
+    (PU ，｜,)
+    (VP
+      (VV 毋-過｜m7-koh4)
+      (IP
+        (VP
+          (VV 𪜶｜in1)
+          (QP
+            (QP (CD 的｜e5))
+            (PU 囡-仔｜gin2-a2)
+            (PRN
+              (IP
+                (VP
+                  (LCP
+                    (IP (VP (VV 攏｜long2) (NP (NN 真｜tsin1))))
+                    (LC 有｜u7))
+                  (VP (VV 出-脫｜tshut4-thuat4)))))))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '仔前變調&', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"比-論｜pi2-lun7
+",['P'],(ROOT (NP (NN 比-論｜pi2-lun7))),"['規則變調', '本調#']"
+"比-論｜pi2-lun7 講｜kong2 這｜tsit4 件｜kiann7 代-誌｜tai7-tsi3 ，｜, 咱｜lan2 應-該｜ing3-kai1 愛｜ai3 按-呢｜an2-ne1 做｜tso3 。｜.
+","['P', 'VE', 'Nep', 'Nf', 'Na', 'PUNC', 'Nh', 'D', 'D', 'VH', 'VC', 'PUNC']","(ROOT
+  (IP
+    (NP
+      (NN 比-論｜pi2-lun7)
+      (NN 講｜kong2)
+      (NN 這｜tsit4)
+      (NN 件｜kiann7)
+      (NN 代-誌｜tai7-tsi3))
+    (PU ，｜,)
+    (VP
+      (VV 咱｜lan2)
+      (DFL (VV 應-該｜ing3-kai1))
+      (IP
+        (VP (VV 愛｜ai3) (DFL (VV 按-呢｜an2-ne1)) (IP (VP (VV 做｜tso3))))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"毛-跤｜mng5-kha1
+",['Na'],(ROOT (FRAG (NR 毛-跤｜mng5-kha1))),"['規則變調', '本調#']"
+"毛-跤｜mng5-kha1 欲｜beh4 修｜siu1 無｜0bo5 ？｜?
+","['Na', 'D', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (NP (NR 毛-跤｜mng5-kha1)) (NP (NN 欲｜beh4)))
+    (VP (VV 修｜siu1) (NP (VE 無｜0bo5)))
+    (PU ？｜?)))","['規則變調', '規則變調', '再變調$', '本調#', '輕聲%', '毋是台語']"
+"水-沖｜tsui2-tshiang5
+",['Na'],(ROOT (NP (NN 水-沖｜tsui2-tshiang5))),"['規則變調', '本調#']"
+"出-日｜tshut4-jit8 的｜e5 時｜si5 ，｜, 佇｜ti7 水-沖｜tsui2-tshiang5 邊｜pinn1 仔｜0a2 有｜u7 可-能｜kho2-ling5 會｜e7 看-著｜khuann3-tioh8 虹｜khing7 。｜.
+","['VA', 'DE', 'Na', 'PUNC', 'P', 'Na', 'Na', 'Na', 'V_2', 'D', 'D', 'VE', 'Na', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (NP (NN 出-日｜tshut4-jit8))
+      (NP (NP (NN 的｜e5)) (NP (NN 時｜si5)))
+      (PU ，｜,)
+      (VP
+        (LCP
+          (IP
+            (VP
+              (VV 佇｜ti7)
+              (NP
+                (LCP (NP (NN 水-沖｜tsui2-tshiang5)) (LC 邊｜pinn1))
+                (NP (NN 仔｜0a2)))))
+          (LC 有｜u7))
+        (VP
+          (VV 可-能｜kho2-ling5)
+          (IP
+            (NP (NN 會｜e7))
+            (VP (VV 看-著｜khuann3-tioh8) (NP (NN 虹｜khing7)))))))
+    (PU 。｜.)))","['規則變調', '本調#', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '仔前變調&', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"水-疱｜tsui2-pha7
+",['Na'],(ROOT (NP (NN 水-疱｜tsui2-pha7))),"['規則變調', '本調#']"
+"我｜gua2 跤-底｜kha1-te2 生｜senn1 一｜tsit8 粒｜liap8 水-疱｜tsui2-pha7 。｜.
+","['Nh', 'Na', 'VC', 'Neu', 'Nf', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (NP
+        (NN 我｜gua2)
+        (NN 跤-底｜kha1-te2)
+        (NN 生｜senn1)
+        (NN 一｜tsit8)
+        (NN 粒｜liap8)
+        (NN 水-疱｜tsui2-pha7)))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"水-道｜tsui2-to7
+",['Na'],(ROOT (NP (NN 水-道｜tsui2-to7))),"['規則變調', '本調#']"
+"水-道｜tsui2-to7 無｜bo5 水｜tsui2 矣｜0ah4 ！｜!
+","['Na', 'D', 'Na', 'Na', 'PUNC']","(ROOT
+  (CP
+    (IP
+      (NP (NN 水-道｜tsui2-to7))
+      (VP (ADVP (AD 無｜bo5)) (NP (NN 水｜tsui2))))
+    (SP 矣｜0ah4)
+    (PU ！｜!)))","['規則變調', '規則變調', '規則變調', '本調#', '輕聲%', '毋是台語']"
+"水-螺｜tsui2-le5
+",['Na'],(ROOT (FRAG (NR 水-螺｜tsui2-le5))),"['規則變調', '本調#']"
+"火-車｜hue2-tshia1 起-行｜khi2-kiann5 會｜e7 霆-水-螺｜tan5-tsui2-le5 。｜.
+","['Na', 'D', 'D', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (NP
+        (NP (NR 火-車｜hue2-tshia1))
+        (NP (NN 起-行｜khi2-kiann5) (NN 會｜e7) (NN 霆-水-螺｜tan5-tsui2-le5))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"水-觳-仔｜tsui2-khok4-a2
+",['Na'],(ROOT (FRAG (NR 水-觳-仔｜tsui2-khok4-a2))),"['規則變調', '仔前變調&', '本調#']"
+"現-代｜hian7-tai7 的｜e5 水-觳-仔｜tsui2-khok4-a2 塑-膠｜sok4-ka1 做｜tso3 的｜0e5 較｜khah4 濟｜tse7 。｜.
+","['VH', 'DE', 'Na', 'Na', 'VC', 'Na', 'Dfa', 'VH', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (DNP
+        (NP
+          (QP (ADVP (AD 現-代｜hian7-tai7)) (QP (CD 的｜e5)))
+          (NP
+            (NN 水-觳-仔｜tsui2-khok4-a2)
+            (NN 塑-膠｜sok4-ka1)
+            (NN 做｜tso3)))
+        (DEG 的｜0e5))
+      (IP (VP (ADVP (AD 較｜khah4)) (VP (VV 濟｜tse7)))))
+    (PU 。｜.)))","['規則變調', '本調#', '規則變調', '規則變調', '仔前變調&', '本調#', '規則變調', '規則變調', '本調#', '隨前變調@', '規則變調', '本調#', '毋是台語']"
+"水-櫃｜tsui2-kui7
+",['VH'],(ROOT (NP (NN 水-櫃｜tsui2-kui7))),"['規則變調', '本調#']"
+"腹-肚｜pak4-too2 若｜na2 水-櫃｜tsui2-kui7 ，｜, 胸-坎｜hing1-kham2 若｜na2 樓-梯｜lau5-thui1 。｜.
+","['Na', 'VG', 'VH', 'PUNC', 'Nc', 'VG', 'Na', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (NP (NN 腹-肚｜pak4-too2))
+      (VP
+        (VP (VSB (VV 若｜na2) (VV 水-櫃｜tsui2-kui7)))
+        (PU ，｜,)
+        (VP
+          (VV 胸-坎｜hing1-kham2)
+          (IP (VP (VV 若｜na2) (NP (NN 樓-梯｜lau5-thui1)))))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"王｜ong5 哥-柳｜0ko1-liu2 哥｜0ko1
+","['Nb', 'Na', 'Na']",(ROOT (IP (VP (VV 王｜ong5) (NP (NR 哥-柳｜0ko1-liu2) (NR 哥｜0ko1))))),"['本調#', '輕聲%', '輕聲%', '輕聲%']"
+"交｜kau1 朋-友｜ping5-iu2 愛｜ai3 注-意｜tsu3-i3 ，｜, 毋-通｜m7-thang1 去｜khi3 交｜kau1 著｜tioh8 王｜ong5 哥-柳｜0ko1-liu2 哥｜0ko1 。｜.
+","['VD', 'Na', 'D', 'VK', 'PUNC', 'D', 'D', 'VD', 'D', 'Nb', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (ADVP (AD 交｜kau1))
+      (VP
+        (VP
+          (ADVP (AD 朋-友｜ping5-iu2))
+          (ADVP (AD 愛｜ai3))
+          (VP (VA 注-意｜tsu3-i3)))
+        (PU ，｜,)
+        (IP
+          (NP (NN 毋-通｜m7-thang1) (NN 去｜khi3))
+          (VP
+            (VV 交｜kau1)
+            (IP
+              (VP
+                (VV 著｜tioh8)
+                (IP
+                  (VP
+                    (VV 王｜ong5)
+                    (NP (NR 哥-柳｜0ko1-liu2) (NR 哥｜0ko1))))))))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '再變調$', '規則變調', '規則變調', '本調#', '輕聲%', '輕聲%', '輕聲%', '毋是台語']"
+"丼｜tom5 一-聲｜tsit8-siann1
+","['D', 'Na']",(ROOT (ADVP (NP (NR 丼｜tom5)) (ADVP (AD 一-聲｜tsit8-siann1)))),"['規則變調', '規則變調', '本調#']"
+"捾-桶-仔｜kuann7-thang2-a2 丼｜tom5 一｜tsit8 聲｜siann1 就｜to7 跋｜puah8 入-去｜jip8-khi3 古-井｜koo2-tsenn2 內｜lai7 矣｜0ah4 。｜.
+","['Na', 'D', 'Neu', 'Na', 'D', 'VE', 'VA', 'Na', 'Ng', 'Na', 'PUNC']","(ROOT
+  (CP
+    (IP
+      (NP
+        (NN 捾-桶-仔｜kuann7-thang2-a2)
+        (NN 丼｜tom5)
+        (NN 一｜tsit8)
+        (NN 聲｜siann1))
+      (PU 就｜to7)
+      (NP (NN 跋｜puah8))
+      (VP
+        (VV 入-去｜jip8-khi3)
+        (LCP (NP (NN 古-井｜koo2-tsenn2)) (LC 內｜lai7))))
+    (SP 矣｜0ah4)
+    (PU 。｜.)))","['規則變調', '仔前變調&', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '再變調$', '規則變調', '規則變調', '本調#', '輕聲%', '毋是台語']"
+"仝-爸-各-母｜ang7-pe7-koh4-bu2 仝-爸-各-母｜ang7-pe7-koh4-bo2
+","['Na', 'Na']","(ROOT
+  (NP (NN 仝-爸-各-母｜ang7-pe7-koh4-bu2) (NN 仝-爸-各-母｜ang7-pe7-koh4-bo2)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"𪜶｜in1 兩｜nng7 个｜e5 是｜si7 仝-爸-各-母｜kang7-pe7-koh4-bu2 的｜e5 兄-弟｜hiann1-ti7 。｜.
+","['Nh', 'Neu', 'Nf', 'SHI', 'Nes', 'DE', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP
+      (NN 𪜶｜in1)
+      (NN 兩｜nng7)
+      (NN 个｜e5)
+      (NN 是｜si7)
+      (NN 仝-爸-各-母｜kang7-pe7-koh4-bu2)
+      (NN 的｜e5)
+      (NN 兄-弟｜hiann1-ti7))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '本調#', '毋是台語']"
+"代-先｜tai7-sing1
+",['D'],(ROOT (NP (NN 代-先｜tai7-sing1))),"['規則變調', '本調#']"
+"代-先｜tai7-sing1 呼｜hoo1 予｜hoo7 明｜bing5 ，｜, 才｜tsiah4 袂｜be7 後-擺｜au7-pai2 三｜sann1 人｜lang5 五｜goo7 目｜bak8 ，｜, 講｜kong2 長-短-跤-話｜tng5-te2-kha1-ue7 。｜.
+","['D', 'VA', 'P', 'VH', 'PUNC', 'Da', 'D', 'Nd', 'Neu', 'Na', 'Neu', 'Nf', 'PUNC', 'VE', 'Neu', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (VP
+        (VV 代-先｜tai7-sing1)
+        (IP
+          (VP (VV 呼｜hoo1) (IP (VP (VSB (VV 予｜hoo7) (VV 明｜bing5))))))))
+    (PU ，｜,)
+    (IP
+      (NP (NN 才｜tsiah4) (NN 袂｜be7))
+      (VP
+        (VV 後-擺｜au7-pai2)
+        (NP
+          (NP (QP (CD 三｜sann1)) (NP (NN 人｜lang5)) (PU 五｜goo7))
+          (NP (NN 目｜bak8)))))
+    (PU ，｜,)
+    (IP
+      (VP (NP (NP (NR 講｜kong2)) (NP (NN 長-短-跤-話｜tng5-te2-kha1-ue7)))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"代-誌｜tai7-tsi3
+",['Na'],(ROOT (NP (NN 代-誌｜tai7-tsi3))),"['規則變調', '本調#']"
+"厝-內｜tshu3-lai7 大-細｜tua7-se3 項｜hang7 代-誌｜tai7-tsi3 攏-是｜long2-si7 伊｜i1 咧｜teh4 發-落｜huat8-loh8 。｜.
+","['Nc', 'Na', 'Nf', 'Na', 'D', 'Nh', 'P', 'VC', 'PUNC']","(ROOT
+  (IP
+    (NP
+      (NP (NN 厝-內｜tshu3-lai7))
+      (CLP (ADJP (JJ 大-細｜tua7-se3)) (CLP (M 項｜hang7)))
+      (NP (NN 代-誌｜tai7-tsi3)))
+    (VP
+      (VC 攏-是｜long2-si7)
+      (VP (VP (VV 伊｜i1) (NP (NN 咧｜teh4))) (VP (VV 發-落｜huat8-loh8))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '再變調$', '規則變調', '本調#', '毋是台語']"
+"出-水｜tshut4-tsui2
+",['VH'],(ROOT (NP (NN 出-水｜tshut4-tsui2))),"['規則變調', '本調#']"
+"阮｜guan2 阿-公｜a1-kong1 耍｜sng2 股-票｜koo2-phio3 輸｜su1 了-了｜liau2-liau2 ，｜, 煞｜suah4 拍｜phah4 我｜gua2 出-水｜tshut4-tsui2 。｜.
+","['Nh', 'Na', 'VC', 'Na', 'VD', 'Na', 'PUNC', 'D', 'VC', 'Nh', 'VH', 'PUNC']","(ROOT
+  (IP
+    (NP
+      (NN 阮｜guan2)
+      (NN 阿-公｜a1-kong1)
+      (NN 耍｜sng2)
+      (NN 股-票｜koo2-phio3)
+      (NN 輸｜su1)
+      (NN 了-了｜liau2-liau2))
+    (PU ，｜,)
+    (VP
+      (VP (VRD (VV 煞｜suah4) (VV 拍｜phah4)))
+      (VP (VV 我｜gua2))
+      (VP (VV 出-水｜tshut4-tsui2)))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"出-珠｜tshut4-tsu1
+",['VH'],(ROOT (IP (VP (VV 出-珠｜tshut4-tsu1)))),"['規則變調', '本調#']"
+"出-珠｜tshut4-tsu1 的｜e5 人｜lang5 毋-通｜m7-thang1 四-界｜si3-ke3 走｜tsau2 ，｜, 才｜tsiah4 袂｜be7 去｜khi3 共｜ka7 人｜lang5 穢｜ue3 著｜0tioh8 。｜.
+","['VH', 'DE', 'Na', 'D', 'D', 'VA', 'PUNC', 'Da', 'D', 'D', 'P', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (DFL (VV 出-珠｜tshut4-tsu1) (VV 的｜e5))
+    (IP
+      (VP
+        (VRD (VV 人｜lang5) (VV 毋-通｜m7-thang1))
+        (VP (VRD (VV 四-界｜si3-ke3) (VV 走｜tsau2)))))
+    (PU ，｜,)
+    (NP (NN 才｜tsiah4) (NN 袂｜be7) (NN 去｜khi3))
+    (VP
+      (VV 共｜ka7)
+      (IP (NP (NN 人｜lang5)) (VP (VV 穢｜ue3) (AS 著｜0tioh8))))
+    (PU 。｜.)))","['規則變調', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '再變調$', '規則變調', '規則變調', '本調#', '輕聲%', '毋是台語']"
+"出-酒｜tshut4-tsiu2
+",['VC'],(ROOT (IP (VP (VV 出-酒｜tshut4-tsiu2)))),"['規則變調', '本調#']"
+"伊｜i1 昨-暗｜tsa1-am3 出-酒｜tshut4-tsiu2 ，｜, 到-今｜kau3-tann1 猶｜iau2 咧｜teh4 艱-苦｜kan1-khoo2 。｜.
+","['Nh', 'Nd', 'VC', 'PUNC', 'P', 'D', 'P', 'VHC', 'PUNC']","(ROOT
+  (IP
+    (NP
+      (NP (NN 伊｜i1))
+      (NP (ADVP (AD 昨-暗｜tsa1-am3)) (NP (NN 出-酒｜tshut4-tsiu2))))
+    (PU ，｜,)
+    (VP
+      (ADVP (AD 到-今｜kau3-tann1))
+      (VP (VV 猶｜iau2) (IP (NP (NN 咧｜teh4)) (VP (VA 艱-苦｜kan1-khoo2)))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '再變調$', '規則變調', '本調#', '毋是台語']"
+"加-話｜ke1-ue7
+",['Na'],(ROOT (NP (NN 加-話｜ke1-ue7))),"['規則變調', '本調#']"
+"加-話｜ke1-ue7 減｜kiam2 講｜kong2 寡｜0kua2 。｜.
+","['Na', 'D', 'VE', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (NN 加-話｜ke1-ue7))
+    (VP (VV 減｜kiam2) (NP (NN 講｜kong2) (NN 寡｜0kua2)))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '本調#', '輕聲%', '毋是台語']"
+"半-空-中｜puann3-khong1-tiong1
+",['Cbb'],(ROOT (NP (NN 半-空-中｜puann3-khong1-tiong1))),"['規則變調', '規則變調', '本調#']"
+"代-誌｜tai7-tsi3 按-呢｜an2-ne1 一-直｜it4-tit8 吊｜tiau3 佇｜ti7 半-空-中｜puann3-khong1-tiong1 嘛｜ma7 毋｜m7 是｜si7 辦-法｜pan7-huat4 。｜.
+","['Na', 'VH', 'D', 'VC', 'P', 'Cbb', 'D', 'D', 'SHI', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (NN 代-誌｜tai7-tsi3))
+    (FLR (SP 按-呢｜an2-ne1))
+    (VP
+      (ADVP (AD 一-直｜it4-tit8))
+      (VP
+        (VV 吊｜tiau3)
+        (NP
+          (NP
+            (NP
+              (NP
+                (NN 佇｜ti7)
+                (NN 半-空-中｜puann3-khong1-tiong1)
+                (NN 嘛｜ma7))
+              (NP (NN 毋｜m7)))
+            (NP (NN 是｜si7)))
+          (NP (NN 辦-法｜pan7-huat4)))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"半-桶-師-仔｜puann3-thang2-sai1-a2
+",['Na'],(ROOT (FRAG (NR 半-桶-師-仔｜puann3-thang2-sai1-a2))),"['規則變調', '規則變調', '仔前變調&', '本調#']"
+"你｜li2 只-不-過｜tsi2-put4-ko3 是｜si7 一｜tsit8 个｜e5 半-桶-師-仔｜puann3-thang2-sai1-a2 ，｜, 有｜u7 啥-物｜siann2-mih4 好｜ho2 囂-俳｜hiau1-pai1 ？｜?
+","['Nh', 'Da', 'SHI', 'Neu', 'Nf', 'Na', 'PUNC', 'V_2', 'Nep', 'VH', 'VH', 'PUNC']","(ROOT
+  (IP
+    (NP
+      (NN 你｜li2)
+      (NN 只-不-過｜tsi2-put4-ko3)
+      (NN 是｜si7)
+      (NN 一｜tsit8)
+      (NN 个｜e5)
+      (NN 半-桶-師-仔｜puann3-thang2-sai1-a2))
+    (PU ，｜,)
+    (VP
+      (VP (VA 有｜u7) (VA 啥-物｜siann2-mih4) (VA 好｜ho2))
+      (VP (VA 囂-俳｜hiau1-pai1)))
+    (PU ？｜?)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '仔前變調&', '本調#', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"半-䖙-倒｜uann3-the1-to2 半-䖙-倒｜uann3-thenn1-to2
+","['Na', 'Na']",(ROOT (NP (NR 半-䖙-倒｜uann3-the1-to2) (NR 半-䖙-倒｜uann3-thenn1-to2))),"['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"你｜li2 若｜na7 欲｜beh4 半-䖙-倒｜puann3-the1-to2 看｜khuann3 電-視｜tian7-si7 ，｜, 你｜li2 的｜e5 目-睭｜bak8-tsiu1 早-慢｜tsa2-ban7 會｜e7 近-視｜kin7-si7 。｜.
+","['Nh', 'Cbb', 'D', 'VA', 'VC', 'Na', 'PUNC', 'Nh', 'DE', 'Na', 'D', 'D', 'VH', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (NP
+        (NP
+          (NN 你｜li2)
+          (NN 若｜na7)
+          (NN 欲｜beh4)
+          (NN 半-䖙-倒｜puann3-the1-to2)
+          (NN 看｜khuann3)
+          (NN 電-視｜tian7-si7))
+        (PU ，｜,)
+        (NP
+          (NN 你｜li2)
+          (NN 的｜e5)
+          (NN 目-睭｜bak8-tsiu1)
+          (NN 早-慢｜tsa2-ban7)
+          (NN 會｜e7)
+          (NN 近-視｜kin7-si7))))
+    (PU 。｜.)))","['規則變調', '規則變調', '再變調$', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"古-意｜koo2-i3
+",['VH'],(ROOT (NP (NN 古-意｜koo2-i3))),"['規則變調', '本調#']"
+"伊｜i1 做-人｜tso3-lang5 誠｜tsiann5 古-意｜koo2-i3 。｜.
+","['Nh', 'VA', 'Dfa', 'VH', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (VA 伊｜i1)
+      (VA 做-人｜tso3-lang5)
+      (VCD (VA 誠｜tsiann5) (VA 古-意｜koo2-i3)))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"古-錐｜koo2-tsui1
+",['VH'],(ROOT (FRAG (NR 古-錐｜koo2-tsui1))),"['規則變調', '本調#']"
+"伊｜i1 生-做｜senn1-tso3 真｜tsin1 古-錐｜koo2-tsui1 。｜.
+","['Nh', 'VC', 'Dfa', 'VH', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (VA 伊｜i1)
+      (VA 生-做｜senn1-tso3)
+      (VCD (VA 真｜tsin1) (VA 古-錐｜koo2-tsui1)))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"叫-門｜kio3-mng5
+",['VA'],(ROOT (IP (VP (VV 叫-門｜kio3-mng5)))),"['規則變調', '本調#']"
+"有｜u7 人｜lang5 咧｜teh4 叫-門｜kio3-mng5 ，｜, 你｜li2 去｜khi3 看｜khuann3 是｜si7 啥-物｜siann2-mih4 人｜lang5 ？｜?
+","['V_2', 'Na', 'P', 'VA', 'PUNC', 'Nh', 'D', 'VC', 'SHI', 'Nep', 'Na', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (NP (ADJP (JJ 有｜u7)) (NP (NN 人｜lang5)))
+      (VP (VSB (VV 咧｜teh4) (VV 叫-門｜kio3-mng5))))
+    (PU ，｜,)
+    (IP
+      (NP (PN 你｜li2) (NN 去｜khi3))
+      (PU 看｜khuann3)
+      (ADVP (AD 是｜si7))
+      (NP (NN 啥-物｜siann2-mih4))
+      (VP (VV 人｜lang5)))
+    (PU ？｜?)))","['規則變調', '規則變調', '再變調$', '規則變調', '規則變調', '毋是台語', '規則變調', '再變調$', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"叫-客｜kio3-kheh4
+",['VC'],(ROOT (IP (VP (VV 叫-客｜kio3-kheh4)))),"['規則變調', '本調#']"
+"生-理｜sing1-li2 若｜na7 欲｜beh4 好｜ho2 ，｜, 嘛｜ma7 愛｜ai3 𠢕｜gau5 叫-客｜kio3-kheh4 。｜.
+","['Na', 'Cbb', 'D', 'VH', 'PUNC', 'D', 'D', 'D', 'VC', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (NP (NN 生-理｜sing1-li2) (NN 若｜na7) (NN 欲｜beh4))
+      (VP (VA 好｜ho2)))
+    (PU ，｜,)
+    (NP (NN 嘛｜ma7) (NN 愛｜ai3) (NN 𠢕｜gau5) (NN 叫-客｜kio3-kheh4))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '再變調$', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"司-奶｜sai1-nai1
+",['VA'],(ROOT (NP (NN 司-奶｜sai1-nai1))),"['規則變調', '本調#']"
+"這｜tsit4 个｜e5 查-某｜tsa1-boo2 囡-仔｜gin2-a2 真｜tsin1 𠢕｜gau5 司-奶｜sai1-nai1 。｜.
+","['Nep', 'Nf', 'Na', 'Na', 'Dfa', 'D', 'VA', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (VV 這｜tsit4)
+      (IP
+        (VP
+          (VV 个｜e5)
+          (IP
+            (VP
+              (VV 查-某｜tsa1-boo2)
+              (IP
+                (VP
+                  (VV 囡-仔｜gin2-a2)
+                  (IP
+                    (VP
+                      (VV 真｜tsin1)
+                      (IP (VP (VCD (VV 𠢕｜gau5) (VV 司-奶｜sai1-nai1)))))))))))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '仔前變調&', '本調#', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"四-界-趖｜si3-ke3-so5 四-界-趖｜si3-kue3-so5
+","['D', 'Na']",(ROOT (NP (NP (NR 四-界-趖｜si3-ke3-so5)) (NP (NN 四-界-趖｜si3-kue3-so5)))),"['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"你｜li2 毋-通｜m7-thang1 四-界-趖｜si3-ke3-so5 。｜.
+","['Nh', 'D', 'D', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (VV 你｜li2)
+      (IP (VP (VV 毋-通｜m7-thang1) (NP (VV 四-界-趖｜si3-ke3-so5)))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"四-配｜su3-phue3 四-配｜su3-phe3
+","['Dfa', 'Na']",(ROOT (VCD (VV 四-配｜su3-phue3) (VV 四-配｜su3-phe3))),"['規則變調', '規則變調', '規則變調', '本調#']"
+"𪜶｜in1 兩｜nng7 个｜e5 有｜u7 四-配｜su3-phue3 。｜.
+","['Nh', 'Neu', 'Nf', 'V_2', 'Dfa', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (VA 𪜶｜in1)
+      (VA 兩｜nng7)
+      (VA 个｜e5)
+      (VA 有｜u7)
+      (VA 四-配｜su3-phue3))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"外-口｜gua7-khau2
+",['Ncd'],(ROOT (NP (NN 外-口｜gua7-khau2))),"['規則變調', '本調#']"
+"伊｜i1 拄-才｜tu2-tsiah4 對｜tui3 外-口｜gua7-khau2 轉｜tng2 來｜0lai5 。｜.
+","['Nh', 'Nd', 'P', 'Ncd', 'VCL', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (NN 伊｜i1))
+    (VP
+      (ADVP (AD 拄-才｜tu2-tsiah4))
+      (PP (P 對｜tui3) (NP (NN 外-口｜gua7-khau2)))
+      (VP (VRD (VV 轉｜tng2) (VV 來｜0lai5))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '輕聲%', '毋是台語']"
+"外-路-仔｜gua7-loo7-a2
+",['Na'],(ROOT (FRAG (NR 外-路-仔｜gua7-loo7-a2))),"['規則變調', '仔前變調&', '本調#']"
+"加-減｜ke1-kiam2 趁｜than3 一-寡-仔｜tsit8-kua2-a2 外-路-仔｜gua7-loo7-a2 來｜lai5 補-貼｜poo2-thiap4 家-用｜ka1-iong7 。｜.
+","['Neqa', 'VC', 'Neqa', 'Na', 'D', 'VC', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (P 加-減｜ke1-kiam2)
+      (IP
+        (VP
+          (VV 趁｜than3)
+          (VP
+            (VV 一-寡-仔｜tsit8-kua2-a2)
+            (VP
+              (P 外-路-仔｜gua7-loo7-a2)
+              (IP
+                (VP
+                  (VV 來｜lai5)
+                  (VP (VV 補-貼｜poo2-thiap4) (NP (NN 家-用｜ka1-iong7))))))))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '仔前變調&', '本調#', '規則變調', '仔前變調&', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"失-言｜sit4-gian5
+",['VC'],(ROOT (IP (VP (VV 失-言｜sit4-gian5)))),"['規則變調', '本調#']"
+"講-話｜kong2-ue7 攏｜long2 無｜bo5 考-慮｜kho2-li7 ，｜, 當-然｜tong1-jian5 會｜e7 失-言｜sit4-gian5 。｜.
+","['VA', 'D', 'D', 'VE', 'PUNC', 'D', 'D', 'VC', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (VV 講-話｜kong2-ue7)
+      (IP
+        (VP
+          (VV 攏｜long2)
+          (IP
+            (VP
+              (VV 無｜bo5)
+              (IP
+                (VP
+                  (VV 考-慮｜kho2-li7)
+                  (PU ，｜,)
+                  (IP
+                    (NP (NN 當-然｜tong1-jian5))
+                    (VP (VV 會｜e7) (NP (NN 失-言｜sit4-gian5)))))))))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"失-重｜sit4-tang7
+",['VHC'],(ROOT (IP (VP (VV 失-重｜sit4-tang7)))),"['規則變調', '本調#']"
+"菜-頭｜tshai3-thau5 囥｜khng3 傷｜siunn1 久｜ku2 就｜to7 會｜e7 消-水｜siau1-tsui2 失-重｜sit4-tang7 。｜.
+","['Na', 'VC', 'Dfa', 'VH', 'D', 'D', 'VJ', 'VHC', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (NP (DP (DT 菜-頭｜tshai3-thau5)) (NP (NN 囥｜khng3)))
+      (VP (VV 傷｜siunn1) (ADVP (AD 久｜ku2))))
+    (PU 就｜to7)
+    (IP (NP (NN 會｜e7) (NN 消-水｜siau1-tsui2)) (VP (VV 失-重｜sit4-tang7)))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"失-覺-察｜sit4-kak4-tshat4
+",['VJ'],(ROOT (IP (VP (VV 失-覺-察｜sit4-kak4-tshat4)))),"['規則變調', '規則變調', '本調#']"
+"我｜gua2 一-時｜tsit8-si5 失-覺-察｜sit4-kak4-tshat4 ，｜, 煞｜suah4 予｜hoo7 彼｜hit4 个｜e5 賊-仔｜tshat8-a2 走｜tsau2 去｜0khi3 。｜.
+","['Nh', 'Nd', 'VJ', 'PUNC', 'D', 'P', 'Nep', 'Nf', 'Na', 'VA', 'Na', 'PUNC']","(ROOT
+  (IP
+    (DEG 我｜gua2)
+    (IP
+      (NP (NN 一-時｜tsit8-si5))
+      (VP
+        (VP (VV 失-覺-察｜sit4-kak4-tshat4))
+        (PU ，｜,)
+        (VP
+          (ADVP (AD 煞｜suah4))
+          (VP
+            (VV 予｜hoo7)
+            (IP
+              (NP (NN 彼｜hit4))
+              (VP
+                (NP (QP (CLP (M 个｜e5))) (NP (NN 賊-仔｜tshat8-a2)))
+                (VP (VRD (VV 走｜tsau2) (VV 去｜0khi3)))))))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '仔前變調&', '本調#', '本調#', '輕聲%', '毋是台語']"
+"奶-母-車｜ling1-bu2-tshia1 奶-母-車｜ni1-bu2-tshia1 奶-母-車｜lin1-bu2-tshia1
+","['Na', 'Na', 'Na']","(ROOT
+  (NP
+    (NN 奶-母-車｜ling1-bu2-tshia1)
+    (NN 奶-母-車｜ni1-bu2-tshia1)
+    (NN 奶-母-車｜lin1-bu2-tshia1)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"嬰-仔｜enn1-a2 愛｜ai3 坐｜tse7 奶-母-車｜ling1-bu2-tshia1 。｜.
+","['Na', 'D', 'VA', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (NP
+        (NN 嬰-仔｜enn1-a2)
+        (NN 愛｜ai3)
+        (NN 坐｜tse7)
+        (NN 奶-母-車｜ling1-bu2-tshia1)))
+    (PU 。｜.)))","['仔前變調&', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"幼-路｜iu3-loo7
+",['VH'],(ROOT (IP (VP (VA 幼-路｜iu3-loo7)))),"['規則變調', '本調#']"
+"這｜tsit4 領｜nia2 膨-紗-衫｜phong3-se1-sann1 刺｜tshiah4 了｜liau2 真｜tsin1 幼-路｜iu3-loo7 。｜.
+","['Nep', 'Nf', 'Na', 'VC', 'DE', 'Dfa', 'VH', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (VA 這｜tsit4)
+      (VA 領｜nia2)
+      (VP
+        (VA 膨-紗-衫｜phong3-se1-sann1)
+        (VP
+          (VA 刺｜tshiah4)
+          (VA 了｜liau2)
+          (VCD (VA 真｜tsin1) (VA 幼-路｜iu3-loo7)))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"必-痕｜pit4-hun5
+",['Na'],(ROOT (NP (NN 必-痕｜pit4-hun5))),"['規則變調', '本調#']"
+"這｜tsit4 塊｜te3 杯-仔｜pue1-a2 有｜u7 必-痕｜pit4-hun5 ，｜, 用｜ing7 的｜e5 時｜si5 愛｜ai3 較｜khah4 注-意｜tsu3-i3 一-下｜0tsit8-e7 。｜.
+","['Nep', 'Nf', 'Na', 'V_2', 'Na', 'PUNC', 'P', 'DE', 'Na', 'D', 'Dfa', 'VK', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (NP
+        (NN 這｜tsit4)
+        (NN 塊｜te3)
+        (NN 杯-仔｜pue1-a2)
+        (NN 有｜u7)
+        (NN 必-痕｜pit4-hun5))
+      (PU ，｜,)
+      (LCP (LCP (IP (VP (VV 用｜ing7))) (LC 的｜e5)) (LC 時｜si5))
+      (VP
+        (VV 愛｜ai3)
+        (IP
+          (VP
+            (ADVP (AD 較｜khah4))
+            (VP (VV 注-意｜tsu3-i3) (ADVP (AD 一-下｜0tsit8-e7)))))))
+    (PU 。｜.)))","['規則變調', '規則變調', '仔前變調&', '本調#', '規則變調', '規則變調', '規則變調', '毋是台語', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '輕聲%', '輕聲%', '毋是台語']"
+"扒-飯｜pe1-png7
+",['VC'],(ROOT (FRAG (NR 扒-飯｜pe1-png7))),"['規則變調', '本調#']"
+"阮｜guan2 囝｜kiann2 已-經｜i2-king1 會-曉｜e7-hiau2 家-己｜ka1-ki7 扒-飯｜pe1-png7 矣｜0ah4 。｜.
+","['Nh', 'Na', 'D', 'D', 'Nh', 'VC', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (AS 阮｜guan2)
+      (CP
+        (PU 囝｜kiann2)
+        (SP 已-經｜i2-king1)
+        (PU 會-曉｜e7-hiau2)
+        (NP (NN 家-己｜ka1-ki7) (NN 扒-飯｜pe1-png7))
+        (SP 矣｜0ah4)))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '輕聲%', '毋是台語']"
+"母-仔-囝｜bu2-a2-kiann2 母-仔-囝｜bo2-a2-kiann2
+","['Na', 'Na']","(ROOT
+  (IP (NP (NN 母-仔-囝｜bu2-a2-kiann2)) (VP (VV 母-仔-囝｜bo2-a2-kiann2))))","['仔前變調&', '規則變調', '本調#', '仔前變調&', '規則變調', '本調#']"
+"𪜶｜in1 母-仔-囝｜bu2-a2-kiann2 兩｜nng7 个｜e5 人｜lang5 無-依-無-倚｜bo5-i1-bo5-ua2 ，｜, 日-子｜jit8-tsi2 過-了｜kue3-liau2 誠｜tsiann5 艱-苦｜kan1-khoo2 。｜.
+","['Nh', 'Na', 'Neu', 'Nf', 'Na', 'VH', 'PUNC', 'Na', 'VCL', 'Dfa', 'VHC', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (VP
+        (VV 𪜶｜in1)
+        (IP
+          (NP
+            (NP
+              (NP (NN 母-仔-囝｜bu2-a2-kiann2) (NN 兩｜nng7))
+              (NP (NN 个｜e5)))
+            (NP (NN 人｜lang5)))
+          (VP (VV 無-依-無-倚｜bo5-i1-bo5-ua2)))))
+    (PU ，｜,)
+    (IP
+      (NP (NN 日-子｜jit8-tsi2))
+      (SP 過-了｜kue3-liau2)
+      (VP (ADVP (AD 誠｜tsiann5)) (VP (VA 艱-苦｜kan1-khoo2))))
+    (PU 。｜.)))","['規則變調', '仔前變調&', '規則變調', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"生-份｜senn1-hun7 生-份｜sinn1-hun7
+","['VI', 'Na']",(ROOT (NP (QP (CLP (M 生-份｜senn1-hun7))) (NP (NN 生-份｜sinn1-hun7)))),"['規則變調', '規則變調', '規則變調', '本調#']"
+"這｜tsit4 个｜e5 名｜mia5 真｜tsin1 生-份｜senn1-hun7 ，｜, 我｜gua2 無｜bo5 熟-似｜sik8-sai7 。｜.
+","['Nep', 'Nf', 'Na', 'Dfa', 'VI', 'PUNC', 'Nh', 'D', 'VJ', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (IP
+        (VP (NN 這｜tsit4) (NP (QP (CLP (M 个｜e5))) (NP (NN 名｜mia5)))))
+      (VP (ADVP (AD 真｜tsin1)) (VP (VV 生-份｜senn1-hun7))))
+    (PU ，｜,)
+    (IP
+      (NP (PN 我｜gua2))
+      (VP (ADVP (AD 無｜bo5)) (VP (VV 熟-似｜sik8-sai7))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"生-囝｜senn1-kiann2 生-囝｜sinn1-kiann2
+","['VC', 'Na']",(ROOT (IP (NP (NN 生-囝｜senn1-kiann2)) (VP (VV 生-囝｜sinn1-kiann2)))),"['規則變調', '規則變調', '規則變調', '本調#']"
+"查-某-人｜tsa1-boo2-lang5 生-囝｜senn1-kiann2 是｜si7 真｜tsin1 危-險｜gui5-hiam2 的｜e5 代-誌｜tai7-tsi3 。｜.
+","['Na', 'VC', 'SHI', 'Dfa', 'VH', 'DE', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (NP
+        (NN 查-某-人｜tsa1-boo2-lang5)
+        (NN 生-囝｜senn1-kiann2)
+        (NN 是｜si7)
+        (NN 真｜tsin1)
+        (NN 危-險｜gui5-hiam2)
+        (NN 的｜e5)
+        (NN 代-誌｜tai7-tsi3)))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '本調#', '毋是台語']"
+"生-成｜senn1-sing5 生-成｜sinn1-sing5
+","['VH', 'Na']",(ROOT (VCD (VV 生-成｜senn1-sing5) (VV 生-成｜sinn1-sing5))),"['規則變調', '規則變調', '規則變調', '本調#']"
+"伊｜i1 生-成｜senn1-sing5 愛｜ai3 𨑨-迌｜tshit4-tho5 無-愛｜bo5-ai3 讀｜thak8 冊｜tsheh4 。｜.
+","['Nh', 'VH', 'D', 'VC', 'D', 'VC', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (VV 伊｜i1)
+      (VP
+        (VV 生-成｜senn1-sing5)
+        (IP
+          (VP
+            (VV 愛｜ai3)
+            (VP
+              (VV 𨑨-迌｜tshit4-tho5)
+              (IP
+                (VP
+                  (VV 無-愛｜bo5-ai3)
+                  (VP (VV 讀｜thak8) (IP (VP (VV 冊｜tsheh4)))))))))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"生-冷｜tshenn1-ling2 生-冷｜tshinn1-ling2
+","['D', 'Na']",(ROOT (NP (ADJP (JJ 生-冷｜tshenn1-ling2)) (NP (NN 生-冷｜tshinn1-ling2)))),"['規則變調', '規則變調', '規則變調', '本調#']"
+"昨-昏｜tsa1-hng1 下-晝｜e7-tau3 比｜pi2 今-仔-日｜kin1-a2-jit8 較｜khah4 生-冷｜tshenn1-ling2 。｜.
+","['Nd', 'Nd', 'P', 'Nd', 'Dfa', 'D', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (VA 昨-昏｜tsa1-hng1)
+      (VA 下-晝｜e7-tau3)
+      (VP
+        (VA 比｜pi2)
+        (VP
+          (VA 今-仔-日｜kin1-a2-jit8)
+          (VA 較｜khah4)
+          (VA 生-冷｜tshenn1-ling2))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '仔前變調&', '規則變調', '本調#', '規則變調', '規則變調', '本調#', '毋是台語']"
+"生-狂｜tshenn1-kong5 生-狂｜tshinn1-kong5
+","['VH', 'Na']","(ROOT
+  (ADVP (ADVP (AD 生-狂｜tshenn1-kong5)) (ADVP (AD 生-狂｜tshinn1-kong5))))","['規則變調', '規則變調', '規則變調', '本調#']"
+"伊｜i1 做｜tso3 代-誌｜tai7-tsi3 傷｜siunn1 生-狂｜tshenn1-kong5 。｜.
+","['Nh', 'VC', 'Na', 'Dfa', 'VH', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (VA 伊｜i1)
+      (VA 做｜tso3)
+      (VP
+        (VA 代-誌｜tai7-tsi3)
+        (VP (VCD (VA 傷｜siunn1) (VA 生-狂｜tshenn1-kong5)))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"生-粒-仔｜senn1-liap8-a2 生-粒-仔｜sinn1-liap8-a2
+","['VH', 'Na']",(ROOT (NP (NR 生-粒-仔｜senn1-liap8-a2) (NR 生-粒-仔｜sinn1-liap8-a2))),"['規則變調', '仔前變調&', '本調#', '規則變調', '仔前變調&', '本調#']"
+"生-粒-仔｜senn1-liap8-a2 的｜e5 所-在｜soo2-tsai7 愛｜ai3 保-持｜po2-tshi5 焦-燥｜ta1-so3 。｜.
+","['VH', 'DE', 'Na', 'D', 'VJ', 'VH', 'PUNC']","(ROOT
+  (IP
+    (NP (NN 生-粒-仔｜senn1-liap8-a2))
+    (VP
+      (VP
+        (VV 的｜e5)
+        (NP (NN 所-在｜soo2-tsai7) (NN 愛｜ai3) (NN 保-持｜po2-tshi5)))
+      (VP (VV 焦-燥｜ta1-so3)))
+    (PU 。｜.)))","['規則變調', '仔前變調&', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"生-菇｜senn1-koo1 生-菇｜sinn1-koo1
+","['VH', 'Na']",(ROOT (VCD (VV 生-菇｜senn1-koo1) (VV 生-菇｜sinn1-koo1))),"['規則變調', '規則變調', '規則變調', '本調#']"
+"彼｜hit4 塊｜te3 餅｜piann2 生-菇｜senn1-koo1 矣｜0ah4 ，｜, 毋-通｜m7-thang1 食｜tsiah8 ！｜!
+","['Nep', 'Nf', 'Na', 'VH', 'Na', 'PUNC', 'D', 'VC', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (NP (NN 彼｜hit4))
+      (NP (QP (CLP (M 塊｜te3))) (NP (NN 餅｜piann2)))
+      (VP (VV 生-菇｜senn1-koo1))
+      (FLR (SP 矣｜0ah4)))
+    (PU ，｜,)
+    (IP (NP (NN 毋-通｜m7-thang1)) (PU 食｜tsiah8))
+    (PU ！｜!)))","['規則變調', '規則變調', '規則變調', '規則變調', '本調#', '輕聲%', '毋是台語', '規則變調', '規則變調', '本調#', '毋是台語']"
+"生-話｜senn1-ue7 生-話｜sinn1-ue7
+","['VA', 'Na']",(ROOT (IP (NP (NN 生-話｜senn1-ue7)) (VP (VV 生-話｜sinn1-ue7)))),"['規則變調', '規則變調', '規則變調', '本調#']"
+"你｜li2 毋-通｜m7-thang1 烏-白｜oo1-peh8 生-話｜senn1-ue7 。｜.
+","['Nh', 'D', 'VH', 'VA', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (VV 你｜li2)
+      (IP
+        (VP
+          (VV 毋-通｜m7-thang1)
+          (IP (VP (VCD (VV 烏-白｜oo1-peh8) (VV 生-話｜senn1-ue7)))))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"生-鉎｜senn1-sian1 生-鉎｜sinn1-sian1
+","['VH', 'Na']",(ROOT (IP (NP (NR 生-鉎｜senn1-sian1)) (VP (VV 生-鉎｜sinn1-sian1)))),"['規則變調', '規則變調', '規則變調', '本調#']"
+"彼｜hit4 塊｜te3 鐵-仔｜thih4-a2 生-鉎｜senn1-sian1 矣｜0ah4 ！｜!
+","['Nep', 'Nf', 'Na', 'VH', 'Na', 'PUNC']","(ROOT
+  (CP
+    (IP
+      (NP (NN 彼｜hit4))
+      (VP
+        (NP (QP (CLP (M 塊｜te3))) (NP (NN 鐵-仔｜thih4-a2)))
+        (VP (VV 生-鉎｜senn1-sian1))))
+    (SP 矣｜0ah4)
+    (PU ！｜!)))","['規則變調', '規則變調', '仔前變調&', '本調#', '規則變調', '本調#', '輕聲%', '毋是台語']"
+"生-驚｜tshenn1-kiann1 生-驚｜tshinn1-kiann1
+","['Na', 'Na']","(ROOT
+  (IP (VP (VCD (VA 生-驚｜tshenn1-kiann1) (VV 生-驚｜tshinn1-kiann1)))))","['規則變調', '規則變調', '規則變調', '本調#']"
+"囡-仔｜gin2-a2 著-生-驚｜tioh8-tshenn1-kiann1 嘛-嘛-吼｜ma3-ma3-hau2 。｜.
+","['Na', 'P', 'VA', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (VV 囡-仔｜gin2-a2)
+      (VP
+        (VRD (VV 著-生-驚｜tioh8-tshenn1-kiann1) (VV 嘛-嘛-吼｜ma3-ma3-hau2))))
+    (PU 。｜.)))","['仔前變調&', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"由-在｜iu5-tsai7
+",['Na'],(ROOT (DFL (P 由-在｜iu5-tsai7))),"['規則變調', '本調#']"
+"由-在｜iu5-tsai7 你｜0li2 ！｜! 我｜gua2 無｜bo5 意-見｜i3-kian3 ！｜!
+","['Na', 'Na', 'PUNC', 'Nh', 'D', 'Na', 'PUNC']","(ROOT
+  (IP
+    (PP (P 由-在｜iu5-tsai7) (NP (PN 你｜0li2)))
+    (PU ！｜!)
+    (NP (PN 我｜gua2))
+    (VP (NP (ADVP (AD 無｜bo5)) (NP (NN 意-見｜i3-kian3))))
+    (PU ！｜!)))","['規則變調', '本調#', '隨前變調@', '毋是台語', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"申-請｜sin1-tshing2
+",['VF'],(ROOT (IP (VP (VV 申-請｜sin1-tshing2)))),"['規則變調', '本調#']"
+"成-績｜sing5-tsik4 無-夠｜bo5-kau3 ，｜, 袂-當｜be7-tang3 申-請｜sin1-tshing2 獎-學-金｜tsiong2-hak8-kim1 。｜.
+","['Na', 'D', 'PUNC', 'D', 'VF', 'Na', 'PUNC']","(ROOT
+  (IP
+    (IP (VP (ADVP (AD 成-績｜sing5-tsik4)) (VP (VV 無-夠｜bo5-kau3))))
+    (PU ，｜,)
+    (IP
+      (VP
+        (NP
+          (NN 袂-當｜be7-tang3)
+          (NN 申-請｜sin1-tshing2)
+          (NN 獎-學-金｜tsiong2-hak8-kim1))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"白-白｜peh8-peh8
+",['VC'],(ROOT (ADVP (AD 白-白｜peh8-peh8))),"['規則變調', '本調#']"
+"伊｜i1 愛｜ai3 共｜ka7 人｜lang5 誣-賴｜bu5-lua7 ，｜, 白-白-布｜peh8-peh8-poo3 強-欲｜kiong7-beh4 共｜ka7 人｜lang5 染｜ni2 甲｜kah4 烏｜oo1 。｜.
+","['Nh', 'D', 'P', 'Na', 'DE', 'PUNC', 'Na', 'D', 'P', 'Na', 'VC', 'DE', 'VH', 'PUNC']","(ROOT
+  (IP
+    (NP (NR 伊｜i1))
+    (VP
+      (VP (VV 愛｜ai3) (NP (NN 共｜ka7) (NN 人｜lang5) (NN 誣-賴｜bu5-lua7)))
+      (PU ，｜,)
+      (IP
+        (NP (NN 白-白-布｜peh8-peh8-poo3))
+        (VP
+          (VV 強-欲｜kiong7-beh4)
+          (VP
+            (VV 共｜ka7)
+            (IP
+              (NP (NN 人｜lang5))
+              (VP (VV 染｜ni2) (IP (VP (VA 甲｜kah4) (NP (NN 烏｜oo1))))))))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '再變調$', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"白-汫-無-味｜peh8-tsiann2-bo5-bi7
+",['VH'],(ROOT (IP (VP (VA 白-汫-無-味｜peh8-tsiann2-bo5-bi7)))),"['規則變調', '規則變調', '規則變調', '本調#']"
+"今-仔-日｜kin1-a2-jit8 的｜e5 菜｜tshai3 白-汫-無-味｜peh8-tsiann2-bo5-bi7 ，｜, 你｜li2 敢-是｜kam2-si7 袂-記-得｜be7-ki3-tit4 摻｜tsham1 鹽｜iam5 ？｜?
+","['Nd', 'DE', 'Na', 'VH', 'PUNC', 'Nh', 'SHI', 'VK', 'VC', 'Na', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (VP
+        (ADVP (AD 今-仔-日｜kin1-a2-jit8))
+        (VP
+          (VV 的｜e5)
+          (NP (NN 菜｜tshai3) (NN 白-汫-無-味｜peh8-tsiann2-bo5-bi7)))))
+    (PU ，｜,)
+    (IP
+      (NP
+        (NP (NR 你｜li2) (NR 敢-是｜kam2-si7))
+        (NP (NR 袂-記-得｜be7-ki3-tit4) (NR 摻｜tsham1))
+        (NP (NN 鹽｜iam5))))
+    (PU ？｜?)))","['仔前變調&', '規則變調', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"白-帖-仔｜peh8-thiap4-a2
+",['Na'],(ROOT (NP (NN 白-帖-仔｜peh8-thiap4-a2))),"['規則變調', '仔前變調&', '本調#']"
+"我｜gua2 收-著｜siu1-tioh8 一｜tsit8 張｜tiunn1 白-帖-仔｜peh8-thiap4-a2 。｜.
+","['Nh', 'VC', 'Neu', 'Nf', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (NP
+        (NN 我｜gua2)
+        (NN 收-著｜siu1-tioh8)
+        (NN 一｜tsit8)
+        (NN 張｜tiunn1)
+        (NN 白-帖-仔｜peh8-thiap4-a2)))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '仔前變調&', '本調#', '毋是台語']"
+"白-煠｜peh8-sah8
+",['Na'],(ROOT (FRAG (NR 白-煠｜peh8-sah8))),"['規則變調', '本調#']"
+"這｜tsit4 隻｜tsiah4 土-雞-仔｜thoo2-ke1-a2 是｜si7 欲｜beh4 用｜iong7 白-煠｜peh8-sah8 的｜0e5 。｜.
+","['Nep', 'Nf', 'Nc', 'SHI', 'D', 'P', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (DEG 這｜tsit4)
+    (VP
+      (NP
+        (CP
+          (IP
+            (NP (NN 隻｜tsiah4) (NN 土-雞-仔｜thoo2-ke1-a2))
+            (ADVP (AD 是｜si7))
+            (ADVP (AD 欲｜beh4))
+            (NP (PN 用｜iong7))
+            (VP (VV 白-煠｜peh8-sah8)))
+          (SP 的｜0e5))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '仔前變調&', '本調#', '規則變調', '再變調$', '規則變調', '規則變調', '本調#', '隨前變調@', '毋是台語']"
+"白-賊-話｜peh8-tshat8-ue7
+",['VA'],(ROOT (NP (NN 白-賊-話｜peh8-tshat8-ue7))),"['規則變調', '規則變調', '本調#']"
+"伊｜i1 真｜tsin1 𠢕｜gau5 講｜kong2 白-賊-話｜peh8-tshat8-ue7 ，｜, 你｜li2 予｜hoo7 伊｜i1 騙｜phian3 去｜0khi3 矣｜0ah4 。｜.
+","['Nh', 'Dfa', 'D', 'VE', 'VA', 'PUNC', 'Nh', 'P', 'Nh', 'VC', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP
+      (NN 伊｜i1)
+      (NN 真｜tsin1)
+      (NN 𠢕｜gau5)
+      (NN 講｜kong2)
+      (NN 白-賊-話｜peh8-tshat8-ue7))
+    (PU ，｜,)
+    (NP (PN 你｜li2))
+    (VP
+      (VP (VV 予｜hoo7) (NP (NN 伊｜i1)))
+      (VP (VRD (VV 騙｜phian3) (VV 去｜0khi3)) (SP 矣｜0ah4)))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '本調#', '輕聲%', '輕聲%', '毋是台語']"
+"白-講｜peh8-kong2
+",['Na'],(ROOT (IP (VP (VV 白-講｜peh8-kong2)))),"['規則變調', '本調#']"
+"一-切｜it4-tshe3 攏｜long2 是｜si7 白-講｜peh8-kong2 的｜0e5 。｜.
+","['Neqa', 'D', 'SHI', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (PN 一-切｜it4-tshe3))
+    (VP
+      (VRD (VV 攏｜long2) (VA 是｜si7))
+      (NP (CP (IP (VP (VV 白-講｜peh8-kong2))) (DEC 的｜0e5))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '隨前變調@', '毋是台語']"
+"白-鑠-鑠｜peh8-siak4-siak4
+",['VH'],(ROOT (FRAG (NR 白-鑠-鑠｜peh8-siak4-siak4))),"['規則變調', '規則變調', '本調#']"
+"白-鑠-鑠｜peh8-siak4-siak4 的｜e5 錢-銀｜tsinn5-gin5 ，｜, 啥-物｜siann2-mih4 人｜lang5 看｜khuann3 著｜0tioh8 袂｜be7 佮-意｜kah4-i3 ？｜?
+","['VH', 'DE', 'Na', 'PUNC', 'Nep', 'Na', 'VC', 'Na', 'D', 'VK', 'PUNC']","(ROOT
+  (IP
+    (NP
+      (NP (NR 白-鑠-鑠｜peh8-siak4-siak4))
+      (NP (QP (CD 的｜e5)) (NP (NN 錢-銀｜tsinn5-gin5)))
+      (PU ，｜,)
+      (NP (NN 啥-物｜siann2-mih4) (NN 人｜lang5)))
+    (PU 看｜khuann3)
+    (VP (VP (VV 著｜0tioh8) (NP (NN 袂｜be7))) (VP (VV 佮-意｜kah4-i3)))
+    (PU ？｜?)))","['規則變調', '規則變調', '本調#', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '本調#', '輕聲%', '規則變調', '規則變調', '本調#', '毋是台語']"
+"目-地｜bak8-te7 目-地｜bak8-tue7
+","['VA', 'Na']",(ROOT (NP (NN 目-地｜bak8-te7) (NN 目-地｜bak8-tue7))),"['規則變調', '規則變調', '規則變調', '本調#']"
+"咱｜lan2 做-人｜tso3-lang5 著｜tioh8 愛｜ai3 有｜u7 志-氣｜tsi3-khi3 ，｜, 才｜tsiah4 袂｜be7 予｜hoo7 人｜lang5 看-無｜khuann3-bo5 目-地｜bak8-te7 。｜.
+","['Nh', 'VA', 'D', 'D', 'V_2', 'Na', 'PUNC', 'Da', 'D', 'P', 'Na', 'VE', 'VA', 'PUNC']","(ROOT
+  (IP
+    (NP
+      (NN 咱｜lan2)
+      (NN 做-人｜tso3-lang5)
+      (NN 著｜tioh8)
+      (NN 愛｜ai3)
+      (NN 有｜u7)
+      (NN 志-氣｜tsi3-khi3))
+    (PU ，｜,)
+    (VP
+      (VV 才｜tsiah4)
+      (IP
+        (VP
+          (VV 袂｜be7)
+          (IP
+            (VP
+              (VV 予｜hoo7)
+              (IP
+                (VP
+                  (VV 人｜lang5)
+                  (IP
+                    (VP (VCD (VV 看-無｜khuann3-bo5) (VV 目-地｜bak8-te7)))))))))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"目-色｜bak8-sik4
+",['Na'],(ROOT (NP (NN 目-色｜bak8-sik4))),"['規則變調', '本調#']"
+"看｜khuann3 人｜lang5 的｜e5 目-色｜bak8-sik4 過｜kue3 日-子｜jit8-tsi2 。｜.
+","['VC', 'Na', 'DE', 'Na', 'VCL', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (NP
+        (NN 看｜khuann3)
+        (NN 人｜lang5)
+        (NN 的｜e5)
+        (NN 目-色｜bak8-sik4)
+        (NN 過｜kue3)
+        (NN 日-子｜jit8-tsi2)))
+    (PU 。｜.)))","['規則變調', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"目-睭-仁｜bak8-tsiu1-jin5 目-睭-仁｜bak8-tsiu1-lin5
+","['Na', 'Na']","(ROOT
+  (NP
+    (NP (NN 目-睭-仁｜bak8-tsiu1-jin5))
+    (NP (NR 目-睭-仁｜bak8-tsiu1-lin5))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"你｜li2 是｜si7 看｜khuann3 著｜tioh8 啥｜siann2 ，｜, 目-睭-仁｜bak8-tsiu1-jin5 哪｜na2 會｜e7 攏｜long2 袂｜be7 振-動｜tin2-tang7 ？｜?
+","['Nh', 'SHI', 'VC', 'D', 'Nep', 'PUNC', 'Na', 'D', 'D', 'D', 'D', 'VAC', 'PUNC']","(ROOT
+  (IP
+    (NP
+      (DFL (DT 你｜li2))
+      (DP (DT 是｜si7))
+      (DP (DT 看｜khuann3))
+      (DP (DT 著｜tioh8))
+      (NP (PN 啥｜siann2)))
+    (PU ，｜,)
+    (NP (PN 目-睭-仁｜bak8-tsiu1-jin5))
+    (VP
+      (VP
+        (VSB
+          (VCD (VV 哪｜na2) (VV 會｜e7))
+          (VCD (VV 攏｜long2) (VV 袂｜be7))))
+      (VP (VV 振-動｜tin2-tang7)))
+    (PU ？｜?)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"

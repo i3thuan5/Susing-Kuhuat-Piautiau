@@ -1,0 +1,10 @@
+docker run -ti i3thuan5/hapsing-giliau bash
+
+
+
+from 臺灣言語服務.models import 訓練過渡格式
+with open('kautian.txt','wt') as tong:
+  for tsu in 訓練過渡格式.objects.filter(來源='臺灣閩南語常用詞辭典'):
+     print(tsu.文本,file=tong)
+
+

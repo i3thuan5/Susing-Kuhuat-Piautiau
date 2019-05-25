@@ -1,0 +1,3460 @@
+分詞,詞性,句法,變調
+"十-八｜Tsa̍p-peh 一｜tsi̍t 蕊｜luí 花｜hue ，｜,
+","['Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (NP
+        (DFL (CD 十-八｜Tsa̍p-peh))
+        (QP (CD 一｜tsi̍t) (CLP (M 蕊｜luí)))
+        (NP (NN 花｜hue))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"作｜Tsok 者｜tsiá ，｜,
+","['Na', 'Na', 'PUNC']","(ROOT (IP (VP (VV 作｜Tsok) (NP (NN 者｜tsiá))) (PU ，｜,)))","['規則變調', '本調#', '毋是台語']"
+"王｜Ông 秀｜siù 容｜iông
+","['Na', 'Na', 'Na']",(ROOT (IP (NP (NP (NR 王｜Ông)) (NP (NN 秀｜siù))) (VP (VV 容｜iông)))),"['規則變調', '規則變調', '本調#']"
+"查｜Tsá 某-人｜bô-lâng 十-八-變｜tsa̍p-peh-piàn
+","['Na', 'Na', 'Na']","(ROOT
+  (IP
+    (VP
+      (VP (VV 查｜Tsá) (NP (NN 某-人｜bô-lâng)))
+      (VP (VV 十-八-變｜tsa̍p-peh-piàn)))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"我｜Guá 佮｜kah 十-八｜tsa̍p-peh 足｜tsiok 有-緣｜ū-iân ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (PN 我｜Guá))
+    (VP
+      (VP (VV 佮｜kah) (NP (QP (CD 十-八｜tsa̍p-peh)) (NP (NN 足｜tsiok))))
+      (VP (VV 有-緣｜ū-iân)))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"毋-管｜M̄-kuán 他｜thann 鄉｜hiong
+","['Na', 'Na', 'Na']",(ROOT (IP (VP (VV 毋-管｜M̄-kuán) (NP (PN 他｜thann) (NN 鄉｜hiong))))),"['規則變調', '規則變調', '規則變調', '本調#']"
+"故-鄉｜Kòo-hiong
+",['Na'],(ROOT (NP (NN 故-鄉｜Kòo-hiong))),"['規則變調', '本調#']"
+"欲｜Beh 用｜iōng 十-八｜tsa̍p-peh 歲｜huè 的｜ê 熱-情｜jia̍t-tsîng
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (VP
+      (VV 欲｜Beh)
+      (VP
+        (VV 用｜iōng)
+        (NP
+          (DNP (QP (CD 十-八｜tsa̍p-peh) (CLP (M 歲｜huè))) (DEG 的｜ê))
+          (NP (NN 熱-情｜jia̍t-tsîng)))))))","['再變調$', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '本調#']"
+"予｜Hōo 母-語｜bú-gí 永-遠｜íng-uán 展｜tián 光-明｜kong-bîng ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (IP (VP (VV 予｜Hōo) (NP (NN 母-語｜bú-gí))))
+      (VP
+        (ADVP (AD 永-遠｜íng-uán))
+        (VP (VV 展｜tián) (NP (NN 光-明｜kong-bîng)))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"聽｜Thiann 歌｜kua 唱-歌｜tshiùnn-kua 趣-味｜tshù-bī 濟｜tsē ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (VV 聽｜Thiann)
+      (IP
+        (NP
+          (NP (NN 歌｜kua) (NN 唱-歌｜tshiùnn-kua))
+          (NP (NN 趣-味｜tshù-bī)))
+        (VP (VV 濟｜tsē))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"予-我｜Hōo-guá 永-遠｜íng-uán 十-八｜tsa̍p-peh 歲｜huè ，｜,
+","['Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (PN 予-我｜Hōo-guá))
+    (VP
+      (ADVP (AD 永-遠｜íng-uán))
+      (VP (QP (CD 十-八｜tsa̍p-peh) (CLP (M 歲｜huè)))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"有-人｜Ū-lâng 唱｜tshiònn 國｜kok 語｜gí
+","['Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (NP (NN 有-人｜Ū-lâng))
+    (VP (VV 唱｜tshiònn) (NP (NP (NN 國｜kok)) (NP (NN 語｜gí))))))","['規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"十｜Si̍p 八｜pa 的｜tik 姑｜koo 娘｜niâ 一｜it 朵｜朵 花｜hua 呀｜呀 一｜It 朵｜朵 花｜hua
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (NP
+    (NP
+      (CD 十｜Si̍p)
+      (NP
+        (DNP (QP (CD 八｜pa)) (DEG 的｜tik))
+        (NP (NN 姑｜koo) (NN 娘｜niâ)))
+      (QP (CD 一｜it) (CLP (M 朵｜朵)))
+      (NP (NN 花｜hua)))
+    (FLR (SP 呀｜呀))
+    (QP (CD 一｜It) (CLP (M 朵｜朵)))
+    (NP (NN 花｜hua))))","['規則變調', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '毋是台語', '規則變調', '毋是台語', '本調#']"
+"有-人｜Ū-lâng 唱｜tshiūnn 臺-語｜tâi-gí
+","['Na', 'Na', 'Na']","(ROOT
+  (IP (NP (NN 有-人｜Ū-lâng)) (VP (VV 唱｜tshiūnn) (NP (NN 臺-語｜tâi-gí)))))","['規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"十-八｜Tsa̍p-peh 姑-娘｜koo-niû 一｜tsi̍t 蕊｜luí 花｜hue 一｜Tsi̍t 蕊｜luí 花｜hue
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (NP (QP (CD 十-八｜Tsa̍p-peh)) (NP (NN 姑-娘｜koo-niû)))
+    (VP
+      (QP (CD 一｜tsi̍t) (CLP (M 蕊｜luí)))
+      (VP
+        (VV 花｜hue)
+        (NP (QP (CD 一｜Tsi̍t) (CLP (M 蕊｜luí))) (NP (NN 花｜hue)))))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"有｜Ū 原-住-民｜guân-tsū-bîn 歌｜kua 謠｜iâu
+","['Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (VP
+      (VE 有｜Ū)
+      (NP (NP (NN 原-住-民｜guân-tsū-bîn) (NN 歌｜kua)) (NP (NN 謠｜iâu))))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"有｜Iú 一｜it 位｜uī 姑｜koo 娘｜niâ 呀｜呀 十｜si̍p 呀｜呀 十｜si̍p 七｜tshi 八｜pa
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (QP
+    (CP
+      (IP
+        (VP
+          (VE 有｜Iú)
+          (NP
+            (QP (CD 一｜it) (CLP (M 位｜uī)))
+            (NP (NN 姑｜koo) (NN 娘｜niâ)))))
+      (SP 呀｜呀))
+    (QP
+      (QP (CD 十｜si̍p))
+      (FLR (SP 呀｜呀))
+      (QP (QP (CD 十｜si̍p) (CD 七｜tshi)) (QP (CD 八｜pa))))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '毋是台語', '規則變調', '規則變調', '本調#']"
+"十-七｜Tsa̍p-tshit 八｜peh 歲｜huè 媠｜suí 甲｜kah 親-像｜tshin-tshiūnn 一｜tsi̍t 蕊｜luí 花｜hue ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP
+      (CD 十-七｜Tsa̍p-tshit)
+      (QP (CD 八｜peh) (CLP (M 歲｜huè)))
+      (NP (NN 媠｜suí)))
+    (VP
+      (VV 甲｜kah)
+      (IP
+        (VP
+          (P 親-像｜tshin-tshiūnn)
+          (NP (QP (CD 一｜tsi̍t) (CLP (M 蕊｜luí))) (NP (NN 花｜hue))))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"有｜Ū 臺｜tâi 灣｜uan 歌｜kua 謠｜iâu 望｜bāng 春-風｜tshun-hong
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (VP
+      (VE 有｜Ū)
+      (IP
+        (NP
+          (NP (NP (NR 臺｜tâi)) (NP (NN 灣｜uan)))
+          (NP (NN 歌｜kua) (NN 謠｜iâu)))
+        (VP (VV 望｜bāng) (NP (NN 春-風｜tshun-hong)))))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"十-七｜Tsa̍p-tshit 八｜peh 歲｜huè 未｜bē 出-嫁｜tshut-kè
+","['Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (QP (CD 十-七｜Tsa̍p-tshit) (QP (CD 八｜peh) (CLP (M 歲｜huè))))
+    (VP (ADVP (AD 未｜bē)) (VP (VV 出-嫁｜tshut-kè)))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"就｜Tiō 親｜tshinn 像｜tshiūnn 我｜guá ，｜,
+","['Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (ADVP (AD 就｜Tiō))
+      (VP (VV 親｜tshinn) (IP (VP (P 像｜tshiūnn) (NP (PN 我｜guá))))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"對｜Tuì 故-鄉｜kòo-hiong 的｜ê 記-持｜kì-tî 。｜.
+","['Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (NP
+        (DNP (PP (P 對｜Tuì) (NP (NN 故-鄉｜kòo-hiong))) (DEG 的｜ê))
+        (NP (NN 記-持｜kì-tî))))
+    (PU 。｜.)))","['規則變調', '規則變調', '本調#', '規則變調', '規則變調', '本調#', '毋是台語']"
+"永-遠｜Íng-uán 停｜thîng 佇｜tī 離｜li 開｜khui 故-鄉｜kòo-hiong 的｜ê 十-八｜tsa̍p-peh
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (VP
+      (ADVP (AD 永-遠｜Íng-uán))
+      (VP
+        (VP (VV 停｜thîng) (NP (NN 佇｜tī)))
+        (PP
+          (P 離｜li)
+          (QP
+            (CP
+              (IP (VP (VV 開｜khui) (NP (NN 故-鄉｜kòo-hiong))))
+              (DEC 的｜ê))
+            (QP (CD 十-八｜tsa̍p-peh))))))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '本調#']"
+"高-雄｜Ko-sióng 蹛｜tuā 十-八｜tsa̍p-peh 冬｜tang ，｜,
+","['Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (FRAG
+    (NP
+      (NP (NR 高-雄｜Ko-sióng) (NR 蹛｜tuā))
+      (QP (CD 十-八｜tsa̍p-peh))
+      (NP (NN 冬｜tang)))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"予-我｜Hōo-guá 母-語｜bú-gí 的｜ê 養｜ióng 份｜hūn 飽-滇｜pá-tīnn
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (NP (PN 予-我｜Hōo-guá))
+    (VP
+      (DNP (NP (NN 母-語｜bú-gí)) (DEC 的｜ê))
+      (VP
+        (VV 養｜ióng)
+        (NP (QP (CLP (M 份｜hūn))) (NP (NN 飽-滇｜pá-tīnn)))))))","['規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"會｜Ē 當｜tang 編｜pian 織｜tsit 母-語｜bú-gí 的｜ê 夢｜bāng
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (VP
+      (VV 會｜Ē)
+      (VP
+        (VV 當｜tang)
+        (VP
+          (VV 編｜pian)
+          (NP
+            (CP (IP (VP (VV 織｜tsit) (NP (NN 母-語｜bú-gí)))) (DEC 的｜ê))
+            (NP (NN 夢｜bāng))))))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '本調#']"
+"遐｜Hia
+",['Na'],(ROOT (NP (NN 遐｜Hia))),['本調#']
+"一-直｜It-ti̍t 是｜sī 足｜tsiok 濟｜tsè 人｜lâng 的｜ê 新｜sin 故-鄉｜kòo-hiong
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (VP
+      (ADVP (AD 一-直｜It-ti̍t))
+      (VP
+        (VC 是｜sī)
+        (NP
+          (CP
+            (IP (NP (NN 足｜tsiok)) (VP (VV 濟｜tsè) (NP (NN 人｜lâng))))
+            (DEC 的｜ê))
+          (ADJP (JJ 新｜sin))
+          (NP (NN 故-鄉｜kòo-hiong)))))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '規則變調', '本調#']"
+"自｜Tsū 細-漢｜sè-hàn ，｜,
+","['Na', 'Na', 'PUNC']","(ROOT (IP (PP (P 自｜Tsū) (NP (NR 細-漢｜sè-hàn))) (PU ，｜,)))","['規則變調', '規則變調', '本調#', '毋是台語']"
+"大｜Tāi 陳｜tîn 仔｜á 、｜,
+","['Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP (NP (ADJP (JJ 大｜Tāi)) (NP (NR 陳｜tîn)) (NP (NN 仔｜á))) (PU 、｜,)))","['規則變調', '仔前變調&', '本調#', '毋是台語']"
+"客｜Kheh 人｜lâng 仔｜á 、｜.
+","['Na', 'Na', 'Na', 'Na']",(ROOT (IP (NP (NP (NN 客｜Kheh) (NN 人｜lâng)) (NP (NN 仔｜á))) (PU 、｜.))),"['規則變調', '仔前變調&', '本調#', '毋是台語']"
+"傀-儡｜Ka-lé 仔｜ah ，｜,
+","['Na', 'Na', 'PUNC']","(ROOT (FRAG (NP (NN 傀-儡｜Ka-lé) (NN 仔｜ah)) (PU ，｜,)))","['規則變調', '仔前變調&', '本調#', '毋是台語']"
+"失-禮｜Sit-lé
+",['Na'],(ROOT (NP (NN 失-禮｜Sit-lé))),"['規則變調', '本調#']"
+"遮｜Tsiah 的｜ê 詞｜sû 用｜iōng 仔｜ah 無-禮-貌｜bô-lé-māu
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (NP (CP (IP (VP (VV 遮｜Tsiah))) (DEC 的｜ê)) (NP (NN 詞｜sû)))
+    (VP (P 用｜iōng) (NP (NN 仔｜ah) (NN 無-禮-貌｜bô-lé-māu)))))","['本調#', '規則變調', '規則變調', '仔前變調&', '本調#', '規則變調', '規則變調', '本調#']"
+"攏｜Lóng 是｜sī 過-去｜kuè-khì 的｜ê 傷｜siong 悲｜pi ，｜, 這｜Tsit 馬｜ma 無-人｜bô-lâng 遐｜hia 各-馝｜kok-pih 無｜bô 義-理｜gī-lí
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (IP
+      (VP
+        (VV 攏｜Lóng)
+        (IP
+          (VP
+            (VC 是｜sī)
+            (NP
+              (DNP (NP (NT 過-去｜kuè-khì)) (DEG 的｜ê))
+              (NP (NN 傷｜siong) (NN 悲｜pi)))))))
+    (PU ，｜,)
+    (IP
+      (NP
+        (NP
+          (NP (DP (DT 這｜Tsit)) (NP (NN 馬｜ma)))
+          (ADJP (JJ 無-人｜bô-lâng))
+          (NP (NN 遐｜hia)))
+        (NP (NN 各-馝｜kok-pih)))
+      (VP (VE 無｜bô) (NP (NN 義-理｜gī-lí))))))","['規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"因｜In 為｜uî 逐-家｜ta̍k-ke 攏｜lóng 是｜sī 臺｜tâi 灣｜uan 人｜lâng ，｜, 啉｜Lim 臺｜tâi 灣｜uan 水｜tsuí 食｜tsiā 臺｜tâi 灣｜uan 米｜bí
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (VP
+      (PP
+        (P 因｜In)
+        (IP
+          (VP
+            (PP
+              (P 為｜uî)
+              (IP (VP (ADVP (AD 逐-家｜ta̍k-ke)) (VP (VV 攏｜lóng)))))
+            (VP
+              (VC 是｜sī)
+              (NP
+                (NP (NP (NR 臺｜tâi)) (NP (NN 灣｜uan)))
+                (NP (NN 人｜lâng)))))))
+      (PU ，｜,)
+      (VP
+        (VP (VV 啉｜Lim) (NP (NR 臺｜tâi)))
+        (VP (VV 灣｜uan) (NP (NN 水｜tsuí)))
+        (IP
+          (VP (VV 食｜tsiā) (NP (NR 臺｜tâi)))
+          (NP (NN 灣｜uan) (NN 米｜bí)))))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"兒｜Jī 時｜sì 記｜khí 持｜tì
+","['Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (VP
+      (LCP (NP (NN 兒｜Jī)) (LC 時｜sì))
+      (VP (VCD (VV 記｜khí) (VV 持｜tì))))))","['規則變調', '規則變調', '規則變調', '本調#']"
+"鄉-里｜Hiunn-lí 母-語｜bú-gí ，｜, 予-我｜Hōo-guá 永-遠｜íng-uán 青-春｜tshing-tshun 有｜ū 志-氣｜tsì-khì
+","['Na', 'Na', 'PUNC', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (NP (NN 鄉-里｜Hiunn-lí) (NN 母-語｜bú-gí))
+    (PU ，｜,)
+    (NP (PN 予-我｜Hōo-guá))
+    (ADVP (AD 永-遠｜íng-uán))
+    (NP (NN 青-春｜tshing-tshun))
+    (VP (VE 有｜ū) (NP (NN 志-氣｜tsì-khì)))))","['規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"十-八｜Tsa̍p-peh 歲｜huè 到｜kàu 臺-南｜tâi-lâm 讀｜tha̍k 大-學｜tāi-ha̍k ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (VP
+        (QP (CD 十-八｜Tsa̍p-peh) (CLP (M 歲｜huè)))
+        (VP
+          (VP (CC 到｜kàu) (NP (NR 臺-南｜tâi-lâm)))
+          (VP (VV 讀｜tha̍k) (NP (NN 大-學｜tāi-ha̍k))))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"開-始｜Khai-sí 向｜m̄ 北｜pa̍k 遷｜tshian 徙｜suá
+","['Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (VP
+      (ADVP (AD 開-始｜Khai-sí))
+      (PP (P 向｜m̄) (NP (NN 北｜pa̍k)))
+      (VP (VV 遷｜tshian) (NP (NN 徙｜suá))))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"離｜Lí 故-鄉｜kòo-hiong 愈｜tú 來｜lâi 愈｜lú 遠｜hn̄g
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (VP
+      (PP (P 離｜Lí) (NP (NN 故-鄉｜kòo-hiong)))
+      (VP
+        (VP (ADVP (AD 愈｜tú)) (VP (VV 來｜lâi)))
+        (VP (ADVP (AD 愈｜lú)) (VP (VA 遠｜hn̄g)))))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"先｜Sing 熟-似｜si̍k-sāi 阿-美｜a-bí 族｜tso̍k 的｜ê 少-年｜siàu-liân ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (ADVP (AD 先｜Sing))
+      (VP
+        (VV 熟-似｜si̍k-sāi)
+        (NP
+          (DNP (NP (NP (NR 阿-美｜a-bí)) (NP (NN 族｜tso̍k))) (DEG 的｜ê))
+          (NP (NN 少-年｜siàu-liân)))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '本調#', '毋是台語']"
+"註-定｜Tsù-tiānn 我｜guá 盤-山-過-嶺｜puânn-suann-kuè-niá 和｜hâm 原-住-民｜guân-tsū-bîn 的｜ê 緣｜iân ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (VV 註-定｜Tsù-tiānn)
+      (NP
+        (DNP
+          (NP
+            (NP (PN 我｜guá) (NN 盤-山-過-嶺｜puânn-suann-kuè-niá))
+            (CC 和｜hâm)
+            (NP (NN 原-住-民｜guân-tsū-bîn)))
+          (DEG 的｜ê))
+        (NP (NN 緣｜iân))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '本調#', '毋是台語']"
+"畢｜Pit 業｜gia̍h 愛｜ài 做｜tsò 老｜láu 師｜su
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (VP
+      (VP (VV 畢｜Pit) (NP (NN 業｜gia̍h)))
+      (VP
+        (VV 愛｜ài)
+        (IP (VP (VV 做｜tsò) (NP (ADJP (JJ 老｜láu)) (NP (NN 師｜su)))))))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"隨｜Suî 考-牢｜khó-tiâu 霧｜bū 社｜siā 的｜ê 仁｜jîn 愛｜ài 國-中｜kok-tiong
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (VP
+      (PP
+        (P 隨｜Suî)
+        (NP
+          (DNP (NP (NN 考-牢｜khó-tiâu) (NN 霧｜bū) (NN 社｜siā)) (DEG 的｜ê))
+          (NP (NN 仁｜jîn))))
+      (VP (VV 愛｜ài) (NP (NN 國-中｜kok-tiong))))))","['規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"教｜Kà Atayal｜Atayal Bunun｜Bunun Truku｜Truku Seediq｜Seediq 的｜ê 囡-仔｜gín-á 講｜kóng 英-語｜ing-gí ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (CP
+      (IP
+        (VP
+          (VV 教｜Kà)
+          (NP
+            (NP (ADJP (JJ Atayal｜Atayal)) (NP (NN Bunun｜Bunun)))
+            (NP (NR Truku｜Truku) (NR Seediq｜Seediq)))))
+      (DEG 的｜ê))
+    (IP
+      (VP (NP (NR 囡-仔｜gín-á)) (VP (VV 講｜kóng) (NP (NN 英-語｜ing-gí)))))
+    (PU ，｜,)))","['規則變調', '毋是台語', '毋是台語', '毋是台語', '毋是台語', '規則變調', '仔前變調&', '本調#', '規則變調', '規則變調', '本調#', '毋是台語']"
+"遐｜Siá 的｜ê 記-持｜kì-tî 。｜.
+","['Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP (NP (CP (IP (VP (VV 遐｜Siá))) (DEC 的｜ê)) (NP (NN 記-持｜kì-tî))))
+    (PU 。｜.)))","['本調#', '規則變調', '規則變調', '本調#', '毋是台語']"
+"青｜Tshing 山｜san 綠｜li̍k 水｜suí ，｜,
+","['Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (FRAG
+    (NP
+      (NP (ADJP (JJ 青｜Tshing)) (NP (NN 山｜san)))
+      (ADJP (JJ 綠｜li̍k))
+      (NP (NN 水｜suí)))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"空-氣｜Khong-khì ，｜, 一-世-人｜Tsi̍t-sì-lâng 想｜siūnn 來｜lâi 攏｜lóng 足｜tsiok 媠｜suí ，｜,
+","['Na', 'PUNC', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (NN 空-氣｜Khong-khì))
+    (PU ，｜,)
+    (NP (NN 一-世-人｜Tsi̍t-sì-lâng))
+    (VP
+      (VV 想｜siūnn)
+      (IP
+        (VP (VV 來｜lâi) (VP (VV 攏｜lóng) (NP (NN 足｜tsiok) (NN 媠｜suí))))))
+    (PU ，｜,)))","['規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"調｜Tiau 來｜lâi 臺-北｜tâi-pak 新｜sin 店｜tiàm 教-冊｜kà-tsheh ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (VRD (VV 調｜Tiau) (VV 來｜lâi))
+      (IP
+        (NP (NP (NR 臺-北｜tâi-pak)) (ADJP (JJ 新｜sin)) (NP (NN 店｜tiàm)))
+        (VP (VV 教-冊｜kà-tsheh))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"有｜Ū 袂｜bē 少｜tsió 原-住-民｜guân-tsū-bîn 的｜ê 學-生｜ha̍k-sing ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (VE 有｜Ū)
+      (NP
+        (DNP
+          (NP
+            (NP (NN 袂｜bē))
+            (NP (ADVP (AD 少｜tsió)) (NP (NN 原-住-民｜guân-tsū-bîn))))
+          (DEG 的｜ê))
+        (NP (NN 學-生｜ha̍k-sing))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '本調#', '毋是台語']"
+"因｜In 為｜uî 有｜ū 特-別-的｜ti̍k-pia̍t-ê 感-情｜kám-tsîng ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (PP
+    (P 因｜In)
+    (IP
+      (PP
+        (P 為｜uî)
+        (IP
+          (VP
+            (VE 有｜ū)
+            (FLR (DEC 特-別-的｜ti̍k-pia̍t-ê))
+            (NP (NN 感-情｜kám-tsîng)))))
+      (PU ，｜,))))","['規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '本調#', '毋是台語']"
+"就｜Tiō 有｜ū 歡-喜-的｜huann-hí-ê 心-情｜sim-tsîng 當｜tong 然｜liân 佮｜kah 我｜guá 緣｜iân 上｜sio̍k 深｜tshim 的｜Ê ，｜, 是｜Sī 阮｜gún 兜｜tau 兩-个｜nn̄g-ê 查-某-囝｜tsa-bóo-kiánn ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (NP
+        (CP
+          (IP (VP (ADVP (AD 就｜Tiō)) (VP (VE 有｜ū))))
+          (DEC 歡-喜-的｜huann-hí-ê))
+        (NP (NN 心-情｜sim-tsîng)))
+      (VP
+        (VV 當｜tong)
+        (IP
+          (VP
+            (ADVP (AD 然｜liân))
+            (VP
+              (VV 佮｜kah)
+              (CP
+                (IP
+                  (NP (PN 我｜guá))
+                  (VP
+                    (LCP (NP (NN 緣｜iân)) (LC 上｜sio̍k))
+                    (VP (VA 深｜tshim))))
+                (DEC 的｜Ê)))))))
+    (PU ，｜,)
+    (IP
+      (VP
+        (VC 是｜Sī)
+        (IP
+          (NP (NR 阮｜gún))
+          (VP
+            (VV 兜｜tau)
+            (NP
+              (QP (CLP (M 兩-个｜nn̄g-ê)))
+              (NP (NN 查-某-囝｜tsa-bóo-kiánn))))))
+      (PU ，｜,))))","['規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"大-漢｜Tuā-hàn 的｜ne 這｜tsit 馬｜ma 拄-好｜tú-hó 十-八｜tsa̍p-peh 一｜tsi̍t 蕊｜luí 花｜hue ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (FRAG
+    (NP
+      (DNP (NP (NR 大-漢｜Tuā-hàn)) (DEG 的｜ne))
+      (DP (DT 這｜tsit))
+      (NP (NN 馬｜ma))
+      (QP (ADJP (JJ 拄-好｜tú-hó)) (QP (CD 十-八｜tsa̍p-peh)))
+      (QP (CD 一｜tsi̍t) (CLP (M 蕊｜luí)))
+      (NP (NN 花｜hue)))
+    (PU ，｜,)))","['規則變調', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"細-漢-的｜Sè-hàn-ê ，｜,
+","['Na', 'PUNC']","(ROOT (FRAG (DEG 細-漢-的｜Sè-hàn-ê) (PU ，｜,)))","['規則變調', '本調#', '本調#', '毋是台語']"
+"誠｜Tsiânn 緊｜kín 就｜tiō 會｜ē 滿｜muá 十-八｜tsa̍p-peh
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (NP (NN 誠｜Tsiânn))
+    (VP
+      (VP (VA 緊｜kín))
+      (VP
+        (ADVP (AD 就｜tiō))
+        (VP (VV 會｜ē) (VP (VV 滿｜muá) (QP (CD 十-八｜tsa̍p-peh))))))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"囡-仔-的｜Gín-á-ê 語-感｜gī-kang 會｜ē 足｜tsiok 專｜tsuan 長｜tióng 心-胸｜sim-hing 會｜ē 有｜ū 包｜pau 容｜iông
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (DEG 囡-仔-的｜Gín-á-ê)
+    (IP
+      (NP (NN 語-感｜gī-kang))
+      (VP
+        (VV 會｜ē)
+        (VP
+          (VV 足｜tsiok)
+          (IP
+            (NP
+              (ADJP (ADVP (AD 專｜tsuan)) (ADJP (JJ 長｜tióng)))
+              (NP (NN 心-胸｜sim-hing)))
+            (VP
+              (VV 會｜ē)
+              (VP (VE 有｜ū) (IP (NP (NN 包｜pau)) (VP (VV 容｜iông)))))))))))","['仔前變調&', '本調#', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"來｜Lâi 臺-北｜tâi-pak 教-冊｜kà-tsheh ，｜,
+","['Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (FRAG
+    (NP
+      (IP (VP (VV 來｜Lâi) (NP (NR 臺-北｜tâi-pak))))
+      (NP (NN 教-冊｜kà-tsheh)))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"已-經｜Í-king 滿｜muá 十-八｜tsa̍p-peh 冬-矣｜tang-ah ，｜,
+","['Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (NP
+    (ADVP (AD 已-經｜Í-king))
+    (NP
+      (QP (ADVP (AD 滿｜muá)) (QP (CD 十-八｜tsa̍p-peh)))
+      (NP (SP 冬-矣｜tang-ah)))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"族｜Tso̍k 群｜kûn 多｜to 元｜guân ，｜,
+","['Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (NN 族｜Tso̍k) (NN 群｜kûn))
+    (VP (QP (CD 多｜to) (CLP (M 元｜guân))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"有｜Ū 山｜suann 有｜ū 海｜hái ，｜, 是｜Sī 在｜tsāi 地｜tè 人｜lâng 的｜ê 好｜hó 所-在｜sóo-tsāi 外｜Guā 地｜tè 人｜lâng 的｜ê 新｜sin 故-鄉｜kòo-hiong
+","['Na', 'Na', 'Na', 'Na', 'PUNC', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (VP
+      (VP
+        (VP (VE 有｜Ū) (NP (NN 山｜suann)))
+        (VP (VE 有｜ū) (NP (NN 海｜hái))))
+      (PU ，｜,)
+      (VP
+        (VC 是｜Sī)
+        (VP
+          (PP
+            (P 在｜tsāi)
+            (LCP
+              (NP
+                (DNP (NP (NN 地｜tè) (NN 人｜lâng)) (DEC 的｜ê))
+                (ADJP (JJ 好｜hó))
+                (NP (NN 所-在｜sóo-tsāi)))
+              (LC 外｜Guā)))
+          (ADVP (NN 地｜tè))
+          (VP
+            (NP
+              (DNP (NP (NN 人｜lâng)) (DEG 的｜ê))
+              (ADJP (JJ 新｜sin))
+              (NP (NN 故-鄉｜kòo-hiong)))))))))","['規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '規則變調', '本調#']"
+"十-八｜Tsa̍p-peh 冬｜tang 來｜lâi ，｜,
+","['Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (QP (CD 十-八｜Tsa̍p-peh)) (NP (NN 冬｜tang)))
+    (VP (VV 來｜lâi))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"學-生｜Ha̍k-sing 來-來｜lâi-lâi 去-去｜khí-khì ，｜,
+","['Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (NN 學-生｜Ha̍k-sing))
+    (NP (NR 來-來｜lâi-lâi))
+    (VP (VV 去-去｜khí-khì))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '再變調$', '本調#', '毋是台語']"
+"我｜Guá 對｜uī 阿-姊｜a-tsí ，｜, 變-做｜Piàn-tsò 阿-姨｜a-î
+","['Na', 'Na', 'Na', 'PUNC', 'Na', 'Na']","(ROOT
+  (IP
+    (NP (PN 我｜Guá))
+    (VP
+      (PP (P 對｜uī) (NP (NR 阿-姊｜a-tsí)))
+      (PU ，｜,)
+      (VP (VV 變-做｜Piàn-tsò) (NP (NN 阿-姨｜a-î))))))","['規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '本調#']"
+"十-八｜Tsa̍p-peh 冬｜tang 前｜tsîng 上｜siōng 英-語｜ing-gí 問｜mn̄g 年-歲｜nî-huè
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (VP
+      (LCP
+        (NP (QP (CD 十-八｜Tsa̍p-peh)) (NP (NN 冬｜tang)))
+        (LC 前｜tsîng))
+      (VP
+        (VP (VV 上｜siōng) (NP (NN 英-語｜ing-gí)))
+        (VP (VV 問｜mn̄g) (NP (NN 年-歲｜nî-huè)))))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"我｜Guá 攏｜lóng 嘛｜mà 講-我｜kóng-guá 十-八｜tsa̍p-peh 一｜tsi̍t 蕊｜luí 花｜hue ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (PN 我｜Guá))
+    (VP
+      (VV 攏｜lóng)
+      (FLR (SP 嘛｜mà))
+      (NP
+        (NP (PN 講-我｜kóng-guá))
+        (QP (CD 十-八｜tsa̍p-peh))
+        (QP (CD 一｜tsi̍t) (CLP (M 蕊｜luí)))
+        (NP (NN 花｜hue))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"目｜Ba̍k 一-下｜tsi̍t-ê 𥍉｜nî ，｜, 厭-氣｜Iàn-khì 啦｜la
+","['Na', 'Na', 'Na', 'PUNC', 'Na', 'Na']","(ROOT
+  (CP
+    (IP
+      (NP (NN 目｜Ba̍k))
+      (VP
+        (VP (ADVP (AD 一-下｜tsi̍t-ê)) (VP (VV 𥍉｜nî)))
+        (PU ，｜,)
+        (VP (VV 厭-氣｜Iàn-khì))))
+    (SP 啦｜la)))","['規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '本調#']"
+"時-間｜Sî-kan 無｜bô 情｜tsîng
+","['Na', 'Na', 'Na']",(ROOT (IP (NP (NN 時-間｜Sî-kan)) (VP (VE 無｜bô) (NP (NN 情｜tsîng))))),"['規則變調', '規則變調', '規則變調', '本調#']"
+"無｜Bô 分｜hun 大-細｜tuā-sè ，｜,
+","['Na', 'Na', 'Na', 'PUNC']","(ROOT (IP (VP (VE 無｜Bô) (NP (NN 分｜hun) (NN 大-細｜tuā-sè))) (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"日-子｜Ji̍t-tsí 一｜tsi̍t 工｜kang 一｜tsi̍t 工｜kang 過｜kuè ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (NP
+        (NP (NN 日-子｜Ji̍t-tsí))
+        (NP (QP (CD 一｜tsi̍t)) (NP (NN 工｜kang)))
+        (QP (CD 一｜tsi̍t))
+        (NP (NN 工｜kang)))
+      (VP (VV 過｜kuè)))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"故-鄉｜Kòo-hiong 變｜piān 他｜thann 鄉｜hiong
+","['Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (NP (NN 故-鄉｜Kòo-hiong))
+    (VP (VV 變｜piān) (NP (NP (PN 他｜thann)) (NP (NN 鄉｜hiong))))))","['規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"他｜Thann 鄉｜hiong 變｜piàn 故-鄉｜kòo-hiong
+","['Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (NP (PN 他｜Thann))
+    (IP (NP (NN 鄉｜hiong)) (VP (VV 變｜piàn) (NP (NN 故-鄉｜kòo-hiong))))))","['規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"嘛｜Mà 有｜ū 十-八｜tsa̍p-peh 一｜tsi̍t 蕊｜luí 花｜hue ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (ADVP (AD 嘛｜Mà))
+      (VP
+        (VE 有｜ū)
+        (NP
+          (QP (CD 十-八｜tsa̍p-peh))
+          (QP (CD 一｜tsi̍t) (CLP (M 蕊｜luí)))
+          (NP (NN 花｜hue)))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"十-八｜Tsa̍p-peh 條｜tiâu 藝-術｜gē-su̍t 人｜lîn 文｜bûn 路｜lōo 線｜suànn 予｜hōo 咱｜lán 四-界｜sì-kè 踅｜se̍h ，｜, 認-捌｜Jīn-bat 土｜thóo 地｜tè
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (NP
+      (QP (CD 十-八｜Tsa̍p-peh) (CLP (M 條｜tiâu)))
+      (NP
+        (NN 藝-術｜gē-su̍t)
+        (NN 人｜lîn)
+        (NN 文｜bûn)
+        (NN 路｜lōo)
+        (NN 線｜suànn)))
+    (VP
+      (VP
+        (VV 予｜hōo)
+        (NP (NP (PN 咱｜lán)) (NP (NN 四-界｜sì-kè) (NN 踅｜se̍h))))
+      (PU ，｜,)
+      (PRN (NP (NN 認-捌｜Jīn-bat)) (DVP (VP (VA 土｜thóo)) (DEV 地｜tè))))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '本調#']"
+"阮｜Gún 輔｜hú 導｜tō 團｜thuân 共｜kā 十-八｜tsa̍p-peh 編-做｜piàn-tsò 臺-語｜tâi-gí 冊｜tsheh 欲｜beh 予｜hōo 新｜Sin 北｜pak 市｜tshī 的｜ê 囡-仔｜gín-á ，｜, 心-內｜Sim-lāi 有｜ū 十-八｜tsa̍p-peh
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (IP
+      (NP (NR 阮｜Gún))
+      (VP
+        (VV 輔｜hú)
+        (IP
+          (VP
+            (VP (VV 導｜tō) (NP (NN 團｜thuân)))
+            (IP
+              (QP (ADVP (AD 共｜kā)) (QP (CD 十-八｜tsa̍p-peh)))
+              (VP
+                (VP
+                  (VV 編-做｜piàn-tsò)
+                  (NP (NN 臺-語｜tâi-gí) (NN 冊｜tsheh)))
+                (VP
+                  (VV 欲｜beh)
+                  (VP
+                    (VV 予｜hōo)
+                    (NP
+                      (DNP
+                        (NP
+                          (ADJP (JJ 新｜Sin))
+                          (NP (NN 北｜pak) (NN 市｜tshī)))
+                        (DEG 的｜ê))
+                      (NP (NN 囡-仔｜gín-á)))))))))))
+    (PU ，｜,)
+    (IP (NP (NN 心-內｜Sim-lāi)) (VP (VE 有｜ū) (QP (CD 十-八｜tsa̍p-peh))))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '再變調$', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '仔前變調&', '本調#', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"開｜Khui 出｜tshut 母-語｜bú-gí 上｜sióng 媠-的｜suí-ê 一｜tsi̍t 蕊｜luí 花｜hue
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (VP
+      (VRD (VV 開｜Khui) (VV 出｜tshut))
+      (NP
+        (DNP (LCP (NP (NN 母-語｜bú-gí)) (LC 上｜sióng)) (DEG 媠-的｜suí-ê))
+        (QP (CD 一｜tsi̍t) (CLP (M 蕊｜luí)))
+        (NP (NN 花｜hue))))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '規則變調', '本調#']"
+"SIL｜SIL
+",['Na'],(ROOT (FRAG (NR SIL｜SIL))),['毋是台語']
+"第｜Tē 四｜sì 篇｜phinn ，｜,
+","['Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (INC (QP (QP (OD 第｜Tē)) (QP (CD 四｜sì) (CLP (M 篇｜phinn)))) (PU ，｜,)))","['規則變調', '規則變調', '本調#', '毋是台語']"
+"枋｜Pang 橋｜kiô 查-某｜tsa-bóo 純｜sûn 情｜tsîng 曲｜khik
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (NP
+      (NP (QP (OD 枋｜Pang)) (NP (NN 橋｜kiô)))
+      (DP (DT 查-某｜tsa-bóo))
+      (ADJP (JJ 純｜sûn))
+      (NP (NN 情｜tsîng)))
+    (VP (VV 曲｜khik))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"作｜Tsok 者｜tsiá 王｜ông 秀-容｜siu-ióng
+","['Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (VP
+      (VV 作｜Tsok)
+      (NP (NP (NN 者｜tsiá)) (NP (NR 王｜ông) (NR 秀-容｜siu-ióng))))))","['規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"枋｜Pang 橋｜kiô 有｜ū 無｜bô 純｜sûn 情｜tsîng 的｜ê 古-早｜kóo-tsá 歌｜kua 嘛｜Mà 有｜ū 純｜sûn 情｜tsîng 的｜ê 現｜hiàn 代｜tài 歌｜kua
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (NP (QP (OD 枋｜Pang)) (NP (NN 橋｜kiô)))
+    (VP
+      (VE 有｜ū)
+      (NP
+        (CP
+          (IP
+            (VP (VE 無｜bô) (NP (ADJP (JJ 純｜sûn)) (NP (NN 情｜tsîng)))))
+          (DEG 的｜ê))
+        (NP (NT 古-早｜kóo-tsá) (NN 歌｜kua))))
+    (FLR
+      (SP 嘛｜Mà)
+      (NP
+        (CP
+          (IP (VP (VE 有｜ū) (NP (ADJP (JJ 純｜sûn)) (NP (NN 情｜tsîng)))))
+          (DEG 的｜ê))
+        (ADJP (JJ 現｜hiàn))
+        (ADJP (JJ 代｜tài))
+        (NP (NN 歌｜kua))))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '規則變調', '本調#']"
+"無｜Bô 嘛｜mà 有｜ū 聽-過｜thiann-kuè ，｜,
+","['Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP (VE 無｜Bô) (FLR (SP 嘛｜mà)) (VP (VE 有｜ū) (AS 聽-過｜thiann-kuè)))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"這｜Tsit 條｜tiâu 歌｜kua 定-定｜tiānn-tiānn 予｜hōo 查-埔｜tsa-poo 查-某｜tsa-bóo 相-諍｜sio-tsènn 相｜sio 剾-洗｜khau-sé
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (NP (DP (DT 這｜Tsit) (CLP (M 條｜tiâu))) (NP (NN 歌｜kua)))
+    (VP
+      (VP
+        (VP (VA 定-定｜tiānn-tiānn))
+        (VP
+          (VV 予｜hōo)
+          (NP
+            (NP (NR 查-埔｜tsa-poo))
+            (DP (DT 查-某｜tsa-bóo))
+            (NP (NN 相-諍｜sio-tsènn)))))
+      (VP (ADVP (AD 相｜sio)) (VP (VV 剾-洗｜khau-sé))))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"真｜Tsin 正｜tsiann 是｜sī 良-心｜liông-sim 予｜hōo 狗｜káu 哺｜pōo 死｜Sí 無-天-良｜bô-thian-liông 的｜ê 查-埔｜tsa-poo 。｜.
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (ADVP (AD 真｜Tsin))
+      (ADVP (AD 正｜tsiann))
+      (VP
+        (VC 是｜sī)
+        (IP
+          (NP (NN 良-心｜liông-sim))
+          (VP
+            (VV 予｜hōo)
+            (NP (NN 狗｜káu) (NN 哺｜pōo))
+            (NP
+              (CP
+                (IP (VP (VV 死｜Sí) (NP (NN 無-天-良｜bô-thian-liông))))
+                (DEC 的｜ê))
+              (NP (NR 查-埔｜tsa-poo)))))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '本調#', '毋是台語']"
+"莫｜Mài 受-氣｜siū-khì 莫｜mài 受｜siūnn 氣｜khì ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (ADVP (AD 莫｜Mài))
+      (VP
+        (VV 受-氣｜siū-khì)
+        (IP (VP (ADVP (AD 莫｜mài)) (VP (VV 受｜siūnn) (NP (NN 氣｜khì)))))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"毋-是｜M̄-sī 干｜kan 焦｜tann 查-某｜tsa-bóo 的｜ê 咧｜lê 抗-議｜khòng-gī
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (VP
+      (VC 毋-是｜M̄-sī)
+      (VP
+        (VV 干｜kan)
+        (NP
+          (NP (NN 焦｜tann))
+          (DNP (DP (DT 查-某｜tsa-bóo)) (DEG 的｜ê))
+          (NP (NN 咧｜lê) (NN 抗-議｜khòng-gī)))))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '再變調$', '規則變調', '本調#']"
+"查-埔｜Tsa-poo 的｜ê 聽-了｜thiann-liáu 嘛｜mà 真｜tsin 厭-氣｜iàn-khì ，｜, 查-埔-人｜Tsa-poo-lâng 的｜ê 面-子｜Bīn-tsú 卸｜siá 無-去｜bô-khì ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (NP
+        (DNP (NP (NR 查-埔｜Tsa-poo)) (DEG 的｜ê))
+        (NP (NN 聽-了｜thiann-liáu)))
+      (FLR (SP 嘛｜mà))
+      (VP (ADVP (AD 真｜tsin)) (VP (VV 厭-氣｜iàn-khì))))
+    (PU ，｜,)
+    (IP
+      (NP
+        (DNP (NP (NN 查-埔-人｜Tsa-poo-lâng)) (DEG 的｜ê))
+        (NP (NN 面-子｜Bīn-tsú)))
+      (VP (VV 卸｜siá) (VP (VV 無-去｜bô-khì))))
+    (PU ，｜,)))","['規則變調', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"這-个｜Tsit-ê 坐｜tsē 火-車｜hué-tshia 的｜ê 豬-哥｜ti-ko 無｜bô 情｜tsîng 無｜bô 義｜gī 無｜bô 志-氣｜tsì-khì 男-子-漢｜Lâm-tsú-hàn 大-丈-夫｜tāi-tiōng-hu
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (NP
+      (DP (DT 這-个｜Tsit-ê))
+      (CP (IP (VP (VV 坐｜tsē) (NP (NN 火-車｜hué-tshia)))) (DEC 的｜ê))
+      (NP (NN 豬-哥｜ti-ko)))
+    (VP
+      (VP (VE 無｜bô) (NP (NN 情｜tsîng)))
+      (VP (VE 無｜bô) (NP (NN 義｜gī)))
+      (VP
+        (VE 無｜bô)
+        (NP
+          (NP (NN 志-氣｜tsì-khì))
+          (NP (NR 男-子-漢｜Lâm-tsú-hàn) (NN 大-丈-夫｜tāi-tiōng-hu)))))))","['規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"變｜Piàn 足｜tsiok 細-漢｜sè-hàn 塗-豆｜thôo-tāu 麩｜hu
+","['Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (VP
+      (VV 變｜Piàn)
+      (NP
+        (NP (NN 足｜tsiok))
+        (NP (NR 細-漢｜sè-hàn))
+        (NP (NN 塗-豆｜thôo-tāu) (NN 麩｜hu))))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"佮｜Kah 某｜bóo 離｜li 緣｜iân 換｜uānn 銀｜gîn 票｜phiò 錯｜Tshò 甲｜kah 無｜bô 有｜ū 一｜tsi̍t 塊｜tè 著｜tio̍h ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (ADVP (AD 佮｜Kah))
+    (DP (DT 某｜bóo))
+    (IP
+      (VP
+        (IP
+          (VP
+            (VP
+              (VP (P 離｜li) (NP (NN 緣｜iân)))
+              (VP
+                (VV 換｜uānn)
+                (NP (NN 銀｜gîn) (NN 票｜phiò) (NN 錯｜Tshò))))
+            (VP (VV 甲｜kah))))
+        (VP
+          (VE 無｜bô)
+          (VP
+            (VE 有｜ū)
+            (IP (QP (CD 一｜tsi̍t) (CLP (M 塊｜tè))) (VP (VV 著｜tio̍h)))))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"無｜Bô 打｜tá 緊｜kín 竟｜Kìng 然｜liân 欲｜beh 予-人｜hōo-lâng 招｜tsio ，｜, 祖-公-仔｜Tsóo-kong-á 的｜ê 字-姓｜jī-sènn 無｜bô 欲｜beh 惜｜sioh ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (IP (VP (VE 無｜Bô) (VP (VV 打｜tá) (NP (NN 緊｜kín)))))
+      (VP
+        (ADVP (AD 竟｜Kìng))
+        (ADVP (AD 然｜liân))
+        (VP (VV 欲｜beh) (IP (NP (NN 予-人｜hōo-lâng)) (VP (VV 招｜tsio))))))
+    (PU ，｜,)
+    (IP
+      (NP
+        (DNP (NP (NR 祖-公-仔｜Tsóo-kong-á)) (DEG 的｜ê))
+        (NP (NN 字-姓｜jī-sènn)))
+      (VP (VE 無｜bô) (VP (VV 欲｜beh) (VP (VV 惜｜sioh)))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '再變調$', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '仔前變調&', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '再變調$', '本調#', '毋是台語']"
+"一｜Tsi̍t 條｜tiâu 遮｜tsiah 古-錐｜kóo-tsui ，｜,
+","['Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (QP (CD 一｜Tsi̍t) (CLP (M 條｜tiâu)))
+    (VP (VV 遮｜tsiah) (NP (NN 古-錐｜kóo-tsui)))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"小-可-仔｜Sió-khuá-á 激-骨｜kik-kut ，｜, 滾-耍-笑-的｜Kún-sńg-tshiò-ê 流-行｜liû-hîng 歌｜kua
+","['Na', 'Na', 'PUNC', 'Na', 'Na', 'Na']","(ROOT
+  (NP
+    (NP (NN 小-可-仔｜Sió-khuá-á) (NN 激-骨｜kik-kut))
+    (PU ，｜,)
+    (NP
+      (DEC 滾-耍-笑-的｜Kún-sńg-tshiò-ê)
+      (NP (JJ 流-行｜liû-hîng) (NN 歌｜kua)))))","['規則變調', '仔前變調&', '本調#', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '規則變調', '本調#']"
+"竟｜Kìng 然｜liân 予｜hōo 查-埔｜tsa-poo 查｜tshâ 某｜bóo 冤-家｜uan-ke 相-罵｜sio-mē 相｜sio 吵｜tshá 喙-脣-皮｜Tshuì-tûn-phuê 拚-輸-贏｜piànn-su-iânn
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (VP
+      (ADVP (AD 竟｜Kìng))
+      (ADVP (AD 然｜liân))
+      (VP
+        (VP
+          (VV 予｜hōo)
+          (NP (NR 查-埔｜tsa-poo))
+          (IP
+            (VP
+              (VV 查｜tshâ)
+              (IP
+                (NP (DP (DT 某｜bóo)) (NP (NN 冤-家｜uan-ke)))
+                (VP (VV 相-罵｜sio-mē))))))
+        (VP
+          (ADVP (AD 相｜sio))
+          (VP
+            (VV 吵｜tshá)
+            (NP (NN 喙-脣-皮｜Tshuì-tûn-phuê) (NN 拚-輸-贏｜piànn-su-iânn))))))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"你｜Lí 若｜ná 因｜in 為｜uî 按｜àn 呢｜ne 講｜kóng 伊｜i 是-無｜sī-bô 好-的｜hó-ê 歌｜Kua 就｜tiō 毋｜m̄ 著-矣-啦｜tio̍h-ah-lah ！｜!
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (PN 你｜Lí))
+    (VP
+      (ADVP (CS 若｜ná))
+      (VP
+        (PP
+          (P 因｜in)
+          (CP
+            (IP
+              (VP
+                (P 為｜uî)
+                (IP
+                  (VP
+                    (PP
+                      (P 按｜àn)
+                      (FLR (SP 呢｜ne))
+                      (IP
+                        (VP
+                          (VV 講｜kóng)
+                          (NP
+                            (CP
+                              (IP (NP (NR 伊｜i)) (VP (VE 是-無｜sī-bô)))
+                              (DEC 好-的｜hó-ê))
+                            (NP (NN 歌｜Kua))))))
+                    (ADVP (AD 就｜tiō))
+                    (VP (AD 毋｜m̄))))))
+            (SP 著-矣-啦｜tio̍h-ah-lah)))))
+    (PU ！｜!)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"彼｜Sī 時｜sî 代｜tài 查-某-人｜tsa-bóo-lâng ，｜, 無-地｜Bô-tè 位｜uī ，｜,
+","['Na', 'Na', 'Na', 'Na', 'PUNC', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (LCP (NP (NN 彼｜Sī)) (LC 時｜sî))
+      (VP (VV 代｜tài) (NP (PN 查-某-人｜tsa-bóo-lâng))))
+    (PU ，｜,)
+    (IP (NP (NN 無-地｜Bô-tè)) (VP (VV 位｜uī)))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '本調#', '毋是台語']"
+"無｜Bô 像｜tshiōnn 現｜hiàn 代｜tài 的｜ê 查-某-人｜tsa-poo-lâng 講-話｜kóng-uē 較｜khah 大-聲｜tuā-siann 。｜.
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (VE 無｜Bô)
+      (IP
+        (PP
+          (P 像｜tshiōnn)
+          (NP
+            (CP (IP (VP (NP (NT 現｜hiàn)) (VP (VV 代｜tài)))) (DEC 的｜ê))
+            (NP (NN 查-某-人｜tsa-poo-lâng))))
+        (VP
+          (VV 講-話｜kóng-uē)
+          (VP (ADVP (AD 較｜khah)) (VP (VA 大-聲｜tuā-siann))))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"予-人｜Hōo-lâng 休｜hiu 掉｜tiāu 退｜thè 貨｜huè 是｜sī 有｜ū 聽-過｜thiann-kuè ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (NN 予-人｜Hōo-lâng))
+    (VP
+      (VP
+        (VP (VRD (VV 休｜hiu) (VV 掉｜tiāu)))
+        (VP (VV 退｜thè) (NP (NN 貨｜huè))))
+      (VP (VC 是｜sī) (VP (VE 有｜ū) (AS 聽-過｜thiann-kuè))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"毋｜M̄ 過｜kò 這｜tsit 條｜tiâu 歌｜kua 只-是｜tsí-sī 唱｜tshiūnn 好｜hó 耍｜sńg 爾-爾｜niā-niā ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (ADVP (AD 毋｜M̄))
+    (IP
+      (VP
+        (VV 過｜kò)
+        (NP (DP (DT 這｜tsit) (CLP (M 條｜tiâu))) (NP (NN 歌｜kua)))))
+    (ADVP (AD 只-是｜tsí-sī))
+    (VRD (VV 唱｜tshiūnn) (VA 好｜hó))
+    (VP (VV 耍｜sńg) (NP (NR 爾-爾｜niā-niā)))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"這-个｜Tsit-ê 查-埔-人｜tsa-poo-lâng ，｜, 嘛｜Mà 是｜sī 看-有｜khuànn-ū 食-無｜tsia̍h-bô 干｜kan 焦｜tann 癮｜giàn ，｜,
+","['Na', 'Na', 'PUNC', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (VP
+        (NP (DP (DT 這-个｜Tsit-ê)) (NP (NN 查-埔-人｜tsa-poo-lâng)))
+        (PU ，｜,)
+        (SP 嘛｜Mà)
+        (VP
+          (VC 是｜sī)
+          (VP
+            (VNV (VE 看-有｜khuànn-ū) (VE 食-無｜tsia̍h-bô))
+            (VP (VV 干｜kan) (NP (NN 焦｜tann) (NN 癮｜giàn)))))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"唱｜Tshiònn 歌｜kua 來｜lâi 消-敨｜siau-tháu 心-內｜sim-lāi 的｜ê 鬱-卒｜ut-tsut niâ｜niâ 厝-裡｜Tshù-lí 有｜ū 煮-飯｜tsú-pn̄g 的｜ê ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (CP
+    (IP
+      (NP
+        (CP
+          (IP
+            (VP
+              (VP (VV 唱｜Tshiònn) (NP (NN 歌｜kua)))
+              (VP
+                (MSP 來｜lâi)
+                (VP (VV 消-敨｜siau-tháu) (NP (NN 心-內｜sim-lāi))))))
+          (DEC 的｜ê))
+        (NP (NN 鬱-卒｜ut-tsut) (NN niâ｜niâ) (NN 厝-裡｜Tshù-lí)))
+      (VP (VE 有｜ū) (NP (NN 煮-飯｜tsú-pn̄g))))
+    (SP 的｜ê)
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '本調#', '毋是台語']"
+"算｜Sǹg 來｜lâi 伊｜i 猶-是｜iáu-sī 一-个｜tsi̍t-ê 純｜sûn 情｜tsîng 的｜ê 查-埔-囝｜tsa-poo-kiánn
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (IP (VP (VV 算｜Sǹg) (IP (VP (VV 來｜lâi) (NP (NR 伊｜i))))))
+    (VP
+      (VC 猶-是｜iáu-sī)
+      (NP
+        (DNP
+          (NP
+            (QP (CLP (M 一-个｜tsi̍t-ê)))
+            (ADJP (JJ 純｜sûn))
+            (NP (NN 情｜tsîng)))
+          (DEG 的｜ê))
+        (NP (NN 查-埔-囝｜tsa-poo-kiánn))))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '規則變調', '本調#']"
+"講｜Kóng 著｜tiō 純｜sûn 情｜tsîng
+","['Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (VP
+      (VV 講｜Kóng)
+      (AS 著｜tiō)
+      (NP (ADJP (JJ 純｜sûn)) (NP (NN 情｜tsîng))))))","['規則變調', '規則變調', '規則變調', '本調#']"
+"敢｜Kám 一-定｜it-tīng 著｜tiō 純｜sûn 愛-情｜ài-tsîng ？｜?
+","['Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (VV 敢｜Kám)
+      (NP
+        (ADJP (JJ 一-定｜it-tīng))
+        (AS 著｜tiō)
+        (ADJP (JJ 純｜sûn))
+        (NP (NN 愛-情｜ài-tsîng))))
+    (PU ？｜?)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"現｜Hiàn 代｜tài 的｜ê 歌｜kua 星｜tshinn 蕭｜siau 煌｜hông 奇｜kî 唱｜tshiūnn 一｜tsit 條｜tiâu 枋｜pāng 橋｜kiû 純｜sûn 情｜tsîng 曲｜Khioh ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP
+      (CP (IP (VP (ADVP (AD 現｜Hiàn)) (VP (VV 代｜tài)))) (DEC 的｜ê))
+      (NP (NN 歌｜kua) (NN 星｜tshinn))
+      (NP (NR 蕭｜siau)))
+    (VP
+      (VP (VV 煌｜hông) (NP (NN 奇｜kî)))
+      (VP
+        (VP
+          (VV 唱｜tshiūnn)
+          (NP
+            (QP (CD 一｜tsit) (CLP (M 條｜tiâu)))
+            (NP (NN 枋｜pāng) (NN 橋｜kiû))
+            (ADJP (JJ 純｜sûn))
+            (NP (NN 情｜tsîng))))
+        (VP (VV 曲｜Khioh))))
+    (PU ，｜,)))","['規則變調', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"枋-橋｜Pâng-king 的｜ê 風｜hōng 啊｜á 繼-續｜kè-sio̍k 吹｜tshue ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (DNP (NP (NR 枋-橋｜Pâng-king)) (DEG 的｜ê)) (NP (NN 風｜hōng)))
+    (FLR (SP 啊｜á))
+    (VP (VV 繼-續｜kè-sio̍k) (VP (VV 吹｜tshue)))
+    (PU ，｜,)))","['規則變調', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"吹｜Tshue 過｜kue 咱｜lán 細-漢｜sè-hàn 對-面｜tuì-bīn 彼｜hit 片｜phiàn 初-戀｜tshoo-luân 地｜te
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (VP
+      (VV 吹｜Tshue)
+      (AS 過｜kue)
+      (NP
+        (NP (PN 咱｜lán))
+        (NP
+          (NP (NR 細-漢｜sè-hàn))
+          (NP (NN 對-面｜tuì-bīn))
+          (ADJP (JJ 彼｜hit))
+          (NP (NN 片｜phiàn)))
+        (NP (NN 初-戀｜tshoo-luân) (NN 地｜te))))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"有｜Ū 咱｜lán 青｜tshing 春-的｜tshun-ê 表｜piáu 白｜pe̍h ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (VE 有｜Ū)
+      (NP
+        (NP (PN 咱｜lán))
+        (DNP (ADJP (JJ 青｜tshing)) (DEG 春-的｜tshun-ê))
+        (NP (NN 表｜piáu) (NN 白｜pe̍h))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '本調#', '毋是台語']"
+"伊｜I 的｜ê 歌-聲｜kua-siann ，｜,
+","['Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (FRAG
+    (NP (DNP (NP (NR 伊｜I)) (DEG 的｜ê)) (NP (NN 歌-聲｜kua-siann)))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"本-底｜Pún-té 就｜tio̍h 好-聽｜hó-thiann ，｜, 飽｜Pa 滇｜tinn ，｜,
+","['Na', 'Na', 'Na', 'PUNC', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (NP (NN 本-底｜Pún-té))
+      (VP
+        (VP (ADVP (AD 就｜tio̍h)) (VP (VA 好-聽｜hó-thiann)))
+        (PU ，｜,)
+        (VP (VV 飽｜Pa) (NP (NR 滇｜tinn)))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '本調#', '毋是台語']"
+"閣｜Koh 有｜ū 性｜sī 命｜niá 有｜ū 元-氣｜guân-khì
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (NP (NN 閣｜Koh))
+    (VP
+      (VP (VE 有｜ū) (NP (NN 性｜sī) (NN 命｜niá)))
+      (VP (VE 有｜ū) (NP (NN 元-氣｜guân-khì))))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"一｜Tsi̍t 唱｜tshiūnn 這｜tsit 條｜tiâu 歌｜kua
+","['Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (VP
+      (ADVP (AD 一｜Tsi̍t))
+      (VP
+        (VV 唱｜tshiūnn)
+        (NP (DP (DT 這｜tsit) (CLP (M 條｜tiâu))) (NP (NN 歌｜kua)))))))","['規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"保-證｜Pó-tsìng 查-埔｜tsa-poo 查｜tshâ 某｜bóo 無-人｜bô-lâng 會｜ē 吵｜tsha 攏｜lóng 嘛｜mà 做-伙｜tsò-hué 學｜O̍h 內-底｜lāi-té 的｜ê 青-春｜tshing-tshun 男-女｜lâm-lí 輕-聲-細-說｜khin-siann-sè-sueh
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (VP
+      (VV 保-證｜Pó-tsìng)
+      (IP
+        (NP (NR 查-埔｜tsa-poo))
+        (VP
+          (VV 查｜tshâ)
+          (IP
+            (NP (DP (DT 某｜bóo)) (NP (NN 無-人｜bô-lâng)))
+            (VP
+              (VV 會｜ē)
+              (VP
+                (VSB (VV 吵｜tsha) (VV 攏｜lóng))
+                (IP
+                  (FLR (SP 嘛｜mà))
+                  (M 做-伙｜tsò-hué)
+                  (NP
+                    (CP
+                      (IP (VP (VV 學｜O̍h) (NP (NN 內-底｜lāi-té))))
+                      (DEC 的｜ê))
+                    (NP (NN 青-春｜tshing-tshun) (NN 男-女｜lâm-lí)))
+                  (VP (VV 輕-聲-細-說｜khin-siann-sè-sueh)))))))))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"親｜Tshing 像｜tshiōnn 枋-橋｜pâng-king 的｜ê 風｜hong 微｜bi 微｜bi 仔｜ah 吹｜tshue ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (VP
+        (VV 親｜Tshing)
+        (IP
+          (VP
+            (PP
+              (P 像｜tshiōnn)
+              (NP
+                (DNP (NP (NR 枋-橋｜pâng-king)) (DEG 的｜ê))
+                (NP (NN 風｜hong))))
+            (ADVP (AD 微｜bi))
+            (ADVP (AD 微｜bi))
+            (NP (NN 仔｜ah))
+            (VP (VV 吹｜tshue))))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '規則變調', '仔前變調&', '本調#', '本調#', '毋是台語']"
+"做-伙｜Tsò-hué 聽｜thiann 枋｜pàng 橋｜kioh 在｜tsāi 地｜tè 人｜lâng 唱｜tshiònn 出｜tshut 故-鄉｜kòo-hiong 的｜ê 依｜i 戀｜Luān
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (VP
+      (ADVP (AD 做-伙｜Tsò-hué))
+      (VP
+        (VV 聽｜thiann)
+        (UCP
+          (CP
+            (IP
+              (NP (NN 枋｜pàng) (NN 橋｜kioh))
+              (VP
+                (PP (P 在｜tsāi) (NP (NN 地｜tè) (NN 人｜lâng)))
+                (VP
+                  (VRD (VV 唱｜tshiònn) (VV 出｜tshut))
+                  (NP (NN 故-鄉｜kòo-hiong)))))
+            (DEC 的｜ê))
+          (PP (P 依｜i) (NP (NN 戀｜Luān))))))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '本調#']"
+"唱｜Tshiònn 出｜tshut 早-前｜tsá-tsîng 生-活｜sing-ua̍h 的｜ê 懷-念｜huâi-liām 。｜.
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (VRD (VV 唱｜Tshiònn) (VV 出｜tshut))
+      (NP
+        (DNP
+          (NP (ADJP (JJ 早-前｜tsá-tsîng)) (NP (NN 生-活｜sing-ua̍h)))
+          (DEG 的｜ê))
+        (NP (NN 懷-念｜huâi-liām))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '本調#', '毋是台語']"
+"查-某｜Tsa-bóo 的｜ê 聽-了｜thiann-liáu 無｜bô 感-動｜kám-tōng 才｜tsiah 奇｜kî
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (NP
+      (DNP (NP (NR 查-某｜Tsa-bóo)) (DEG 的｜ê))
+      (NP (NN 聽-了｜thiann-liáu)))
+    (VP
+      (VP (VE 無｜bô) (NP (NN 感-動｜kám-tōng)))
+      (VP (ADVP (AD 才｜tsiah)) (VP (NN 奇｜kî))))))","['規則變調', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"查-埔｜Tsa-poo 的｜ê 嘛｜mà 會｜ē 呵-咾｜o-ló 唱-歌｜tshiùnn-kua 的｜ê 歌｜kua 星｜tshinn
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (DNP (NP (NR 查-埔｜Tsa-poo)) (DEG 的｜ê))
+    (FLR (SP 嘛｜mà))
+    (VP
+      (VV 會｜ē)
+      (VP
+        (VV 呵-咾｜o-ló)
+        (NP
+          (CP (IP (VP (VV 唱-歌｜tshiùnn-kua))) (DEC 的｜ê))
+          (NP (NN 歌｜kua) (NN 星｜tshinn)))))))","['規則變調', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '本調#']"
+"蕭｜Siau 煌｜hông 奇｜kî 無｜bô 因｜in 為｜uî 家｜ka 己-的｜tī-ê 目-睭｜ba̍k-tsiu 失｜sit 明｜bîng 失｜sit 志-去｜tsì-khì 消｜Siau 風｜hông 去｜khì 顛-倒｜tian-tò 用｜ióng 伊｜i 的｜ê 才-情｜tsâi-tsîng 拍｜pha 拚｜piànn 所｜sóo 得-著｜Tit-tio̍h 的｜ê 金｜kim 額｜giā 名-聲｜miâ-siann 。｜.
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (NR 蕭｜Siau))
+    (VP
+      (VV 煌｜hông)
+      (NP
+        (NP
+          (ADJP (JJ 奇｜kî))
+          (CP
+            (IP
+              (VP
+                (VE 無｜bô)
+                (IP
+                  (VP
+                    (VP
+                      (PP
+                        (P 因｜in)
+                        (IP
+                          (VP
+                            (PP
+                              (P 為｜uî)
+                              (NP
+                                (DNP (NP (NN 家｜ka)) (DEG 己-的｜tī-ê))
+                                (NP (NN 目-睭｜ba̍k-tsiu))))
+                            (VP (VV 失｜sit) (NP (VV 明｜bîng))))))
+                      (VP (VV 失｜sit)))
+                    (VP
+                      (VV 志-去｜tsì-khì)
+                      (VP (VV 消｜Siau) (NP (NN 風｜hông))))
+                    (VP
+                      (VP
+                        (VP (VV 去｜khì))
+                        (VP
+                          (ADVP (AD 顛-倒｜tian-tò))
+                          (VP
+                            (VV 用｜ióng)
+                            (NP
+                              (DNP (NP (NR 伊｜i)) (DEG 的｜ê))
+                              (NP (NN 才-情｜tsâi-tsîng))))))
+                      (VP (VV 拍｜pha))
+                      (VP
+                        (VP (VV 拚｜piànn))
+                        (VP (VV 所｜sóo) (AS 得-著｜Tit-tio̍h))))))))
+            (DEC 的｜ê))
+          (ADJP (JJ 金｜kim))
+          (NP (NN 額｜giā)))
+        (NP (NN 名-聲｜miâ-siann))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '再變調$', '規則變調', '規則變調', '再變調$', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"對｜Uì 仝｜kâng 款｜khuán 青-盲｜tshenn-mê 的｜ê 人｜lâng 開｜khui 一-間｜tsi̍t-king 按｜Án 一｜it 個｜kò 讚｜tsàn 掠-龍｜Lia̍h-lîng 的｜ê 店｜tiàm ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (FRAG
+    (LCP
+      (IP
+        (NP
+          (DNP
+            (PP
+              (P 對｜Uì)
+              (NP (NN 仝｜kâng) (NN 款｜khuán) (NN 青-盲｜tshenn-mê)))
+            (DEC 的｜ê))
+          (NP (NN 人｜lâng)))
+        (VP (VV 開｜khui)))
+      (LC 一-間｜tsi̍t-king))
+    (PP
+      (P 按｜Án)
+      (NP
+        (DNP
+          (NP
+            (QP (CD 一｜it) (CLP (M 個｜kò)))
+            (ADJP (JJ 讚｜tsàn))
+            (NP (NN 掠-龍｜Lia̍h-lîng)))
+          (DEG 的｜ê))
+        (NP (NN 店｜tiàm))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '本調#', '毋是台語']"
+"予｜Hōo 遮-的｜tsia̍h-ê 目-睭｜ba̍k-tsiu 失｜sī 光-明｜kong-bîng 的｜ê 人｜lâng 生-活｜sing-ua̍h 前-途｜tsiân-tôo 有｜Ū 補｜póo 添｜thiam
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (NP
+      (CP (IP (VP (VV 予｜Hōo))) (DEC 遮-的｜tsia̍h-ê))
+      (NP (NN 目-睭｜ba̍k-tsiu)))
+    (VP
+      (VV 失｜sī)
+      (IP
+        (IP
+          (NP
+            (CP (IP (VP (VA 光-明｜kong-bîng))) (DEC 的｜ê))
+            (NP (NN 人｜lâng)))
+          (VP (VV 生-活｜sing-ua̍h) (NP (NN 前-途｜tsiân-tôo))))
+        (VP (VP (VE 有｜Ū) (NP (NN 補｜póo))) (VP (VV 添｜thiam)))))))","['規則變調', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"枋｜Pàng 橋｜kiō 處｜tshù 處｜tshù 有｜ū 純｜sûn 情｜tsîng
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (NP
+      (NP (QP (OD 枋｜Pàng)) (NP (NN 橋｜kiō)))
+      (NP (NN 處｜tshù) (NN 處｜tshù)))
+    (VP (VE 有｜ū) (NP (ADJP (JJ 純｜sûn)) (NP (NN 情｜tsîng))))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"有｜Ū 古-錐｜kóo-tsui 活｜ua̍h 跳｜thiàu 的｜ê 愛-情｜ài-tsîng
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (VP
+      (VE 有｜Ū)
+      (IP
+        (NP (NN 古-錐｜kóo-tsui))
+        (VP
+          (VV 活｜ua̍h)
+          (NP
+            (CP (IP (VP (VV 跳｜thiàu))) (DEC 的｜ê))
+            (NP (NN 愛-情｜ài-tsîng))))))))","['規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '本調#']"
+"第｜Tē 十-七｜tsa̍p-tshit 篇｜phinn ，｜,
+","['Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (INC
+    (QP (QP (OD 第｜Tē)) (QP (CD 十-七｜tsa̍p-tshit) (CLP (M 篇｜phinn))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"毋｜M̄ 認-輸｜jīn-su
+","['Na', 'Na']",(ROOT (IP (VP (ADVP (AD 毋｜M̄)) (VP (VV 認-輸｜jīn-su))))),"['規則變調', '規則變調', '本調#']"
+"作｜Tsok 者｜tsiá ，｜, 王｜Ông 秀｜siù 容｜iông
+","['Na', 'Na', 'PUNC', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (IP (VP (VV 作｜Tsok) (NP (NN 者｜tsiá))))
+    (PU ，｜,)
+    (IP (NP (NR 王｜Ông) (NN 秀｜siù)) (VP (VV 容｜iông)))))","['規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '本調#']"
+"下-港｜Ē-káng 頂-港｜tíng-káng 有｜ū 塗｜thôo 城｜siânn
+","['Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (NP (NR 下-港｜Ē-káng) (NR 頂-港｜tíng-káng))
+    (VP (VE 有｜ū) (VP (VV 塗｜thôo) (NP (NN 城｜siânn))))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"看｜Khuànn 地｜tè 名｜miâ 就｜tiō 知-影｜tsai-iánn ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (VP
+        (VP (VV 看｜Khuànn) (NP (NN 地｜tè) (NN 名｜miâ)))
+        (VP (ADVP (AD 就｜tiō)) (VP (VV 知-影｜tsai-iánn)))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"攏｜Lóng 是-毋｜sī-m̄ 認-輸｜jīn-su ，｜, 拚-輸-贏｜Piànn-su-iânn
+","['Na', 'Na', 'Na', 'PUNC', 'Na']","(ROOT
+  (IP
+    (IP
+      (VP
+        (VV 攏｜Lóng)
+        (IP (VP (ADVP (AD 是-毋｜sī-m̄)) (VP (VV 認-輸｜jīn-su))))))
+    (PU ，｜,)
+    (NP (NN 拚-輸-贏｜Piànn-su-iânn))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '本調#']"
+"是｜Sī 鄭｜tēnn 成-功｜sîng-kong 到｜kàu 臺｜tâi 灣｜uan ，｜, 佮｜Kā 紅｜âng 毛｜mo̍oh 番｜huān 捙-拚｜tshia-piànn
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (IP
+      (VP
+        (VC 是｜Sī)
+        (IP
+          (NP (NR 鄭｜tēnn))
+          (VP
+            (VRD (VV 成-功｜sîng-kong) (VV 到｜kàu))
+            (NP (NP (NR 臺｜tâi)) (NP (NN 灣｜uan)))))))
+    (PU ，｜,)
+    (IP
+      (NP (NN 佮｜Kā))
+      (VP
+        (VA 紅｜âng)
+        (NP
+          (CLP (NP (NR 毛｜mo̍oh)) (CLP (M 番｜huān)))
+          (NP (NN 捙-拚｜tshia-piànn)))))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"開｜Khai 展｜tián 漢-人｜hàn-jîn 的｜ê 天-下｜thian-hā ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (FRAG
+    (NP
+      (CP
+        (IP (VP (VV 開｜Khai) (NP (NN 展｜tián) (NN 漢-人｜hàn-jîn))))
+        (DEG 的｜ê))
+      (NP (NN 天-下｜thian-hā)))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '本調#', '毋是台語']"
+"用｜Iōng 塗｜thôo 起｜khí 城｜siânn 顧｜kòo 兵｜ping 營｜iânn
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (VP
+      (PP
+        (P 用｜Iōng)
+        (IP
+          (VP
+            (VP (VRD (VV 塗｜thôo) (VV 起｜khí)) (NP (NN 城｜siânn)))
+            (VP (VV 顧｜kòo) (NP (NN 兵｜ping) (NN 營｜iânn)))))))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"遐｜Hia 有｜ú 鹿｜lo̍k 耳｜nî 門｜mn̄g ，｜, 媽｜Ma 祖｜tsóo 現｜hiàn 靈-聖｜lîng-siànn
+","['Na', 'Na', 'Na', 'Na', 'Na', 'PUNC', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (IP
+      (VP
+        (ADVP (AD 遐｜Hia))
+        (VP (VE 有｜ú) (NP (NN 鹿｜lo̍k) (NN 耳｜nî) (NN 門｜mn̄g)))))
+    (PU ，｜,)
+    (IP
+      (NP (NN 媽｜Ma) (NN 祖｜tsóo))
+      (VP (ADVP (AD 現｜hiàn)) (VP (VA 靈-聖｜lîng-siànn))))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"保-庇｜Pó-pì 拍｜pha 拚｜piánn 的｜ê 討-海-人｜thó-hái-lâng 風｜hong 湧｜tsîng 大｜tuā 嘛｜mà 毋-驚｜m̄-kiann 。｜.
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (VP
+        (VV 保-庇｜Pó-pì)
+        (NP
+          (CP (IP (VP (VCD (VV 拍｜pha) (VV 拚｜piánn)))) (DEC 的｜ê))
+          (NP (NN 討-海-人｜thó-hái-lâng) (NN 風｜hong))))
+      (VP
+        (VV 湧｜tsîng)
+        (IP
+          (VP
+            (ADVP (VA 大｜tuā))
+            (FLR (SP 嘛｜mà))
+            (VP (VA 毋-驚｜m̄-kiann))))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"魚｜Sī 蝦｜he 掠｜liá 甲｜kā 滿｜mua 滿｜muá 滿｜muá
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (NP (NP (NN 魚｜Sī) (NN 蝦｜he)) (NP (NN 掠｜liá) (NN 甲｜kā)))
+    (VP (ADVP (AD 滿｜mua)) (VP (VRD (VV 滿｜muá) (VA 滿｜muá))))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"是｜Sī 漢-人｜hàn-jîn 防-備｜hông-pī 番-人｜huan-sin 的｜ê 工-程｜kang-tîng ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (VC 是｜Sī)
+      (NP
+        (CP
+          (IP
+            (NP (NN 漢-人｜hàn-jîn))
+            (VP (VV 防-備｜hông-pī) (NP (NN 番-人｜huan-sin))))
+          (DEC 的｜ê))
+        (NP (NN 工-程｜kang-tîng))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '本調#', '毋是台語']"
+"顧｜Kòo 家-伙｜ke-hué 保｜bô 性｜sìnn 命｜miā 用｜iōng 塗｜thôo 起｜khì 牆｜tshiúnn 做｜tsò 界｜kài 線｜suànn
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (IP
+      (VP
+        (VV 顧｜Kòo)
+        (NP
+          (NP (NN 家-伙｜ke-hué) (NN 保｜bô))
+          (NP (NN 性｜sìnn) (NN 命｜miā)))))
+    (VP
+      (P 用｜iōng)
+      (IP
+        (VP
+          (VP (VRD (VV 塗｜thôo) (VV 起｜khì)) (NP (NN 牆｜tshiúnn)))
+          (VP (VV 做｜tsò) (NP (NN 界｜kài) (NN 線｜suànn))))))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"遐｜Hia 有｜ū 承｜sîng 天｜thian 禪｜siân 寺｜sī 果-子｜kué-tsí 師｜su 父｜hū 的｜ê 加｜ka 持｜tshî 予｜Hōo 上-山｜tsiūnn-suann 落｜lō 崎｜kiā 欣-賞｜him-sióng 油｜iû 桐｜tông 花｜hue 的｜ê 人｜lâng 心｜Sim 佮｜kah 花｜hue 平｜pênn 媠｜suí ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (ADVP (AD 遐｜Hia))
+      (VP
+        (VE 有｜ū)
+        (IP
+          (NP
+            (CP
+              (IP
+                (VP
+                  (VP (VV 承｜sîng) (NP (NN 天｜thian)))
+                  (VP
+                    (VV 禪｜siân)
+                    (NP
+                      (NN 寺｜sī)
+                      (NN 果-子｜kué-tsí)
+                      (NN 師｜su)
+                      (NN 父｜hū)))))
+              (DEC 的｜ê))
+            (NP (NR 加｜ka)))
+          (VP
+            (VP
+              (VV 持｜tshî)
+              (NP
+                (CP
+                  (IP
+                    (VP
+                      (PP
+                        (P 予｜Hōo)
+                        (IP
+                          (VP
+                            (VV 上-山｜tsiūnn-suann)
+                            (IP
+                              (VP
+                                (VV 落｜lō)
+                                (NP
+                                  (NN 崎｜kiā)
+                                  (NN 欣-賞｜him-sióng)
+                                  (NN 油｜iû)))))))
+                      (ADVP (AD 桐｜tông))
+                      (VP (VV 花｜hue))))
+                  (DEC 的｜ê))
+                (NP (NN 人｜lâng) (NN 心｜Sim) (NN 佮｜kah))))
+            (VP (VV 花｜hue) (NP (NN 平｜pênn) (NN 媠｜suí)))))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"用｜Iōng 自-然｜tsū-jiân 看｜khuànn 靈｜līn 命｜miā
+","['Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (VP
+      (PP (P 用｜Iōng) (NP (NN 自-然｜tsū-jiân)))
+      (VP (VV 看｜khuànn) (NP (NN 靈｜līn) (NN 命｜miā))))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"笑｜Tshiâu 看｜khan 人-生｜jîn-sing 毋-免｜m̄-bián 拚｜piánn ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (VV 笑｜Tshiâu)
+      (IP
+        (VP
+          (VP (VV 看｜khan) (NP (NN 人-生｜jîn-sing)))
+          (VP (ADVP (AD 毋-免｜m̄-bián)) (VP (VV 拚｜piánn))))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"我｜Guá 佇｜tī 下｜e 港｜káng 讀｜tha̍k 大-學｜tāi-ha̍k ，｜, 來｜Lâi 頂-港｜tíng-káng 教-冊｜kà-tsheh ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (PN 我｜Guá))
+    (VP
+      (VV 佇｜tī)
+      (IP
+        (VP
+          (VP (VV 下｜e) (NP (NR 港｜káng)))
+          (VP (VV 讀｜tha̍k) (NP (NN 大-學｜tāi-ha̍k)))
+          (PU ，｜,)
+          (VP (VV 來｜Lâi) (NP (NN 頂-港｜tíng-káng) (NN 教-冊｜kà-tsheh))))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"後｜Āu 來-好｜lâi-hó 運｜ùn 做｜tsò 指｜tsí 導｜tō 員｜guân 為｜uî 臺-語｜tâi-gí 拍-拚｜phah-piànn
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (VP
+      (ADVP (AD 後｜Āu))
+      (VP
+        (ADVP (AD 來-好｜lâi-hó))
+        (VP
+          (VV 運｜ùn)
+          (VP
+            (VV 做｜tsò)
+            (VP
+              (VP
+                (VV 指｜tsí)
+                (NP (NN 導｜tō) (NN 員｜guân))
+                (IP (VP (VC 為｜uî) (NP (NN 臺-語｜tâi-gí)))))
+              (VP (VV 拍-拚｜phah-piànn)))))))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"兩-个｜Lâng-kheh 塗｜thôo 城｜siánn 我｜guá 攏｜lóng 捌｜pat 行-踏｜kiânn-ta̍h ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (QP (CLP (M 兩-个｜Lâng-kheh)))
+    (VP
+      (VP (VV 塗｜thôo) (NP (NN 城｜siánn)))
+      (IP
+        (NP (PN 我｜guá))
+        (VP
+          (VV 攏｜lóng)
+          (IP (VP (ADVP (AD 捌｜pat)) (VP (VV 行-踏｜kiânn-ta̍h)))))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"講｜Kóng 英-語｜ing-gí 的｜ê 青-春｜tshing-tshun 少｜siàu 女｜lú 變-做｜piàn-tsò 愛｜ài 臺-語｜tâi-gí 的｜ê 少-年｜siàu-liân 阿｜a 媽｜ma ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (NP
+        (CP (IP (VP (VV 講｜Kóng) (NP (NN 英-語｜ing-gí)))) (DEC 的｜ê))
+        (NP (NN 青-春｜tshing-tshun)))
+      (VP
+        (ADVP (AD 少｜siàu))
+        (NP
+          (CP
+            (IP
+              (NP (ADJP (JJ 女｜lú)) (NP (NN 變-做｜piàn-tsò)))
+              (VP (VV 愛｜ài) (NP (NN 臺-語｜tâi-gí))))
+            (DEC 的｜ê))
+          (NP (NN 少-年｜siàu-liân))
+          (NP (NR 阿｜a) (NN 媽｜ma)))))
+    (PU ，｜,)))","['規則變調', '規則變調', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"只-是｜Tsí-sī 蹛-久｜tuā-kū
+","['Na', 'Na']",(ROOT (IP (VP (ADVP (AD 只-是｜Tsí-sī)) (VP (VV 蹛-久｜tuā-kū))))),"['規則變調', '規則變調', '規則變調', '本調#']"
+"頂-港｜Tíng-káng 的｜ê 塗｜thôo 城｜siânn 較｜khah 熟｜si̍k
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (DNP (NP (NR 頂-港｜Tíng-káng)) (DEG 的｜ê))
+    (VP
+      (VV 塗｜thôo)
+      (IP (NP (NN 城｜siânn)) (VP (ADVP (AD 較｜khah)) (VP (VA 熟｜si̍k)))))))","['規則變調', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"SIL｜SIL
+",['Na'],(ROOT (FRAG (NR SIL｜SIL))),['毋是台語']
+"第｜Tē 一｜i 拍｜phah 拚｜piánn ，｜,
+","['Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (QP (OD 第｜Tē)) (QP (CD 一｜i)) (NP (NN 拍｜phah)))
+    (VP (VV 拚｜piánn))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"海｜Hái 山｜san 塗-炭｜thôo-thuànn
+","['Na', 'Na', 'Na']",(ROOT (NP (NN 海｜Hái) (NN 山｜san) (NN 塗-炭｜thôo-thuànn))),"['規則變調', '規則變調', '規則變調', '本調#']"
+"民｜Bîn 國｜kok 七-十｜tshit-tsa̍p 三｜sann 年｜nî ，｜, 六｜La̍k 月｜guē 二-十｜jī-tsa̍p
+","['Na', 'Na', 'Na', 'Na', 'Na', 'PUNC', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (IP
+      (NP (NN 民｜Bîn) (NN 國｜kok))
+      (VP
+        (QP
+          (QP (CD 七-十｜tshit-tsa̍p))
+          (QP (CD 三｜sann) (CLP (M 年｜nî))))))
+    (PU ，｜,)
+    (FRAG
+      (NP (QP (CD 六｜La̍k)) (NP (NN 月｜guē)))
+      (QP (CD 二-十｜jī-tsa̍p)))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '本調#']"
+"因｜In 為｜uî 輕｜khing 便｜piān 車｜tshia 滑｜kut 落｜loh ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (PP
+      (P 因｜In)
+      (IP
+        (VP
+          (P 為｜uî)
+          (VP
+            (ADJP (JJ 輕｜khing))
+            (VP
+              (ADVP (AD 便｜piān))
+              (NP (NN 車｜tshia))
+              (VP (VV 滑｜kut) (VP (VV 落｜loh))))))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"挵｜Lòng 著｜tiō 高｜koh 壓｜ah 電｜tián ，｜, 火-屎｜Hué-sái 佮｜kā 塗-炭｜thôo-thuànn 粉｜hun 接-觸｜tsiap-tshiok
+","['Na', 'Na', 'Na', 'Na', 'Na', 'PUNC', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (IP
+      (VP
+        (VV 挵｜Lòng)
+        (AS 著｜tiō)
+        (NP (NP (ADJP (JJ 高｜koh)) (NP (NN 壓｜ah))) (NP (NN 電｜tián)))))
+    (PU ，｜,)
+    (NP (NN 火-屎｜Hué-sái) (NN 佮｜kā) (NN 塗-炭｜thôo-thuànn) (NN 粉｜hun))
+    (VP (VV 接-觸｜tsiap-tshiok))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"發-生｜Huat-sing 爆｜po̍k 炸｜tsah 提｜thê 走｜tsáu 七｜tshit 十-二｜tsa̍p-jī 條｜tiâu 礦｜khòng 區｜khu 的｜ê 命｜miâ
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (VP
+      (VV 發-生｜Huat-sing)
+      (IP
+        (VP
+          (VV 爆｜po̍k)
+          (IP
+            (VP
+              (VRD (VV 炸｜tsah) (VV 提｜thê))
+              (NP
+                (CP
+                  (IP
+                    (VP
+                      (VV 走｜tsáu)
+                      (NP
+                        (QP (CD 七｜tshit))
+                        (QP (CD 十-二｜tsa̍p-jī) (CLP (M 條｜tiâu)))
+                        (NP (NN 礦｜khòng) (NN 區｜khu)))))
+                  (DEG 的｜ê))
+                (NP (NN 命｜miâ))))))))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '本調#']"
+"有｜Ū 足｜tsiok 濟｜tsè 是｜sī 阿-美｜a-bí 族｜tso̍k
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (IP (VP (VE 有｜Ū) (IP (NP (NN 足｜tsiok)) (VP (VV 濟｜tsè)))))
+    (VP (VC 是｜sī) (NP (NP (NR 阿-美｜a-bí)) (NP (NN 族｜tso̍k))))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"漢｜Hàn 番｜huan 做-伙｜tsò-hué 埋｜tâi 佇｜tī 𪜶｜in 趁｜thàn 食｜tsiā 為｜uî 生-活｜sing-ua̍h 的｜ê 塗｜thôo 城｜siânn
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (IP
+      (NP (NR 漢｜Hàn))
+      (VP
+        (QP (CLP (M 番｜huan) (CLP (M 做-伙｜tsò-hué))))
+        (VP (VV 埋｜tâi) (NP (NN 佇｜tī)))))
+    (NP (PN 𪜶｜in))
+    (VP
+      (PP
+        (P 趁｜thàn)
+        (IP
+          (NP (NN 食｜tsiā))
+          (VP
+            (VC 為｜uî)
+            (VP
+              (DNP (NP (NN 生-活｜sing-ua̍h)) (DEC 的｜ê))
+              (VP (VV 塗｜thôo) (NP (NN 城｜siânn))))))))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '本調#']"
+"聽-著｜Thiann-tio̍h 毋｜m̄ 甘-甲｜kám-kak 。｜.
+","['Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (VV 聽-著｜Thiann-tio̍h)
+      (IP (VP (ADVP (AD 毋｜m̄)) (VP (VV 甘-甲｜kám-kak)))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"七｜Tshit 十-九｜tsa̍p-káu 年｜nî 開｜khui 店｜tiàm 到-今｜kàu-tann ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (VP
+        (QP (QP (CD 七｜Tshit)) (QP (CD 十-九｜tsa̍p-káu) (CLP (M 年｜nî))))
+        (VP (VP (VV 開｜khui) (NP (NN 店｜tiàm))) (VP (VV 到-今｜kàu-tann)))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"料｜Liâu 實｜sí 在｜tsāi ，｜,
+","['Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP (VV 料｜Liâu) (IP (VP (ADVP (AD 實｜sí)) (VP (VV 在｜tsāi)))))
+    (PU ，｜,)))","['規則變調', '規則變調', '本調#', '毋是台語']"
+"若｜Ná 敢｜kánn 開｜khui 店｜tiàm 毋｜m̄ 驚-人｜kiann-lâng 大｜tuā 食｜tsia̍h ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (CP
+      (ADVP (CS 若｜Ná))
+      (IP (VP (VV 敢｜kánn) (VP (VV 開｜khui) (NP (NN 店｜tiàm))))))
+    (VP
+      (ADVP (AD 毋｜m̄))
+      (VP
+        (VV 驚-人｜kiann-lâng)
+        (IP (VP (ADVP (AD 大｜tuā)) (VP (VV 食｜tsia̍h))))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"這｜Tsit 馬｜ma 已-經｜í-king 接｜tsia̍h 手｜tshiú 予-𪜶｜hōo-in 囝｜kiánn 咧｜leh 扞｜huánn
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (IP
+      (NP (NP (PN 這｜Tsit)) (NP (NN 馬｜ma)))
+      (VP
+        (ADVP (AD 已-經｜í-king))
+        (VP (VV 接｜tsia̍h) (NP (NN 手｜tshiú)))))
+    (NP (PN 予-𪜶｜hōo-in))
+    (VP (VV 囝｜kiánn) (NP (NN 咧｜leh) (NN 扞｜huánn)))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '再變調$', '本調#']"
+"少-年｜Siàu-liân 的｜ē 用｜iōng 設-計｜siat-kè 的｜ê 專｜tsuan 長｜tióng
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (DNP (NP (NN 少-年｜Siàu-liân)) (DEG 的｜ē))
+    (IP
+      (VP
+        (P 用｜iōng)
+        (IP
+          (DNP (NP (VV 設-計｜siat-kè)) (DEC 的｜ê))
+          (VP (ADVP (AD 專｜tsuan)) (VP (VA 長｜tióng))))))))","['規則變調', '本調#', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '本調#']"
+"安-排｜An-pâi 空-間｜khong-kan 重｜tîng 畫｜uē 菜｜tshài 單｜tuann 欲｜Beh 予｜hōo 阿-爸｜a-pa 的｜ê 餐-廳｜tshan-thiann 變-做｜Piàn-tsò 是｜sī 塗｜thôo 城-人｜siânn-lâng 的｜ê 家-庭｜ka-tîng 餐-廳｜tshan-thiann ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (VP
+        (VP
+          (VP (VV 安-排｜An-pâi) (NP (NN 空-間｜khong-kan)))
+          (VP (VV 重｜tîng) (NP (NN 畫｜uē) (NN 菜｜tshài))))
+        (VP
+          (ADVP (AD 單｜tuann))
+          (VP
+            (VV 欲｜Beh)
+            (NP
+              (CP (IP (VP (VV 予｜hōo) (NP (NN 阿-爸｜a-pa)))) (DEC 的｜ê))
+              (NP (NN 餐-廳｜tshan-thiann)))))
+        (VP
+          (VP (VV 變-做｜Piàn-tsò))
+          (VP
+            (VC 是｜sī)
+            (NP
+              (CP
+                (IP (VP (VV 塗｜thôo) (NP (NN 城-人｜siânn-lâng))))
+                (DEC 的｜ê))
+              (NP (NN 家-庭｜ka-tîng) (NN 餐-廳｜tshan-thiann)))))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '再變調$', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"人-客｜Lâng-kheh 來｜lâi 厝-裡｜tshù-lí 𨑨｜tshit 迌｜thó
+","['Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (NP (NN 人-客｜Lâng-kheh))
+    (VP
+      (VV 來｜lâi)
+      (VP (VV 厝-裡｜tshù-lí) (VP (VRD (VV 𨑨｜tshit) (VV 迌｜thó)))))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"第-三｜Tē-sann 拍-拚｜phah-piànn ，｜, 是｜Sī 臺-北｜tâi-pak 縣｜kuān 餅｜piánn ，｜,
+","['Na', 'Na', 'PUNC', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (QP (OD 第-三｜Tē-sann))
+    (VP
+      (VP (VV 拍-拚｜phah-piànn))
+      (PU ，｜,)
+      (VP
+        (VC 是｜Sī)
+        (NP (NP (NR 臺-北｜tâi-pak)) (NP (NN 縣｜kuān) (NN 餅｜piánn)))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"中｜Tiong 央｜iong 路｜lōo 的｜ê 黃｜n̂g 源｜guân 興｜hing 餅｜piánn 店｜tiàm
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (NP
+      (DNP
+        (NP (NP (NR 中｜Tiong) (NR 央｜iong)) (NP (NN 路｜lōo)))
+        (DEG 的｜ê))
+      (ADJP (JJ 黃｜n̂g))
+      (NP (NN 源｜guân)))
+    (VP (VV 興｜hing) (NP (NN 餅｜piánn) (NN 店｜tiàm)))))","['規則變調', '規則變調', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"佇｜Tī 九｜káu 十-五｜tsa̍p-gōo 年｜nî 臺-北｜tâi-pak 縣｜kuān 餅｜piánn 比-賽｜pí-sài 著｜tiō 頭-名｜thâu-miâ 。｜.
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (NR 佇｜Tī))
+    (QP (CD 九｜káu) (QP (CD 十-五｜tsa̍p-gōo) (CLP (M 年｜nî))))
+    (NP (NP (NR 臺-北｜tâi-pak)) (NP (NN 縣｜kuān) (NN 餅｜piánn)))
+    (VP (VV 比-賽｜pí-sài) (AS 著｜tiō) (NP (NN 頭-名｜thâu-miâ)))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"上｜Sióng 厲-害｜lī-hāi 阿｜a 傳｜thuân 師｜sái 認｜līn 為｜uî ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (DP (DT 上｜Sióng)) (ADJP (JJ 厲-害｜lī-hāi)) (NP (NR 阿｜a)))
+    (VP
+      (VP (VV 傳｜thuân) (NP (NN 師｜sái)))
+      (VP (VRD (VV 認｜līn) (VV 為｜uî))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"餅｜Piànn 毋-是｜m̄-sī 干｜kan 焦｜ta 好-食｜hó-tsia̍h ，｜, 是｜Sī 傳｜thuân 承｜sîng 文-化｜bûn-huà ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'PUNC', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (NN 餅｜Piànn))
+    (VP
+      (VP
+        (VC 毋-是｜m̄-sī)
+        (VP
+          (VV 干｜kan)
+          (IP (VP (ADVP (AD 焦｜ta)) (VP (VV 好-食｜hó-tsia̍h))))))
+      (PU ，｜,)
+      (VP
+        (VC 是｜Sī)
+        (VP (VV 傳｜thuân) (VP (VV 承｜sîng) (NP (NN 文-化｜bûn-huà))))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"𪜶｜In 上｜sióng 出-名｜tshut-miâ 是｜sī 伍-仁｜ngóo-jîn 酥｜soo 餅｜piánn ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (PN 𪜶｜In))
+    (VP
+      (VP (VV 上｜sióng) (NP (VV 出-名｜tshut-miâ)))
+      (VP
+        (VC 是｜sī)
+        (NP (NP (NR 伍-仁｜ngóo-jîn)) (NP (NN 酥｜soo) (NN 餅｜piánn)))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"內｜Lâi 餡｜ānn 包｜pau 核｜siat 桃｜thó
+","['Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (NP (NN 內｜Lâi) (NN 餡｜ānn))
+    (VP (VV 包｜pau) (NP (NP (NN 核｜siat)) (NP (NR 桃｜thó))))))","['規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"冬-瓜-糖｜Tang-kue-thn̂g
+",['Na'],(ROOT (NP (NN 冬-瓜-糖｜Tang-kue-thn̂g))),"['規則變調', '規則變調', '本調#']"
+"鹹｜Kiâm 鴨｜ah 卵-仁｜nn̄g-jîn 、｜, 桔｜Kiat 仔｜á
+","['Na', 'Na', 'Na', 'PUNC', 'Na', 'Na']","(ROOT
+  (IP
+    (IP (NP (NN 鹹｜Kiâm) (NN 鴨｜ah)) (VP (VA 卵-仁｜nn̄g-jîn)))
+    (PU 、｜,)
+    (NP (NN 桔｜Kiat) (NN 仔｜á))))","['規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '仔前變調&', '本調#']"
+"號-做｜Hō-tsò 伍-仁｜ngóo-jîn 酥｜soo 是｜sī 欲｜beh 表｜piáu 現-出｜hiàn-tshut 毋｜m̄ 認-輸｜jīn-su 的｜ê 精-神｜tsing-sîn ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (VP
+        (VV 號-做｜Hō-tsò)
+        (NP (NP (NR 伍-仁｜ngóo-jîn)) (NP (NN 酥｜soo))))
+      (VP
+        (VC 是｜sī)
+        (VP
+          (VV 欲｜beh)
+          (VP
+            (VRD (VV 表｜piáu) (VV 現-出｜hiàn-tshut))
+            (NP
+              (CP
+                (IP (VP (ADVP (AD 毋｜m̄)) (VP (VV 認-輸｜jīn-su))))
+                (DEC 的｜ê))
+              (NP (NN 精-神｜tsing-sîn)))))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '再變調$', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '本調#', '毋是台語']"
+"因｜In 為｜uî 做｜tsò 餅｜piànn 艱-苦｜kan-khóo ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (PP
+      (P 因｜In)
+      (IP
+        (VP
+          (PP (P 為｜uî) (IP (VP (VV 做｜tsò) (NP (NN 餅｜piànn)))))
+          (VP (VA 艱-苦｜kan-khóo)))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"物｜Bu̍t 料｜liāu 貴｜kuì ，｜,
+","['Na', 'Na', 'Na', 'PUNC']","(ROOT (IP (NP (NN 物｜Bu̍t) (NN 料｜liāu)) (VP (VV 貴｜kuì)) (PU ，｜,)))","['規則變調', '規則變調', '本調#', '毋是台語']"
+"定｜Tiânn 有｜ū 同｜tông 業｜gia̍p 趁｜thàn 無-錢｜bô-tsînn 關｜kuainn 店｜tiám ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (VV 定｜Tiânn)
+      (IP
+        (VP
+          (VE 有｜ū)
+          (NP (DP (DT 同｜tông)) (NP (NN 業｜gia̍p)))
+          (VP
+            (P 趁｜thàn)
+            (NP
+              (ADJP (JJ 無-錢｜bô-tsînn))
+              (NP (NN 關｜kuainn) (NN 店｜tiám)))))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"伊｜I 堅-持｜kian-tshî 傳-統｜thuân-thóng 的｜i 好｜hó 滋-味｜tsu-bī ，｜, 就｜Tiō 是｜sī 欲｜beh 叫｜Kiò 逐-家｜ta̍k-ke 毋｜m̄ 認-輸｜jīn-su ，｜, 才-會｜Tsiah-ē 富｜pù
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC', 'Na', 'Na']","(ROOT
+  (IP
+    (NP
+      (NP (NR 伊｜I))
+      (CP
+        (IP (VP (VV 堅-持｜kian-tshî) (NP (NN 傳-統｜thuân-thóng))))
+        (DEC 的｜i))
+      (ADJP (JJ 好｜hó))
+      (NP (NN 滋-味｜tsu-bī)))
+    (PU ，｜,)
+    (VP
+      (VP
+        (ADVP (AD 就｜Tiō))
+        (VP
+          (VC 是｜sī)
+          (VP
+            (VV 欲｜beh)
+            (IP
+              (VP
+                (VV 叫｜Kiò)
+                (NP (NN 逐-家｜ta̍k-ke))
+                (IP (VP (ADVP (AD 毋｜m̄)) (VP (VV 認-輸｜jīn-su)))))))))
+      (PU ，｜,)
+      (VP (VV 才-會｜Tsiah-ē) (VP (VV 富｜pù))))))","['規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '再變調$', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '本調#']"
+"上｜Sióng 尾｜bué 一｜tsi̍t 項｜hāng 的｜ê 拍｜pha 拚｜piánn ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP
+      (NP (DP (DT 上｜Sióng)) (NP (NN 尾｜bué)))
+      (DNP (QP (CD 一｜tsi̍t) (CLP (M 項｜hāng))) (DEG 的｜ê))
+      (NP (NN 拍｜pha)))
+    (VP (VV 拚｜piánn))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '本調#', '毋是台語']"
+"是｜Sī 看-守｜khàn-siú 所｜sóo 的｜ê 律｜lu̍t 師｜su 佮｜kah 歹-囝｜pháinn-kiánn
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (VP
+      (VC 是｜Sī)
+      (VP
+        (VP
+          (VV 看-守｜khàn-siú)
+          (NP (DNP (MSP 所｜sóo) (DEG 的｜ê)) (NP (NN 律｜lu̍t) (NN 師｜su))))
+        (VP (VV 佮｜kah) (NP (NN 歹-囝｜pháinn-kiánn)))))))","['規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"律｜Lu̍t 師｜su 毋｜m̄ 認-輸｜jīn-su ，｜,
+","['Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (NN 律｜Lu̍t) (NN 師｜su))
+    (VP (ADVP (AD 毋｜m̄)) (VP (VV 認-輸｜jīn-su)))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"有-人｜Ū-lâng 為｜uî 錢｜tsînn 拚｜piánn ，｜,
+","['Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (NN 有-人｜Ū-lâng))
+    (VP (VP (VV 為｜uî) (NP (NN 錢｜tsînn))) (VP (VV 拚｜piánn)))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"有-人｜Ū-lâng 為｜uì 正-義｜tsìng-gī 出-聲｜tshut-siann ，｜,
+","['Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (NN 有-人｜Ū-lâng))
+    (VP
+      (PP (VC 為｜uì) (NP (NN 正-義｜tsìng-gī)))
+      (VP (VV 出-聲｜tshut-siann)))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"若｜Ná 無｜bô
+","['Na', 'Na']",(ROOT (IP (VP (ADVP (CS 若｜Ná)) (VP (VE 無｜bô))))),"['規則變調', '本調#']"
+"就｜Tiō 是-無｜sī-bô 欲｜beh 拍-拚｜phah-piànn 先｜sing 認-輸｜jīn-su
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (VP
+      (ADVP (AD 就｜Tiō))
+      (VP
+        (VE 是-無｜sī-bô)
+        (VP
+          (VP (VV 欲｜beh) (VP (VV 拍-拚｜phah-piànn)))
+          (VP (ADVP (AD 先｜sing)) (VP (VV 認-輸｜jīn-su))))))))","['規則變調', '規則變調', '規則變調', '再變調$', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"失-志｜Sit-tsì 食｜tsiā 毒｜too 做-歹｜tsò-pháinn 代｜tài 啦｜lah ！｜!
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (CP
+    (IP
+      (VP
+        (VV 失-志｜Sit-tsì)
+        (IP
+          (VP
+            (VP (VV 食｜tsiā) (NP (NN 毒｜too) (NN 做-歹｜tsò-pháinn)))
+            (VP (VV 代｜tài))))))
+    (SP 啦｜lah)
+    (PU ！｜!)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"遮-的｜Tsia-ê 人｜lâng 。｜.
+","['Na', 'Na', 'PUNC']",(ROOT (IP (VP (DEC 遮-的｜Tsia-ê) (NP (NN 人｜lâng))) (PU 。｜.))),"['本調#', '規則變調', '本調#', '毋是台語']"
+"拚｜Piànn 輸｜su 拚｜piànn 贏｜iânn 咱｜lán 嘛｜mah 毋-知-影｜m̄-tsai-iánn ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (VV 拚｜Piànn)
+      (IP
+        (VP
+          (VV 輸｜su)
+          (IP
+            (VP
+              (CP
+                (IP
+                  (VP
+                    (VV 拚｜piànn)
+                    (IP (VP (VV 贏｜iânn) (NP (PN 咱｜lán))))))
+                (SP 嘛｜mah))
+              (VP (VA 毋-知-影｜m̄-tsai-iánn)))))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"SIL｜SIL
+",['Na'],(ROOT (FRAG (NR SIL｜SIL))),['毋是台語']
+"到｜Tôo 底｜tē 咱-人｜lán-lâng 是｜sī 欲｜bē 拚｜piánn 啥｜siannh ？｜?
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (IP (VP (P 到｜Tôo) (NP (NN 底｜tē) (NN 咱-人｜lán-lâng))))
+    (VP
+      (VC 是｜sī)
+      (VP (VV 欲｜bē) (VP (VV 拚｜piánn) (NP (PN 啥｜siannh)))))
+    (PU ？｜?)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '再變調$', '規則變調', '本調#', '毋是台語']"
+"為｜Uî 國-家｜kok-ka 、｜, 為｜Uî 弟-子｜tē-tsú
+","['Na', 'Na', 'PUNC', 'Na', 'Na']","(ROOT
+  (PP
+    (P 為｜Uî)
+    (IP (NN 國-家｜kok-ka) (PU 、｜,) (VP (VV 為｜Uî) (NP (NN 弟-子｜tē-tsú))))))","['規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '本調#']"
+"顧｜Kòo 家-伙｜ke-hué
+","['Na', 'Na']",(ROOT (IP (VP (VV 顧｜Kòo) (NP (NN 家-伙｜ke-hué))))),"['規則變調', '規則變調', '本調#']"
+"為｜Uì 三-頓｜sann-tǹg
+","['Na', 'Na']",(ROOT (IP (VP (P 為｜Uì) (NP (NN 三-頓｜sann-tǹg))))),"['規則變調', '規則變調', '本調#']"
+"為｜Uì 歡｜huānn 喜｜hî ，｜,
+","['Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP (PP (P 為｜Uì) (IP (VP (VV 歡｜huānn) (NP (NN 喜｜hî))))) (PU ，｜,)))","['規則變調', '規則變調', '本調#', '毋是台語']"
+"愛｜Ài 拚｜piànn 才-會｜tsiah-ē 贏｜iânn 。｜.
+","['Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (VV 愛｜Ài)
+      (IP (VP (VV 拚｜piànn) (VP (VV 才-會｜tsiah-ē) (VP (VV 贏｜iânn))))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"想｜Siūnn 予｜hōo 好｜hó ，｜,
+","['Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP (IP (VP (VV 想｜Siūnn) (VP (VV 予｜hōo) (VP (VA 好｜hó))))) (PU ，｜,)))","['規則變調', '規則變調', '本調#', '毋是台語']"
+"就｜Tio̍h 毋-通｜m̄-thang 認-輸｜jīn-su 啦｜lah ！｜!
+","['Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (CP
+    (IP
+      (VP
+        (ADVP (AD 就｜Tio̍h))
+        (VP (VV 毋-通｜m̄-thang) (VP (VV 認-輸｜jīn-su)))))
+    (SP 啦｜lah)
+    (PU ！｜!)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"蕹｜Ìng
+",['Na'],(ROOT (NP (NN 蕹｜Ìng))),['本調#']
+"第｜Tē 二-十｜jī-tsa̍p 一｜it 篇｜phinn ，｜,
+","['Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (QP
+    (QP
+      (OD 第｜Tē)
+      (QP (QP (CD 二-十｜jī-tsa̍p)) (QP (CD 一｜it) (CLP (M 篇｜phinn)))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"蕹｜Īng 菜｜tshài ，｜,
+","['Na', 'Na', 'PUNC']","(ROOT (IP (VP (ADVP (AD 蕹｜Īng)) (VP (NN 菜｜tshài))) (PU ，｜,)))","['規則變調', '本調#', '毋是台語']"
+"作｜Tsok 者｜tsiá 王｜ông 秀-容｜siu-ióng
+","['Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (VP
+      (VV 作｜Tsok)
+      (NP (NP (NN 者｜tsiá)) (NP (NR 王｜ông) (NR 秀-容｜siu-ióng))))))","['規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"經-過｜King-kuè 三｜sann 重｜tîng 埔｜poo 的｜ê 果｜kó 菜｜tshài 市-場｜tshī-tiûnn ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (PP
+      (P 經-過｜King-kuè)
+      (NP
+        (DNP
+          (NP (QP (CD 三｜sann) (CLP (M 重｜tîng))) (NP (NN 埔｜poo)))
+          (DEG 的｜ê))
+        (NP (NN 果｜kó) (NN 菜｜tshài) (NN 市-場｜tshī-tiûnn))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"就｜Tī 會｜lê 想-起｜siūnn-khí 細-漢｜sè-hàn 一-个｜tsit-ê 佮｜kā 菜-蔬｜tshài-se 果-子｜kué-tsí 相｜siong 關｜kuan 的｜Ê 記-持｜kì-tî 。｜.
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (ADVP (AD 就｜Tī))
+      (VP
+        (VV 會｜lê)
+        (VP
+          (VV 想-起｜siūnn-khí)
+          (NP
+            (CP
+              (IP
+                (NP
+                  (NP (NR 細-漢｜sè-hàn))
+                  (QP (CLP (M 一-个｜tsit-ê)))
+                  (NP (NR 佮｜kā))
+                  (NP (NN 菜-蔬｜tshài-se) (NN 果-子｜kué-tsí)))
+                (VP (ADVP (AD 相｜siong)) (VP (VV 關｜kuan))))
+              (DEC 的｜Ê))
+            (NP (NN 記-持｜kì-tî))))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '本調#', '毋是台語']"
+"細-漢｜Sè-hàn 學-校｜ha̍k-hāu 規-定｜kui-tīng 講｜kóng 國｜kok 語｜gí
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (NP (NP (NR 細-漢｜Sè-hàn)) (NP (NN 學-校｜ha̍k-hāu)))
+    (VP
+      (VV 規-定｜kui-tīng)
+      (IP (VP (VV 講｜kóng) (NP (NP (NN 國｜kok)) (NP (NN 語｜gí))))))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"佇｜Tsit 厝｜tshù 裡｜līn 攏｜tông 嘛｜mà 講｜kóng 臺-語｜tâi-gí ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (NP (NN 佇｜Tsit) (NN 厝｜tshù) (NN 裡｜līn))
+      (VP
+        (VP (VV 攏｜tông))
+        (VP (SP 嘛｜mà) (VP (VV 講｜kóng) (NP (NN 臺-語｜tâi-gí))))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"有｜Ū 一｜tsi̍t 擺｜pái 佇｜tī 學-校｜ha̍k-hāu 食｜tsiā 中-晝｜tiong-tàu
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (VP
+      (VE 有｜Ū)
+      (IP
+        (QP (CD 一｜tsi̍t))
+        (VP
+          (VP (VV 擺｜pái) (NP (NP (NR 佇｜tī)) (NP (NN 學-校｜ha̍k-hāu))))
+          (VP (VV 食｜tsiā) (NP (NN 中-晝｜tiong-tàu))))))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"我｜Guá 看｜khuànn 便-當｜piān-tong 有｜ū 蕹｜ìng 菜｜tshài ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (PN 我｜Guá))
+    (VP
+      (VV 看｜khuànn)
+      (IP
+        (NP (NN 便-當｜piān-tong))
+        (VP (VE 有｜ū) (NP (NN 蕹｜ìng) (NN 菜｜tshài)))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"想-講｜Siūnn-kóng ，｜,
+","['Na', 'PUNC']","(ROOT (IP (VP (VV 想-講｜Siūnn-kóng)) (PU ，｜,)))","['規則變調', '本調#', '毋是台語']"
+"欸｜Ē
+",['Na'],(ROOT (NP (NN 欸｜Ē))),['本調#']
+"國｜Kóo 語｜tsínn 欲｜beh 按｜àn 怎｜tsuánn 講｜kóng ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (NN 國｜Kóo) (NN 語｜tsínn))
+    (VP
+      (VV 欲｜beh)
+      (PP (P 按｜àn) (IP (VP (ADVP (AD 怎｜tsuánn)) (VP (VV 講｜kóng))))))
+    (PU ，｜,)))","['規則變調', '規則變調', '再變調$', '規則變調', '規則變調', '本調#', '毋是台語']"
+"因｜In 為｜uî 阿-母｜a-bú 定｜tiānn 交-代｜kau-tài ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (PP
+      (P 因｜In)
+      (IP
+        (VP
+          (PP (P 為｜uî) (NP (NN 阿-母｜a-bú)))
+          (VP (VV 定｜tiānn) (NP (NN 交-代｜kau-tài))))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"毋-通｜M̄-thang 了｜liáu 冊｜tsheh 錢｜tsînn
+","['Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (VP
+      (VV 毋-通｜M̄-thang)
+      (AS 了｜liáu)
+      (NP (QP (CLP (M 冊｜tsheh))) (NP (NN 錢｜tsînn))))))","['規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"有｜Ū 毋-捌｜m̄-bat 的｜leh ，｜, 就｜Tsiò 開-喙｜khui-tshuì 問｜mn̄g ，｜,
+","['Na', 'Na', 'Na', 'PUNC', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (IP (VP (VE 有｜Ū) (NP (DNP (ADJP (JJ 毋-捌｜m̄-bat)) (DEG 的｜leh)))))
+    (PU ，｜,)
+    (VP (ADVP (AD 就｜Tsiò)) (VP (VV 開-喙｜khui-tshuì) (VV 問｜mn̄g)))
+    (PU ，｜,)))","['規則變調', '規則變調', '本調#', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"老｜Láu 師｜su 攏｜lóng 會｜ē 來｜lâi 巡｜sûn 阮｜gún 食｜tsiā 晝｜tàu 。｜.
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (ADJP (JJ 老｜Láu)) (NP (NN 師｜su)))
+    (VP
+      (VV 攏｜lóng)
+      (IP
+        (VP
+          (VV 會｜ē)
+          (VP
+            (VV 來｜lâi)
+            (VP
+              (VV 巡｜sûn)
+              (IP (NP (NR 阮｜gún)) (VP (VV 食｜tsiā) (NP (NN 晝｜tàu)))))))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"彼-个｜Sit-lé 時｜sî 代｜tài ，｜,
+","['Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP (LCP (QP (CLP (M 彼-个｜Sit-lé))) (LC 時｜sî)) (VP (VV 代｜tài)))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"濟｜Tsè 人｜lâng 濟｜tsè 福-氣｜hok-khì ，｜,
+","['Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (VV 濟｜Tsè)
+      (IP (NP (NN 人｜lâng)) (VP (VV 濟｜tsè) (NP (NN 福-氣｜hok-khì)))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"逐｜Ta̍k 口-灶｜kháu-tsàu 攏｜lóng 嘛｜mah 會｜ē 生｜senn 就｜tiō 生｜senn
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (IP
+      (VP
+        (VP (VV 逐｜Ta̍k) (NP (NN 口-灶｜kháu-tsàu)))
+        (VP
+          (VV 攏｜lóng)
+          (IP (NP (PN 嘛｜mah)) (VP (VV 會｜ē) (VP (VV 生｜senn)))))))
+    (VP (ADVP (AD 就｜tiō)) (VP (VV 生｜senn)))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"小-學｜Sió-ha̍k 逐｜ta̍k 班｜pan tsua̋n｜tsua̋n 足｜tsiok 大｜tuā 班｜pan 。｜.
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (NN 小-學｜Sió-ha̍k))
+    (VP
+      (VV 逐｜ta̍k)
+      (IP
+        (NP (NN 班｜pan))
+        (VP
+          (VV tsua̋n｜tsua̋n)
+          (NP (NP (NN 足｜tsiok)) (ADJP (JJ 大｜tuā)) (NP (NN 班｜pan))))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"阮｜Gún 班｜pan 五｜gōo 十-二｜tsa̍p-jī 个｜ê ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (NR 阮｜Gún))
+    (NP (NN 班｜pan))
+    (VP (CD 五｜gōo) (QP (CD 十-二｜tsa̍p-jī) (CLP (M 个｜ê))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"輪｜Lún 到｜kàu 老｜láu 師｜su 巡｜sûn 到｜kàu 我｜guá 遮｜tsia ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (NN 輪｜Lún))
+    (VP
+      (VP (VV 到｜kàu) (NP (ADJP (JJ 老｜láu)) (NP (NN 師｜su))))
+      (VP
+        (VRD (VV 巡｜sûn) (VV 到｜kàu))
+        (IP (NP (PN 我｜guá)) (VP (VV 遮｜tsia)))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"若-像｜Ná-tshiūnn 等｜tán 甲｜kah 日-頭｜sit-thâu 欲｜beh 落｜loh 山｜suann
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (VP
+      (ADVP (AD 若-像｜Ná-tshiūnn))
+      (VP
+        (VV 等｜tán)
+        (IP
+          (NP (NN 甲｜kah) (NN 日-頭｜sit-thâu))
+          (VP (VV 欲｜beh) (VP (VV 落｜loh) (NP (NN 山｜suann)))))))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '再變調$', '規則變調', '本調#']"
+"我｜Guá 面-皮｜bīn-phuê 薄｜po̍h 薄｜po̍h 仔｜á
+","['Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (NP
+    (NP (NP (PN 我｜Guá)) (NP (NN 面-皮｜bīn-phuê)))
+    (ADJP (JJ 薄｜po̍h))
+    (ADJP (JJ 薄｜po̍h))
+    (NP (NN 仔｜á))))","['規則變調', '規則變調', '規則變調', '規則變調', '仔前變調&', '本調#']"
+"小-可｜Sió-khuá 仔｜ah 躊-躇｜tiû-tû ，｜,
+","['Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP (NP (NN 小-可｜Sió-khuá) (NN 仔｜ah)) (VP (VA 躊-躇｜tiû-tû)) (PU ，｜,)))","['規則變調', '仔前變調&', '本調#', '規則變調', '本調#', '毋是台語']"
+"驚｜Kiânn 問｜mn̄g 傷｜siunn 倯｜sông 予-人｜hōo-lâng 笑｜tshiò 戇｜gōng ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (VP
+        (VP (VA 驚｜Kiânn))
+        (VP
+          (VV 問｜mn̄g)
+          (IP
+            (VP
+              (VP (VV 傷｜siunn) (NP (NN 倯｜sông) (NN 予-人｜hōo-lâng)))
+              (VP (VV 笑｜tshiò) (NP (NN 戇｜gōng))))))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"管｜Kuán 伊-啊｜i-ah ，｜, 袂-曉｜Bē-hiáu 就｜tiong 問｜mn̂g
+","['Na', 'Na', 'PUNC', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (CP (IP (VP (VV 管｜Kuán))) (SP 伊-啊｜i-ah))
+    (PU ，｜,)
+    (IP
+      (VP
+        (ADVP (AD 袂-曉｜Bē-hiáu))
+        (ADVP (AD 就｜tiong))
+        (VP (VV 問｜mn̂g))))))","['規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '本調#']"
+"無｜Bô 啥｜siánn 物-配｜mî-phuē
+","['Na', 'Na', 'Na']","(ROOT
+  (IP (VP (VE 無｜Bô) (NP (DP (DT 啥｜siánn)) (NP (NN 物-配｜mî-phuē))))))","['規則變調', '規則變調', '規則變調', '本調#']"
+"豆-油｜Tāu-iû 煎｜tsian 卵-包｜nn̄g-pau 一｜tsi̍t 粒｜lia̍p ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (NN 豆-油｜Tāu-iû) (NN 煎｜tsian) (NN 卵-包｜nn̄g-pau))
+    (VP (QP (CD 一｜tsi̍t) (CLP (M 粒｜lia̍p))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"透-早｜Thàu-tsá 出-門｜tshut-mn̂g 擋｜tòng 袂｜bē 牢｜tiâu 偷｜thau 咬｜kā 一｜tsi̍t 喙｜tshuì 仔｜ah ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (ADVP (AD 透-早｜Thàu-tsá))
+      (VP
+        (VV 出-門｜tshut-mn̂g)
+        (IP
+          (VP
+            (VP (VV 擋｜tòng) (NP (NN 袂｜bē) (NN 牢｜tiâu)))
+            (VP
+              (VCD (VV 偷｜thau) (VV 咬｜kā))
+              (NP (QP (CD 一｜tsi̍t) (CLP (M 喙｜tshuì))) (NP (NN 仔｜ah))))))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '仔前變調&', '本調#', '毋是台語']"
+"一-屑-仔｜Tsi̍t-sut-á 紅-豆｜âng-tāu 棗｜tsò ，｜,
+","['Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (FRAG
+    (NP (NP (NR 一-屑-仔｜Tsi̍t-sut-á)) (NP (NN 紅-豆｜âng-tāu) (NN 棗｜tsò)))
+    (PU ，｜,)))","['規則變調', '仔前變調&', '本調#', '規則變調', '規則變調', '本調#', '毋是台語']"
+"兩｜Nn̄g 三｜sann 喙｜tshuì 仔｜á 蕹｜ìng 菜｜tshài ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (FRAG
+    (NP
+      (NP
+        (QP (CD 兩｜Nn̄g))
+        (NP (QP (CD 三｜sann)) (NP (NN 喙｜tshuì)))
+        (NP (NN 仔｜á) (NN 蕹｜ìng)))
+      (NP (NN 菜｜tshài)))
+    (PU ，｜,)))","['規則變調', '規則變調', '仔前變調&', '本調#', '規則變調', '本調#', '毋是台語']"
+"我｜Guá 刁-工｜tiau-kang 慢-慢｜bān-bān 仔｜ah 哺｜pōo ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (PN 我｜Guá))
+    (VP
+      (VV 刁-工｜tiau-kang)
+      (NP (ADVP (AD 慢-慢｜bān-bān)) (NP (NN 仔｜ah) (NN 哺｜pōo))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '仔前變調&', '本調#', '本調#', '毋是台語']"
+"留｜Lâu 兩｜nn̄g 絲｜si 仔｜á 蕹｜ìng 菜｜tshài 毋-甘｜m̄-kam 食｜tsia̍h ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (VP
+        (VP
+          (VV 留｜Lâu)
+          (NP
+            (QP (CD 兩｜nn̄g) (CLP (M 絲｜si)))
+            (NP (NN 仔｜á) (NN 蕹｜ìng) (NN 菜｜tshài))))
+        (VP (VV 毋-甘｜m̄-kam) (VV 食｜tsia̍h))))
+    (PU ，｜,)))","['規則變調', '規則變調', '仔前變調&', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"欲｜Beh 予｜hōo 老｜láu 師｜su 看｜khuànn ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (VP
+        (VV 欲｜Beh)
+        (VP
+          (VP (VV 予｜hōo) (NP (ADJP (JJ 老｜láu)) (NP (NN 師｜su))))
+          (VP (VV 看｜khuànn)))))
+    (PU ，｜,)))","['再變調$', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"驚-伊｜Kiann-i 逐-工｜ta̍k-kang 講｜kóng 國｜kok 語｜gí 毋-知｜m̄-tsai 蕹｜ìng 菜｜tshài 是｜sī 啥｜siánn ？｜? 怙｜Kōo 看｜khuànn 的｜ê 上｜siōng 準｜tsún
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (IP
+      (NP (NP (NR 驚-伊｜Kiann-i)) (NP (NN 逐-工｜ta̍k-kang)))
+      (VP
+        (VV 講｜kóng)
+        (IP
+          (NP (NP (NN 國｜kok)) (NP (NN 語｜gí)))
+          (VP
+            (VV 毋-知｜m̄-tsai)
+            (IP
+              (NP (ADJP (NN 蕹｜ìng)) (NP (NN 菜｜tshài)))
+              (VP (VC 是｜sī) (NP (PN 啥｜siánn))))))))
+    (PU ？｜?)
+    (IP
+      (NP
+        (CP (IP (VP (ADVP (AD 怙｜Kōo)) (VP (VV 看｜khuànn)))) (DEC 的｜ê)))
+      (VV 上｜siōng)
+      (PRN (NP (VA 準｜tsún))))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '本調#', '規則變調', '規則變調', '本調#']"
+"對｜Tuì 四｜sì 年｜nî 仔｜á 來｜lâi 講｜kóng ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (VP
+        (PP
+          (P 對｜Tuì)
+          (NP (QP (CD 四｜sì) (CLP (M 年｜nî))) (NP (NN 仔｜á))))
+        (VP (MSP 來｜lâi) (VP (VV 講｜kóng)))))
+    (PU ，｜,)))","['規則變調', '規則變調', '仔前變調&', '本調#', '規則變調', '本調#', '毋是台語']"
+"問｜Mn̄g 問-題｜būn-tê 愛｜ài 儉｜khiām 偌｜luā 濟｜tsè 勇｜ióng 氣-咧｜khì-leh ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (VV 問｜Mn̄g)
+      (NP (NN 問-題｜būn-tê) (NN 愛｜ài) (NN 儉｜khiām) (NN 偌｜luā))
+      (IP
+        (VP
+          (VV 濟｜tsè)
+          (IP (VP (ADVP (AD 勇｜ióng)) (VP (VV 氣-咧｜khì-leh)))))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"袂｜Bē 當｜tang
+","['Na', 'Na']",(ROOT (IP (VP (ADVP (AD 袂｜Bē)) (VP (VV 當｜tang))))),"['規則變調', '本調#']"
+"無｜Bô 問｜mng 會｜ê 了｜liáu 阿-母｜a-bú 的｜ê 錢｜tsînn ，｜, 會｜Ê 一-世-人｜tsi̍t-sì-lâng 毋-捌｜M̄-bat
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (VP
+      (VP
+        (VE 無｜Bô)
+        (IP
+          (NP (NN 問｜mng))
+          (VP
+            (VV 會｜ê)
+            (VP
+              (AS 了｜liáu)
+              (NP
+                (DNP (NP (NN 阿-母｜a-bú)) (DEG 的｜ê))
+                (NP (NN 錢｜tsînn)))))))
+      (PU ，｜,)
+      (VP (VV 會｜Ê) (NP (NN 一-世-人｜tsi̍t-sì-lâng) (NN 毋-捌｜M̄-bat))))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"趁-錢｜Thàn-tsînn 艱-苦｜kan-khóo ，｜, 學-問｜Ha̍k-būn 學-問｜ha̍k-būn 有｜ū 學-習｜ha̍k-si̍p 嘛｜mà 愛｜ài 提-問｜thè-hun
+","['Na', 'Na', 'PUNC', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (IP (VP (VCD (VA 趁-錢｜Thàn-tsînn) (VA 艱-苦｜kan-khóo))))
+    (PU ，｜,)
+    (IP
+      (IP
+        (NP (NN 學-問｜Ha̍k-būn) (NN 學-問｜ha̍k-būn))
+        (VP (VE 有｜ū) (NP (NN 學-習｜ha̍k-si̍p))))
+      (FLR (SP 嘛｜mà))
+      (VP (VV 愛｜ài) (NP (NN 提-問｜thè-hun))))))","['規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"伊｜I 一｜tsi̍t 行｜kiânn 倚｜uá
+","['Na', 'Na', 'Na', 'Na']","(ROOT
+  (NP
+    (NP (NR 伊｜I))
+    (QP (CD 一｜tsi̍t) (CLP (M 行｜kiânn)))
+    (NP (NN 倚｜uá))))","['規則變調', '規則變調', '規則變調', '本調#']"
+"我｜Guá 就｜tiō 緊｜kín 共｜kā 我｜guá 的｜ê 屎-礐-仔｜sái-ha̍k-á 頭｜thâu 擔｜tann 起-來｜khí-lâi ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (PN 我｜Guá))
+    (VP
+      (ADVP (AD 就｜tiō))
+      (ADVP (AD 緊｜kín))
+      (VP
+        (ADVP (AD 共｜kā))
+        (NP
+          (DNP (NP (PN 我｜guá)) (DEG 的｜ê))
+          (PRN
+            (IP
+              (NP (NR 屎-礐-仔｜sái-ha̍k-á))
+              (VP
+                (QP (OD 頭｜thâu) (CLP (M 擔｜tann)))
+                (VP (VV 起-來｜khí-lâi))))))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '仔前變調&', '本調#', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"攑｜Gia̍h 湯-匙-仔｜thng-sî-á 指｜kí 彼｜hit 兩｜nn̄g 絲｜si 仔｜á 蕹｜ìng 菜｜tshài ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (NN 攑｜Gia̍h) (NN 湯-匙-仔｜thng-sî-á))
+    (VP
+      (VV 指｜kí)
+      (IP
+        (VP
+          (VV 彼｜hit)
+          (NP
+            (QP (CD 兩｜nn̄g) (CLP (M 絲｜si)))
+            (NP (NN 仔｜á) (NN 蕹｜ìng) (NN 菜｜tshài))))
+        (PU ，｜,)))))","['規則變調', '規則變調', '仔前變調&', '本調#', '規則變調', '規則變調', '規則變調', '仔前變調&', '本調#', '規則變調', '本調#', '毋是台語']"
+"看｜Khuànn 伊｜i 的｜ê 目-睭｜ba̍k-tsiu
+","['Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (VP
+      (VV 看｜Khuànn)
+      (NP (DNP (NP (NR 伊｜i)) (DEG 的｜ê)) (NP (NN 目-睭｜ba̍k-tsiu))))))","['規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"問｜Mn̄g 伊｜i ：｜:
+","['Na', 'Na', 'PUNC']",(ROOT (IP (VP (VV 問｜Mn̄g) (NP (NR 伊｜i))) (PU ：｜:))),"['規則變調', '本調#', '毋是台語']"
+"蕹｜Ìng 菜｜tshài 欲｜beh 按｜àn 怎｜tsuánn 講｜kóng ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (NP (NR 蕹｜Ìng)) (NP (NN 菜｜tshài)))
+    (VP
+      (VV 欲｜beh)
+      (PP (P 按｜àn) (IP (VP (ADVP (AD 怎｜tsuánn)) (VP (VV 講｜kóng))))))
+    (PU ，｜,)))","['規則變調', '規則變調', '再變調$', '規則變調', '規則變調', '本調#', '毋是台語']"
+"伊｜I 講｜kóng 愛｜ài 查｜tshâ 看-覓｜khuànn-māi 。｜.
+","['Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (NR 伊｜I))
+    (VP
+      (VV 講｜kóng)
+      (IP
+        (VP
+          (VV 愛｜ài)
+          (IP (VP (VRD (VV 查｜tshâ) (VV 看-覓｜khuànn-māi)))))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"聽｜Tshiánn 伊｜i 按｜àn 呢｜ne 講｜kóng ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (VV 聽｜Tshiánn)
+      (IP
+        (NP (NR 伊｜i))
+        (VP (PP (P 按｜àn) (FLR (SP 呢｜ne)) (VP (VV 講｜kóng))))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"定｜Tiānn 著｜tiō 是｜sī 我｜guá 的｜ê 問-題｜būn-tê 傷｜siunn 爛｜nuā 啦｜lah 我｜Guá 隨｜suî 共｜kā 頭｜thâu 向｜ǹg 向｜ànn
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (IP (VP (VV 定｜Tiānn) (AS 著｜tiō)))
+    (VP
+      (VC 是｜sī)
+      (IP
+        (CP
+          (IP
+            (NP (DNP (NP (PN 我｜guá)) (DEG 的｜ê)) (NP (NN 問-題｜būn-tê)))
+            (VP (VCD (VV 傷｜siunn) (VV 爛｜nuā))))
+          (SP 啦｜lah))
+        (NP (PN 我｜Guá))
+        (PP
+          (P 隨｜suî)
+          (NP (QP (ADVP (AD 共｜kā)) (QP (OD 頭｜thâu))) (NP (NN 向｜ǹg))))
+        (DFL (P 向｜ànn))))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"緊｜Kín 共｜kā 彼｜hit 喙｜tshuì 蕹｜ìng 菜｜tshài 扒｜pe 入｜li̍p 喙｜tshuì 裡｜lí
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (VP
+      (ADVP (AD 緊｜Kín))
+      (ADVP (AD 共｜kā))
+      (VP
+        (VP (VV 彼｜hit) (NP (NN 喙｜tshuì) (NN 蕹｜ìng) (NN 菜｜tshài)))
+        (VP (VRD (VV 扒｜pe) (VV 入｜li̍p)) (NP (NN 喙｜tshuì) (NN 裡｜lí)))))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"吞｜Thun 落｜lō 去｜khì 安-搭｜an-tah 噗-噗｜phok-phok tsháinn｜tsháinn 的｜ê 心｜sim
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (DFL (VV 吞｜Thun) (VV 落｜lō))
+    (VP
+      (VV 去｜khì)
+      (VP
+        (VV 安-搭｜an-tah)
+        (NP
+          (CP
+            (IP (VP (VV 噗-噗｜phok-phok) (NP (NN tsháinn｜tsháinn))))
+            (DEC 的｜ê))
+          (NP (NN 心｜sim)))))))","['規則變調', '規則變調', '再變調$', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '本調#']"
+"隔-轉-工｜Keh-tńg-kang 食｜tsiā 晝｜tàu 。｜.
+","['Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (NN 隔-轉-工｜Keh-tńg-kang))
+    (VP (VV 食｜tsiā) (NP (NN 晝｜tàu)))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"老｜Láu 師｜su 先｜sing 行｜kiânn 來｜lâi 我｜guá 遮｜tsia
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (IP
+      (NP (ADJP (JJ 老｜Láu)) (NP (NN 師｜su)))
+      (VP (ADVP (AD 先｜sing)) (VP (VRD (VV 行｜kiânn) (VV 來｜lâi)))))
+    (NP (PN 我｜guá))
+    (VP (VV 遮｜tsia))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"佇｜Tī 紙｜tsuá 頂-懸｜tíng-kuân 寫｜siá 蕹｜ìng 菜｜tshài 兩｜nn̄g 字｜sî ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (NP (NR 佇｜Tī)) (NP (NN 紙｜tsuá)))
+    (VP
+      (VV 頂-懸｜tíng-kuân)
+      (IP
+        (VP
+          (VV 寫｜siá)
+          (NP
+            (NP (NN 蕹｜ìng) (NN 菜｜tshài))
+            (QP (CD 兩｜nn̄g))
+            (NP (NN 字｜sî))))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"欸｜Eh
+",['Na'],(ROOT (NP (NN 欸｜Eh))),['本調#']
+"我｜Guá 是｜sī 想｜siōnn 欲｜beh 知-影｜tsai-iánn 國｜kok 語｜gí 按｜àn 怎｜tsuánn 講｜kóng 呢｜ne ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (PN 我｜Guá))
+    (VP
+      (VC 是｜sī)
+      (VP
+        (VV 想｜siōnn)
+        (VP
+          (VV 欲｜beh)
+          (INC
+            (NP (NN 知-影｜tsai-iánn) (NN 國｜kok) (NN 語｜gí))
+            (PP
+              (P 按｜àn)
+              (IP (VP (ADVP (AD 怎｜tsuánn)) (VP (VV 講｜kóng)))))
+            (FLR (SP 呢｜ne))
+            (PU ，｜,)))))))","['規則變調', '規則變調', '規則變調', '再變調$', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"哎-唷｜Aih-ioh 我｜Guá 減｜kiám 三｜sann 字｜jī 問｜mn̄g 無｜bô 好-勢｜hó-sè ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (FLR (IJ 哎-唷｜Aih-ioh))
+    (NP (PN 我｜Guá))
+    (VP
+      (VV 減｜kiám)
+      (IP
+        (IP (NP (QP (CD 三｜sann)) (NP (NN 字｜jī))) (VP (VV 問｜mn̄g)))
+        (VP (VE 無｜bô) (NP (NN 好-勢｜hó-sè)))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"是｜Sī 蕹｜ìng 菜｜tshài 的｜ê 國｜kok 語｜kî 欲｜beh 按｜àn 怎｜tsuánn 講｜kóng 才｜tsiah 著｜tio̍h 。｜.
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (VC 是｜Sī)
+      (IP
+        (NP
+          (CP (IP (VP (VV 蕹｜ìng) (NP (NN 菜｜tshài)))) (DEC 的｜ê))
+          (NP (NN 國｜kok) (NN 語｜kî)))
+        (VP
+          (VV 欲｜beh)
+          (VP
+            (PP
+              (P 按｜àn)
+              (IP (VP (ADVP (AD 怎｜tsuánn)) (VP (VV 講｜kóng)))))
+            (ADVP (AD 才｜tsiah))
+            (VP (VV 著｜tio̍h))))))
+    (PU 。｜.)))","['規則變調', '規則變調', '本調#', '規則變調', '規則變調', '規則變調', '再變調$', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"誠｜Tsiânn 好｜hó 耍｜sńg ，｜, 學｜O̍h 著-矣｜tio̍h-ah ，｜,
+","['Na', 'Na', 'Na', 'PUNC', 'Na', 'Na', 'PUNC']","(ROOT
+  (CP
+    (IP
+      (VP
+        (VP (ADVP (AD 誠｜Tsiânn)) (ADVP (AD 好｜hó)) (VP (VV 耍｜sńg)))
+        (PU ，｜,)
+        (VP (VV 學｜O̍h))))
+    (SP 著-矣｜tio̍h-ah)
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '本調#', '毋是台語']"
+"原-來｜Guân-lâi 臺-語｜tâi-gí 有｜ū 字｜jī 喔｜ooh ！｜!
+","['Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (CP
+    (IP
+      (ADVP (AD 原-來｜Guân-lâi))
+      (NP (NN 臺-語｜tâi-gí))
+      (VP (VE 有｜ū) (NP (NN 字｜jī))))
+    (SP 喔｜ooh)
+    (PU ！｜!)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"我｜Guá 就｜tiō 煞｜suah 咧｜teh 問｜mn̄g ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (PN 我｜Guá))
+    (VP
+      (ADVP (AD 就｜tiō))
+      (VP (VV 煞｜suah) (IP (VP (ADVP (AD 咧｜teh)) (VP (VV 問｜mn̄g))))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '再變調$', '本調#', '毋是台語']"
+"國｜Khuànn 語｜jîn 呢｜hô
+","['Na', 'Na', 'Na']",(ROOT (NP (NP (NN 國｜Khuànn) (NN 語｜jîn)) (FLR (SP 呢｜hô)))),"['規則變調', '規則變調', '本調#']"
+"伊｜I 隨｜suî 講｜kóng ，｜, 空｜Khòng 心｜sin 菜｜tshài ，｜,
+","['Na', 'Na', 'Na', 'PUNC', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (IP (NP (NR 伊｜I)) (VP (ADVP (AD 隨｜suî)) (VP (VV 講｜kóng))))
+    (PU ，｜,)
+    (IP (NP (NN 空｜Khòng) (NN 心｜sin) (NN 菜｜tshài)) (PU ，｜,))))","['規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '本調#', '毋是台語']"
+"讚｜Tsa̍p 喔｜nóo
+","['Na', 'Na']",(ROOT (NP (NP (NN 讚｜Tsa̍p)) (FLR (SP 喔｜nóo)))),"['規則變調', '本調#']"
+"問｜Mn̄g 一｜tsi̍t 條｜tiâu 送｜sàng 一｜tsi̍t 條｜tiâu ，｜, 若-像｜Ná-tshiūnn 買｜bé 菜｜tshài 佮｜Kah 薑｜kiunn 佮｜kah 蔥｜tshang 佮｜kah 蒜｜suàn 頭｜thâu
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (VP
+      (VV 問｜Mn̄g)
+      (IP
+        (VP
+          (QP (CD 一｜tsi̍t) (CLP (M 條｜tiâu)))
+          (IP
+            (VP
+              (VP (VV 送｜sàng) (QP (CD 一｜tsi̍t) (CLP (M 條｜tiâu))))
+              (PU ，｜,)
+              (VP
+                (PP
+                  (P 若-像｜Ná-tshiūnn)
+                  (IP
+                    (VP
+                      (VV 買｜bé)
+                      (NP (NN 菜｜tshài) (NN 佮｜Kah) (NN 薑｜kiunn)))))
+                (VP
+                  (VV 佮｜kah)
+                  (NP
+                    (NN 蔥｜tshang)
+                    (NN 佮｜kah)
+                    (NN 蒜｜suàn)
+                    (NN 頭｜thâu)))))))))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"查-某｜Tsa-bóo 老｜láu 師｜su 較｜khah 有｜ū 煮｜tsú 菜｜tshài 的｜ê 經-驗｜king-giām 伊｜i 叫｜kiò 逐-家｜ta̍k-ke 共｜Kā 食｜tsiā 過-的｜kuè-ê 菜｜tshài 攏｜lóng 講-出-來｜kóng-tshut-lâi 予-伊｜hōo-i 去｜khit 查｜Tshâ 漢-字｜hàn-jī ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (NP (NR 查-某｜Tsa-bóo)) (ADJP (JJ 老｜láu)) (NP (NN 師｜su)))
+    (VP
+      (ADVP (AD 較｜khah))
+      (VP
+        (VE 有｜ū)
+        (IP
+          (NP
+            (CP (IP (VP (VV 煮｜tsú) (NP (NN 菜｜tshài)))) (DEC 的｜ê))
+            (NP (NN 經-驗｜king-giām))
+            (NP (NR 伊｜i)))
+          (VP
+            (VV 叫｜kiò)
+            (NP
+              (CP
+                (IP
+                  (VP
+                    (ADVP (AD 逐-家｜ta̍k-ke))
+                    (ADVP (AD 共｜Kā))
+                    (VP (VV 食｜tsiā))))
+                (DEC 過-的｜kuè-ê))
+              (NP (NN 菜｜tshài)))
+            (VP
+              (VP
+                (VRD (VV 攏｜lóng) (VV 講-出-來｜kóng-tshut-lâi))
+                (NP (NR 予-伊｜hōo-i)))
+              (VP (VV 去｜khit) (VP (VV 查｜Tshâ) (NP (NN 漢-字｜hàn-jī)))))))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '再變調$', '規則變調', '規則變調', '本調#', '毋是台語']"
+"像｜Tshiūnn 湯-匙｜thng-sî 仔｜ah 菜｜tshài
+","['Na', 'Na', 'Na', 'Na']","(ROOT
+  (PP (P 像｜Tshiūnn) (NP (NN 湯-匙｜thng-sî) (NN 仔｜ah) (NN 菜｜tshài))))","['規則變調', '規則變調', '仔前變調&', '本調#', '本調#']"
+"菠｜Pue 薐-仔｜lîng-á ，｜,
+","['Na', 'Na', 'PUNC']","(ROOT (FRAG (NP (NP (NR 菠｜Pue)) (NP (NN 薐-仔｜lîng-á))) (PU ，｜,)))","['規則變調', '仔前變調&', '本調#', '毋是台語']"
+"芫｜Ian 荽｜suí ，｜,
+","['Na', 'Na', 'PUNC']","(ROOT (IP (VP (ADVP (AD 芫｜Ian)) (VP (VV 荽｜suí))) (PU ，｜,)))","['規則變調', '本調#', '毋是台語']"
+"敏｜Bián 豆-仔｜tāu-á
+","['Na', 'Na']",(ROOT (NP (NP (NR 敏｜Bián)) (NP (NN 豆-仔｜tāu-á)))),"['規則變調', '仔前變調&', '本調#']"
+"菜-頭｜Tshài-thâu
+",['Na'],(ROOT (NP (NN 菜-頭｜Tshài-thâu))),"['規則變調', '本調#']"
+"金｜Kim 瓜｜kue
+","['Na', 'Na']",(ROOT (NP (NP (NR 金｜Kim)) (NP (NN 瓜｜kue)))),"['規則變調', '本調#']"
+"有-人｜Ū-lâng 無｜bô 對｜tuì 題｜te 講｜kóng 果-子｜kué-tsí
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (NP (NN 有-人｜Ū-lâng))
+    (VP
+      (VE 無｜bô)
+      (VP
+        (PP (P 對｜tuì) (NP (NN 題｜te)))
+        (VP (VV 講｜kóng) (NP (NN 果-子｜kué-tsí)))))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"菝-仔｜Pa̍t-á 、｜, 檨-仔｜Suāinn-á 、｜, 芳｜Phang 瓜｜kue 、｜, 柑｜Kam 仔｜ah ，｜,
+","['Na', 'PUNC', 'Na', 'PUNC', 'Na', 'Na', 'PUNC', 'Na', 'Na', 'PUNC']","(ROOT
+  (FRAG
+    (NP
+      (NP
+        (NR 菝-仔｜Pa̍t-á)
+        (PU 、｜,)
+        (NR 檨-仔｜Suāinn-á)
+        (PU 、｜,)
+        (NR 芳｜Phang))
+      (NP (NN 瓜｜kue) (PU 、｜,) (NN 柑｜Kam) (NN 仔｜ah)))
+    (PU ，｜,)))","['仔前變調&', '本調#', '毋是台語', '仔前變調&', '本調#', '毋是台語', '規則變調', '規則變調', '毋是台語', '仔前變調&', '本調#', '毋是台語']"
+"伊｜I 嘛｜mà 若｜ná 大-盤｜tuā-puânn 照｜tsiàu 貿｜bāu 照｜tsiàu 收｜siu ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (NP
+    (NP (NR 伊｜I))
+    (FLR (SP 嘛｜mà))
+    (INC
+      (CP
+        (ADVP (CS 若｜ná))
+        (IP
+          (NP (NN 大-盤｜tuā-puânn))
+          (VP
+            (VV 照｜tsiàu)
+            (IP (NP (NN 貿｜bāu)) (VP (VV 照｜tsiàu) (VP (VV 收｜siu))))))
+        (PU ，｜,)))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"感-謝｜Kám-siā 老｜láu 師｜su ，｜,
+","['Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP (VV 感-謝｜Kám-siā) (NP (ADJP (JJ 老｜láu)) (NP (NN 師｜su))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"佇｜Tì 彼｜sik 時｜sî 代｜tài 無｜bô 反-對｜huán-tuì 臺-語｜tâi-gí ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (VP
+        (LCP (IP (VP (ADVP (AD 佇｜Tì)) (VP (VV 彼｜sik)))) (LC 時｜sî))
+        (VP
+          (M 代｜tài)
+          (VP (VE 無｜bô) (VP (P 反-對｜huán-tuì) (NP (NN 臺-語｜tâi-gí)))))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"予-我｜Hōo-guá 細-漢｜sè-hàn 就｜tiō 認-捌｜jīn-bat 臺-語｜tâi-gí 有｜ū 漢-字｜hàn-jī ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (NP (PN 予-我｜Hōo-guá)) (NP (NR 細-漢｜sè-hàn)))
+    (VP
+      (VP
+        (ADVP (AD 就｜tiō))
+        (VP (VV 認-捌｜jīn-bat) (NP (NN 臺-語｜tâi-gí))))
+      (VP (VE 有｜ū) (NP (NN 漢-字｜hàn-jī))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"體-會｜Thé-huē 語-言｜gí-giân 的｜ê 趣-味｜tshù-pinn ，｜,
+","['Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (VV 體-會｜Thé-huē)
+      (NP
+        (DNP (NP (NN 語-言｜gí-giân)) (DEC 的｜ê))
+        (NP (NN 趣-味｜tshù-pinn))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '本調#', '毋是台語']"
+"感-謝｜Kám-siā 伊｜i 認-真｜jīn-tsin 回-答｜huê-tap 我｜guá ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (VP (VV 感-謝｜Kám-siā) (NP (NR 伊｜i)))
+      (VP
+        (ADVP (AD 認-真｜jīn-tsin))
+        (VP (VV 回-答｜huê-tap) (NP (PN 我｜guá)))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"予-我｜Hōo-guá 知-影｜tsai-iánn 追-求｜tui-kiû 學-問｜ha̍k-būn 的｜ê 勇-氣｜ióng-khì
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (NP
+    (CP
+      (IP
+        (NP (PN 予-我｜Hōo-guá) (NN 知-影｜tsai-iánn))
+        (VP (VV 追-求｜tui-kiû) (NP (NN 學-問｜ha̍k-būn))))
+      (DEC 的｜ê))
+    (NP (NN 勇-氣｜ióng-khì))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '本調#']"
+"感-謝｜Kám-siā 老｜láu 師｜su 予-我｜hōo-guá 日-後｜ji̍t-āu 教-冊｜kà-tsheh 佮｜kah 食｜tsia̍h 蕹｜ìng 菜｜tshài 攏｜Lóng 有｜ū 愛｜ài 的｜ê 滋-味｜tsu-bī 。｜.
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (IP (VP (VV 感-謝｜Kám-siā) (NP (ADJP (JJ 老｜láu)) (NP (NN 師｜su)))))
+    (IP
+      (NP
+        (NP (PN 予-我｜hōo-guá))
+        (NP (NT 日-後｜ji̍t-āu))
+        (NP (NN 教-冊｜kà-tsheh)))
+      (VP
+        (ADVP (AD 佮｜kah))
+        (VP
+          (VP (VV 食｜tsia̍h) (NP (NN 蕹｜ìng) (NN 菜｜tshài)))
+          (VP
+            (VV 攏｜Lóng)
+            (NP
+              (CP (IP (VP (VE 有｜ū) (NP (NN 愛｜ài)))) (DEC 的｜ê))
+              (NP (NN 滋-味｜tsu-bī)))))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '本調#', '毋是台語']"
+"第｜Tē 三-十｜sann-tsa̍p 篇｜phinn ，｜,
+","['Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (INC
+    (QP (QP (OD 第｜Tē)) (QP (CD 三-十｜sann-tsa̍p) (CLP (M 篇｜phinn))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"門｜Mn̂g 內｜lâi 門-外｜mn̄g-guá 看｜khuànn 海｜hái 看｜khuànn 山｜suann ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (LCP (LCP (NP (NN 門｜Mn̂g)) (LC 內｜lâi)) (LC 門-外｜mn̄g-guá))
+      (VP
+        (VP (VV 看｜khuànn) (NP (NN 海｜hái)))
+        (VP (VV 看｜khuànn) (NP (NN 山｜suann)))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"作｜Tsok 者｜tsiá 王｜ông 秀-容｜siu-ióng
+","['Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (VP
+      (VV 作｜Tsok)
+      (NP (NP (NN 者｜tsiá)) (NP (NR 王｜ông) (NR 秀-容｜siu-ióng))))))","['規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"SIL｜SIL
+",['Na'],(ROOT (FRAG (NR SIL｜SIL))),['毋是台語']
+"仁-者｜Jîn-tsiá 樂｜ngāu 山｜san 。｜.
+","['Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (NN 仁-者｜Jîn-tsiá))
+    (VP (VV 樂｜ngāu) (NP (NN 山｜san)))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"智｜Tì 者｜tsiá 樂｜ngāu 水｜suí ，｜,
+","['Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (NP (NN 智｜Tì)) (NP (NN 者｜tsiá)))
+    (VP (VV 樂｜ngāu) (NP (NN 水｜suí)))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"siáng｜Siāng 較｜khah 厲-害｜lī-hāi ，｜,
+","['Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (NN siáng｜Siāng))
+    (VP (ADVP (AD 較｜khah)) (VP (VA 厲-害｜lī-hāi)))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"一｜It 花｜hua 一｜it 世-界｜sè-kài
+","['Na', 'Na', 'Na', 'Na']","(ROOT
+  (NP
+    (NP (QP (CD 一｜It)) (NP (NN 花｜hua)))
+    (QP (CD 一｜it))
+    (NP (NN 世-界｜sè-kài))))","['規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"有-人｜Ū-lâng 買｜bé 一｜tsi̍t 塊｜tè 石｜tsiō 頭｜thâu 講｜kóng 頂-懸｜tíng-kuân 有｜ū 山-水｜san-suí 詩｜Si 意｜ì
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (NP (NN 有-人｜Ū-lâng))
+    (VP
+      (VV 買｜bé)
+      (IP
+        (IP
+          (VP
+            (NP
+              (QP (CD 一｜tsi̍t) (CLP (M 塊｜tè)))
+              (NP (NN 石｜tsiō))
+              (NP (NN 頭｜thâu)))
+            (VP (VV 講｜kóng) (NP (NN 頂-懸｜tíng-kuân)))))
+        (VP (VE 有｜ū) (NP (NN 山-水｜san-suí) (NN 詩｜Si) (NN 意｜ì)))))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"有-人｜Ū-lâng 飼｜tshī 一｜tsi̍t 缸｜kǹg 仔｜ah 魚｜sī
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (NP (NN 有-人｜Ū-lâng))
+    (VP
+      (VV 飼｜tshī)
+      (NP (QP (CD 一｜tsi̍t) (CLP (M 缸｜kǹg))) (NP (NN 仔｜ah) (NN 魚｜sī))))))","['規則變調', '規則變調', '規則變調', '規則變調', '仔前變調&', '本調#', '本調#']"
+"就｜Tio̍h 有｜ū 大｜tuā 海｜hái 的｜ê 趣-味｜tshù-bī ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (ADVP (AD 就｜Tio̍h))
+      (VP
+        (VE 有｜ū)
+        (NP
+          (DNP (NP (ADJP (JJ 大｜tuā)) (NP (NN 海｜hái))) (DEG 的｜ê))
+          (NP (NN 趣-味｜tshù-bī)))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '本調#', '毋是台語']"
+"石｜tsio̍h 頭｜thâu 若｜ná 山｜suann ，｜,
+","['Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (NP (NN 石｜tsio̍h) (NN 頭｜thâu))
+      (VP (ADVP (CS 若｜ná)) (VP (NN 山｜suann))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"魚｜Sì 缸｜kng 是｜sī 海｜hái ，｜,
+","['Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (NN 魚｜Sì))
+    (VP (QP (CLP (M 缸｜kng))) (VP (VC 是｜sī) (NP (NN 海｜hái))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"siáng｜Siang 較｜kha 厲-害｜lī-hāi ，｜,
+","['Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (NN siáng｜Siang))
+    (VP (ADVP (AD 較｜kha)) (VP (VA 厲-害｜lī-hāi)))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"有-人｜Ū-lâng 講｜kòng 石｜tsiō 頭｜thâu 較｜khah 厲-害｜lī-hāi ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (NN 有-人｜Ū-lâng))
+    (VP
+      (VV 講｜kòng)
+      (IP
+        (NP (NN 石｜tsiō))
+        (NP (NN 頭｜thâu))
+        (VP (ADVP (AD 較｜khah)) (VP (VA 厲-害｜lī-hāi)))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"因｜In 為｜uî 𠕇-硞-硞｜tīng-khok-khok 會｜ē 當｜tang 做｜tsò 武-器｜bú-khì 相-刣｜sio-thâi 。｜. 浸-水｜Tsìm-tsuí 袂｜bē 歹｜pháinn 。｜.
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (PP
+      (P 因｜In)
+      (IP
+        (VP
+          (PP (P 為｜uî) (NP (NN 𠕇-硞-硞｜tīng-khok-khok)))
+          (VP
+            (VV 會｜ē)
+            (VP
+              (VV 當｜tang)
+              (IP
+                (VP
+                  (VV 做｜tsò)
+                  (NP (NN 武-器｜bú-khì) (NN 相-刣｜sio-thâi)))))))))
+    (PU 。｜.)
+    (IP (NP (NN 浸-水｜Tsìm-tsuí)) (VP (VV 袂｜bē) (NP (NN 歹｜pháinn))))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"毋｜M̄ 過｜kò 有-人｜ū-lâng 隨｜suî 黜-臭｜thuh-tshàu
+","['Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (VP
+      (ADVP (AD 毋｜M̄))
+      (VP
+        (VP (VV 過｜kò) (NP (NN 有-人｜ū-lâng)))
+        (VP (VV 隨｜suî) (NP (NN 黜-臭｜thuh-tshàu)))))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"若｜Ná 較｜khah 𠢕｜gâu ，｜, 哪｜Nà 會｜ē 北｜pa̍k 海-岸｜hái-huānn 蹛｜tuā 久｜ku 來｜Lâi ，｜, 大｜Tuā 石-頭｜tsio̍h-thâu 就｜tiō 變-做｜piàn-tsò 女｜lú 王｜ông 頭｜thâu ，｜,
+","['Na', 'Na', 'Na', 'PUNC', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (CP
+        (ADVP (CS 若｜Ná))
+        (IP (VP (ADVP (AD 較｜khah)) (VP (VA 𠢕｜gâu)))))
+      (PU ，｜,)
+      (NP (PN 哪｜Nà))
+      (VP
+        (VV 會｜ē)
+        (IP
+          (IP
+            (NP (NR 北｜pa̍k) (NN 海-岸｜hái-huānn) (NN 蹛｜tuā))
+            (VP (ADVP (AD 久｜ku)) (VP (VV 來｜Lâi))))
+          (PU ，｜,)
+          (IP
+            (NP (ADJP (JJ 大｜Tuā)) (NP (NN 石-頭｜tsio̍h-thâu)))
+            (VP
+              (ADVP (AD 就｜tiō))
+              (VP
+                (VV 變-做｜piàn-tsò)
+                (NP
+                  (NP (ADJP (JJ 女｜lú)) (NP (NN 王｜ông)))
+                  (NP (NN 頭｜thâu)))))))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"看-來｜Khuànn-lâi 是｜sī 海-水｜hái-tsuí 厲-害｜lī-hāi 會｜ê 變｜piàn 魔｜môo 術｜su̍t 呢｜neh ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (ADVP (AD 看-來｜Khuànn-lâi))
+      (VP
+        (VC 是｜sī)
+        (CP
+          (IP
+            (IP (NP (NN 海-水｜hái-tsuí)) (VP (VV 厲-害｜lī-hāi)))
+            (VP
+              (VV 會｜ê)
+              (VP (VV 變｜piàn) (NP (NN 魔｜môo) (NN 術｜su̍t)))))
+          (SP 呢｜neh))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"來-到｜Lâi-kàu 北｜pat 海｜hāi 岸｜huánn
+","['Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP (VP (VV 來-到｜Lâi-kàu) (NP (NN 北｜pat) (NN 海｜hāi) (NN 岸｜huánn)))))","['規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"予｜Hōo 海-水｜hái-tsuí 變｜piàn 出｜tshut 來-的｜lâi-ê 石｜tsiō 門｜mn̂g 洞｜tōng 一-定｜it-tīng 愛｜ài 看｜khuànn ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (IP
+        (VP
+          (VV 予｜Hōo)
+          (NP
+            (NP
+              (CP
+                (IP
+                  (NP (NN 海-水｜hái-tsuí))
+                  (VP (VRD (VV 變｜piàn) (VV 出｜tshut))))
+                (DEC 來-的｜lâi-ê))
+              (NP (NN 石｜tsiō) (NN 門｜mn̂g)))
+            (NP (NN 洞｜tōng)))))
+      (ADVP (AD 一-定｜it-tīng))
+      (VP (VV 愛｜ài) (VV 看｜khuànn)))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"正｜Tsiann 爿｜pîng 看｜khuànn 倒-爿｜tò-pîng 影｜iánn
+","['Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (VP
+      (ADVP (AD 正｜Tsiann))
+      (VP
+        (VV 爿｜pîng)
+        (IP (VP (VV 看｜khuànn) (NP (NN 倒-爿｜tò-pîng) (NN 影｜iánn))))))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"看｜Khuànn 海｜hái 看｜khuànn 山｜suann 攏｜lóng 嘛｜mà 隨｜suî 人｜lâng 佮-意｜kah-ì 隨｜Suî 人｜lâng 落｜lō 鼎｜tiánn
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (VP
+      (VP (VV 看｜Khuànn) (NP (NN 海｜hái)))
+      (VP (VV 看｜khuànn) (NP (NN 山｜suann)))
+      (VP
+        (VV 攏｜lóng)
+        (FLR (SP 嘛｜mà))
+        (IP
+          (VP
+            (PP (P 隨｜suî) (NP (NN 人｜lâng)))
+            (ADVP (AD 佮-意｜kah-ì))
+            (PP (P 隨｜Suî) (NP (NN 人｜lâng)))
+            (VP (VV 落｜lō) (NP (NN 鼎｜tiánn)))))))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"向｜Hiòng 門｜mn̂g 內｜lāi 看｜khuànn 山｜suann ，｜, 向｜Ǹg 門｜mn̂g 外｜guā 看｜khuànn 海｜hái ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'PUNC', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (VP
+        (PP (P 向｜Hiòng) (LCP (NP (NN 門｜mn̂g)) (LC 內｜lāi)))
+        (VP (VV 看｜khuànn) (NP (NN 山｜suann))))
+      (PU ，｜,)
+      (VP
+        (PP (P 向｜Ǹg) (LCP (NP (NN 門｜mn̂g)) (LC 外｜guā)))
+        (VP (VV 看｜khuànn) (NP (NN 海｜hái)))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"向｜Sióng 門｜mn̄g 內｜lâi 看｜khuànn ，｜,
+","['Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (VP
+        (PP (P 向｜Sióng) (LCP (NP (NN 門｜mn̄g)) (LC 內｜lâi)))
+        (VP (VV 看｜khuànn))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"山-頂｜Suann-tíng 有｜ū 啥｜siánn ？｜?
+","['Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (NN 山-頂｜Suann-tíng))
+    (VP (VE 有｜ū) (NP (PN 啥｜siánn)))
+    (PU ？｜?)))","['規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"乾｜Khiân 華｜hua 茶｜te 米｜bí 蓋｜kài 出-名｜tshut-miâ ，｜, 嘛｜Mà 有｜ū 挽｜bán 茶｜te 的｜ê 褒-歌｜po-kua
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (NP
+    (CP
+      (IP
+        (VP
+          (VP
+            (VP
+              (VV 乾｜Khiân)
+              (NP (NP (NP (NR 華｜hua)) (NP (NN 茶｜te))) (NP (NN 米｜bí))))
+            (VP (VV 蓋｜kài) (NP (NN 出-名｜tshut-miâ))))
+          (PU ，｜,)
+          (VP
+            (ADVP (AD 嘛｜Mà))
+            (VP (VE 有｜ū) (NP (NN 挽｜bán) (NN 茶｜te))))))
+      (DEG 的｜ê))
+    (NP (NN 褒-歌｜po-kua))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '本調#']"
+"在｜Tsāi 地｜tè 筍-仔｜sún-á 脆｜tshè 脆｜tshè 甜｜tinn 甜｜tinn 足｜tsiok 好-食｜hó-tsia̍h ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (VP
+        (PP (P 在｜Tsāi) (NP (NN 地｜tè)))
+        (VP
+          (VP
+            (VV 筍-仔｜sún-á)
+            (NP
+              (ADJP (JJ 脆｜tshè))
+              (ADJP (JJ 脆｜tshè))
+              (ADJP (JJ 甜｜tinn))
+              (NP (NN 甜｜tinn))))
+          (VP (ADVP (AD 足｜tsiok)) (VP (VV 好-食｜hó-tsia̍h))))))
+    (PU ，｜,)))","['規則變調', '規則變調', '仔前變調&', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"欲｜Beh 食｜tsiā 天-然｜thian-liân 的｜ê 菜-蔬｜tshài-se 無｜bô 農｜lông 藥｜io̍h 來｜lâi 遮｜tsia 就｜tō 著｜tik 向｜M̄ 門｜mn̂g 外｜guā 看｜khuànn ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (VP
+        (VP
+          (VV 欲｜Beh)
+          (NP
+            (CP
+              (IP
+                (VP
+                  (VP
+                    (VV 食｜tsiā)
+                    (NP
+                      (DNP (ADJP (JJ 天-然｜thian-liân)) (DEG 的｜ê))
+                      (NP (NN 菜-蔬｜tshài-se))))
+                  (VP (VE 無｜bô) (NP (NN 農｜lông))))))
+            (NP (NN 藥｜io̍h))))
+        (VP
+          (MSP 來｜lâi)
+          (VP
+            (VV 遮｜tsia)
+            (IP
+              (VP
+                (ADVP (AD 就｜tō))
+                (VP
+                  (VV 著｜tik)
+                  (IP
+                    (VP
+                      (PP (P 向｜M̄) (LCP (NP (NN 門｜mn̂g)) (LC 外｜guā)))
+                      (VP (VV 看｜khuànn)))))))))))
+    (PU ，｜,)))","['再變調$', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"海-邊-仔｜Hái-pinn-á 有｜ū 啥｜siannh ？｜?
+","['Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (NR 海-邊-仔｜Hái-pinn-á))
+    (VP (VE 有｜ū) (NP (PN 啥｜siannh)))
+    (PU ？｜?)))","['規則變調', '仔前變調&', '本調#', '規則變調', '本調#', '毋是台語']"
+"海-湧｜Hái-íng 綴｜tuè 海｜hái 風｜hong 起｜khí 起｜khí 落｜lō 落｜loh ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (NN 海-湧｜Hái-íng))
+    (VP
+      (VP (VV 綴｜tuè) (NP (NN 海｜hái) (NN 風｜hong)))
+      (VP
+        (VRD (VV 起｜khí) (VV 起｜khí))
+        (VP (VCD (VV 落｜lō) (VV 落｜loh)))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"入-來｜Ji̍p-lâi 海｜hái 沙｜sua 埔｜poo 白｜pe̍h 波｜pho 波｜pho
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (VP
+      (VV 入-來｜Ji̍p-lâi)
+      (NP
+        (NP (NN 海｜hái) (NN 沙｜sua) (NN 埔｜poo))
+        (NP (ADJP (JJ 白｜pe̍h)) (NP (NN 波｜pho)))
+        (NP (NN 波｜pho))))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"一｜Tsi̍t 走｜tsáu 啥｜siannh 物｜mí 都｜to 攏｜lóng 無｜bô ？｜?
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (VP
+        (ADVP (AD 一｜Tsi̍t))
+        (VP (VV 走｜tsáu) (NP (DP (DT 啥｜siannh)) (NP (NN 物｜mí))))))
+    (VP (ADVP (AD 都｜to)) (VP (VV 攏｜lóng) (NP (VE 無｜bô))))
+    (PU ？｜?)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"有｜Ū 海｜hái 景｜king 咖-啡｜ka-pi 廳｜thiann
+","['Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (VP
+      (VE 有｜Ū)
+      (NP (NN 海｜hái) (NN 景｜king) (NN 咖-啡｜ka-pi) (NN 廳｜thiann)))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"一-間｜Tsi̍t-king 比｜pí 一-間｜tsi̍t-king 較｜khah 奅｜phānn
+","['Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (LC 一-間｜Tsi̍t-king)
+    (VP
+      (LCP (P 比｜pí) (LC 一-間｜tsi̍t-king))
+      (VP (ADVP (AD 較｜khah)) (VP (VA 奅｜phānn))))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"有｜Ū 設-計｜siat-kè 藍｜ná 白｜pē 色｜sik 的｜ê 造｜tsò 景｜king ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP
+      (CP
+        (IP
+          (VP
+            (VE 有｜Ū)
+            (NP (NN 設-計｜siat-kè) (NN 藍｜ná) (NN 白｜pē) (NN 色｜sik))))
+        (DEC 的｜ê)))
+    (VP (VV 造｜tsò) (NP (NN 景｜king)))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '本調#', '毋是台語']"
+"欲｜Beh 予-人｜hōo-lâng 翕｜hip 婚｜hun 紗｜sa
+","['Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (VP
+      (VV 欲｜Beh)
+      (IP
+        (NP (NN 予-人｜hōo-lâng))
+        (VP (VV 翕｜hip) (NP (NN 婚｜hun) (NN 紗｜sa)))))))","['再變調$', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"護｜Hōo 守｜siu 北｜pa̍k 海-岸｜hái-huānn 的｜ê 船-隻｜tsûn-tsiah
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (VP
+      (VV 護｜Hōo)
+      (NP
+        (CP
+          (IP (VP (VV 守｜siu) (NP (NN 北｜pa̍k) (NN 海-岸｜hái-huānn))))
+          (DEG 的｜ê))
+        (NP (NN 船-隻｜tsûn-tsiah))))))","['規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '本調#']"
+"石｜Tsio̍h 門｜mn̂g 內｜lāi 外｜guā 的｜ê 山｜suann 海｜hái
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (NP
+    (DNP
+      (LCP
+        (LCP (NP (NN 石｜Tsio̍h) (NN 門｜mn̂g)) (LC 內｜lāi))
+        (LC 外｜guā))
+      (DEG 的｜ê))
+    (NP (NN 山｜suann) (NN 海｜hái))))","['規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '本調#']"
+"可-比｜Khó-pí 愛-情｜ài-tsîng
+","['Na', 'Na']",(ROOT (NP (ADJP (JJ 可-比｜Khó-pí)) (NP (NN 愛-情｜ài-tsîng)))),"['規則變調', '規則變調', '規則變調', '本調#']"
+"少-年｜Siàu-liân 看｜khuànn 山｜suann 是｜sī 山｜suann 看｜khuànn 海｜hái 是｜sī 海｜hái 愛｜Ài 著｜tiō 較｜khah 慘｜tshám 死｜sí 墓｜Bōng 仔｜ah 埔｜poo 也｜iā 敢｜kánn 去｜khì ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (NN 少-年｜Siàu-liân))
+    (VP
+      (VP (VV 看｜khuànn) (NP (NN 山｜suann)))
+      (VP
+        (VC 是｜sī)
+        (IP (NP (NN 山｜suann)) (VP (VV 看｜khuànn) (NP (NN 海｜hái)))))
+      (VP
+        (VC 是｜sī)
+        (VP
+          (IP
+            (NP (NN 海｜hái))
+            (VP
+              (VV 愛｜Ài)
+              (AS 著｜tiō)
+              (IP
+                (VP
+                  (VP (ADVP (AD 較｜khah)) (VP (VA 慘｜tshám)))
+                  (VP
+                    (VV 死｜sí)
+                    (NP (NP (NN 墓｜Bōng) (NN 仔｜ah)) (NP (NR 埔｜poo))))))))
+          (ADVP (AD 也｜iā))
+          (VP (VV 敢｜kánn) (VP (VV 去｜khì))))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '仔前變調&', '本調#', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"一｜Tsi̍t 工｜kang 長-長｜tn̂g-tn̂g 二｜jī 四｜sì 點｜tiám ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (FRAG
+    (NP
+      (NP (QP (CD 一｜Tsi̍t)) (NP (NN 工｜kang)))
+      (ADJP (JJ 長-長｜tn̂g-tn̂g))
+      (QP (CD 二｜jī) (CLP (CD 四｜sì)))
+      (NP (NN 點｜tiám)))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"龜-跤｜Ku-kha 趖｜so 趖｜so 出-來｜tshut-lâi ，｜,
+","['Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (NN 龜-跤｜Ku-kha))
+    (VP (VV 趖｜so) (VP (VRD (VV 趖｜so) (VV 出-來｜tshut-lâi))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"看｜Khuànn 山｜suann 毋-是｜m̄-sī 山｜suann ，｜, 看｜Khuànn 海｜hái 毋-是｜m̄-sī 海｜hái ，｜,
+","['Na', 'Na', 'Na', 'Na', 'PUNC', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (IP (VP (VV 看｜Khuànn) (NP (NN 山｜suann))))
+    (VP
+      (VP (VC 毋-是｜m̄-sī) (NP (NN 山｜suann)))
+      (PU ，｜,)
+      (VP
+        (VV 看｜Khuànn)
+        (IP (NP (NN 海｜hái)) (VP (VC 毋-是｜m̄-sī) (NP (NN 海｜hái))))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '毋是台語', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"怨-嘆｜Uàn-thàn 無-人｜bô-lâng 知｜tsai 。｜.
+","['Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (ADJP (JJ 怨-嘆｜Uàn-thàn)) (NP (NN 無-人｜bô-lâng)))
+    (VP (VV 知｜tsai))
+    (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"慣-勢｜Kuàn-sì 矣｜ah 嘛｜mà 管｜kuán 待｜thāi 啦｜lah ！｜!
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (CP
+    (IP
+      (NP (NN 慣-勢｜Kuàn-sì))
+      (FLR (SP 矣｜ah))
+      (FLR (SP 嘛｜mà))
+      (VP (VV 管｜kuán) (IP (VP (VV 待｜thāi)))))
+    (SP 啦｜lah)
+    (PU ！｜!)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"一-目｜Tsi̍t-pah 金｜kín 一-目｜tsi̍t-pah 瞌｜kheh
+","['Na', 'Na', 'Na', 'Na']","(ROOT
+  (NP
+    (NP (NN 一-目｜Tsi̍t-pah))
+    (NP (ADJP (JJ 金｜kín)) (NP (NN 一-目｜tsi̍t-pah)))
+    (NP (NN 瞌｜kheh))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"有｜Ū 量｜liông 有｜ū 福｜hok ，｜,
+","['Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (VP
+      (VP (VE 有｜Ū) (NP (NN 量｜liông)))
+      (VP (VE 有｜ū) (NP (NN 福｜hok))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"讓｜Niū 伊｜i 有｜ū 步｜pōo 才｜tsiah 予｜hōo 家｜ka 己｜tī 有｜ū 路｜lōo
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (IP
+      (VP
+        (VV 讓｜Niū)
+        (NP (NR 伊｜i))
+        (IP (VP (VE 有｜ū) (NP (NN 步｜pōo))))))
+    (VP
+      (ADVP (AD 才｜tsiah))
+      (VP
+        (VV 予｜hōo)
+        (IP (NP (NN 家｜ka) (NN 己｜tī)) (VP (VE 有｜ū) (NP (NN 路｜lōo))))))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"愛-情｜Ài-tsîng 有｜iû 仁｜jîn 。｜.
+","['Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP (NP (NN 愛-情｜Ài-tsîng)) (VP (VE 有｜iû) (NP (NN 仁｜jîn))) (PU 。｜.)))","['規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"愛-情｜Ài-tsîng 有｜iú 智｜tì
+","['Na', 'Na', 'Na']",(ROOT (IP (NP (NN 愛-情｜Ài-tsîng)) (VP (VE 有｜iú) (NP (NN 智｜tì))))),"['規則變調', '規則變調', '規則變調', '本調#']"
+"愛｜Ài 了｜liáu 解-婚｜kái-hun 姻｜in 毋-是｜m̄-sī 像｜tshiūnn 拍｜phah 電-影｜tiān-iánn NG｜Ng 重-來｜tîng-lâi 袂｜bē 按｜àn 怎｜tsuánn
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (IP (VP (VV 愛｜Ài) (AS 了｜liáu) (NP (NN 解-婚｜kái-hun) (NN 姻｜in))))
+    (VP
+      (VC 毋-是｜m̄-sī)
+      (VP
+        (VP
+          (PP
+            (P 像｜tshiūnn)
+            (IP (VP (VV 拍｜phah) (NP (NN 電-影｜tiān-iánn) (NN NG｜Ng)))))
+          (VP (VV 重-來｜tîng-lâi)))
+        (VP (ADVP (AD 袂｜bē)) (VP (VV 按｜àn)))))
+    (AD 怎｜tsuánn)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"婚｜Hun 姻｜in 感-情｜kám-tsîng 若｜ná 欲｜beh 糖-甘-蜜-甜｜thn̂g-kam-bi̍t-tinn
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (NP (NP (NN 婚｜Hun) (NN 姻｜in)) (NP (NN 感-情｜kám-tsîng)))
+    (VP
+      (ADVP (CS 若｜ná))
+      (VP (VV 欲｜beh) (IP (VP (VV 糖-甘-蜜-甜｜thn̂g-kam-bi̍t-tinn)))))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '再變調$', '規則變調', '規則變調', '規則變調', '本調#']"
+"愛｜Ài 有-閒｜ū-îng 就｜tiō 牽-手｜khan-tshiú 四-界｜sì-kè 行｜kiânn 相-招｜Sio-tsio 來｜lâi 石｜tsiō 門｜mn̂g 看｜khuànn 海｜hái 看｜khuànn 山｜suann 罔｜bóng 行-踏｜kiânn-ta̍h ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (VP
+        (VP (VV 愛｜Ài) (NP (NN 有-閒｜ū-îng)))
+        (VP
+          (ADVP (AD 就｜tiō))
+          (NP (NN 牽-手｜khan-tshiú) (NN 四-界｜sì-kè))
+          (VP
+            (VP (VV 行｜kiânn) (NP (VV 相-招｜Sio-tsio)))
+            (VP (VV 來｜lâi) (NP (NN 石｜tsiō) (NN 門｜mn̂g)))
+            (VP
+              (VP (VV 看｜khuànn) (NP (NN 海｜hái)))
+              (VP (VV 看｜khuànn) (NP (NN 山｜suann)))
+              (VP (VV 罔｜bóng) (NP (NN 行-踏｜kiânn-ta̍h))))))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"十｜Tsa̍p 月｜guē 風-吹｜hong-tshue 滿｜muá 天｜thinn 飛｜pue 名-聲｜Miâ-siann 迵｜thàng 國｜kok 際｜tsè
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (NP
+    (IP
+      (NP
+        (NP (QP (CD 十｜Tsa̍p)) (NP (NN 月｜guē)))
+        (NP (NN 風-吹｜hong-tshue)))
+      (VP
+        (VP
+          (NP (ADJP (JJ 滿｜muá)) (NP (NN 天｜thinn)))
+          (VP (VV 飛｜pue) (NP (NN 名-聲｜Miâ-siann))))
+        (VP (VV 迵｜thàng) (NP (NN 國｜kok)))))
+    (NP (NN 際｜tsè))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"千｜Tshian 變｜piàn 萬｜bān 化｜hua 的｜ê 雲｜hûn 尪｜ang
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (NP
+    (DNP
+      (NP
+        (NP (QP (CD 千｜Tshian)) (NP (NN 變｜piàn)))
+        (NP (QP (CD 萬｜bān)) (NP (NN 化｜hua))))
+      (DEG 的｜ê))
+    (NP (NN 雲｜hûn) (NN 尪｜ang))))","['規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '本調#']"
+"滿｜Muá 船｜tsûn 載｜tsài 的｜ê 漁-船｜hî-tsûn 欲｜beh 入｜li̍p 港｜káng
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (NP
+      (CP
+        (IP (NP (ADJP (JJ 滿｜Muá)) (NP (NN 船｜tsûn))) (VP (VV 載｜tsài)))
+        (DEC 的｜ê))
+      (NP (NN 漁-船｜hî-tsûn)))
+    (VP (VV 欲｜beh) (VP (VV 入｜li̍p) (NP (NR 港｜káng))))))","['規則變調', '規則變調', '本調#', '規則變調', '規則變調', '規則變調', '再變調$', '規則變調', '本調#']"
+"十-八｜Tsa̍p-peh 王｜ông 公｜kong 廟｜biō 食｜tsia̍h 肉-粽｜bah-tsàng ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP
+      (QP (CD 十-八｜Tsa̍p-peh))
+      (NP (NP (NR 王｜ông)) (ADJP (JJ 公｜kong)) (NP (NN 廟｜biō))))
+    (VP (VV 食｜tsia̍h) (NP (NN 肉-粽｜bah-tsàng)))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"漁｜Sī 村｜tshun 有｜ū 拍｜pha 拚｜tiànn 的｜ê 討-海-人｜thó-hái-lâng 庄｜tsng 仔｜ah 內｜lāi 有｜ū 樸｜phō 實-的｜sit-lé 阿｜A 桑｜sáng 那｜ná 洗-衫｜sé-sann 那｜ná 開-講｜khai-káng ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (IP
+      (NP (NN 漁｜Sī) (NN 村｜tshun))
+      (VP
+        (VE 有｜ū)
+        (VP
+          (LCP
+            (NP
+              (CP
+                (IP (VP (VV 拍｜pha) (IP (VP (VV 拚｜tiànn)))))
+                (DEC 的｜ê))
+              (NP (NN 討-海-人｜thó-hái-lâng) (NN 庄｜tsng) (NN 仔｜ah)))
+            (LC 內｜lāi))
+          (VP
+            (VE 有｜ū)
+            (NP
+              (NP
+                (NP
+                  (DNP (NP (NR 樸｜phō)) (DEG 實-的｜sit-lé))
+                  (NP (NR 阿｜A))
+                  (NP (NN 桑｜sáng)))
+                (DP (DT 那｜ná))
+                (NP (NN 洗-衫｜sé-sann)))
+              (DP (DT 那｜ná))
+              (NP (NN 開-講｜khai-káng)))))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '仔前變調&', '本調#', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"田｜Tshân 裡｜lín 有｜ū 上｜sióng 鮮｜tshinn 的｜ê 青｜tshenn 菜-佮｜tshài-kah 果-子｜kué-tsí
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (NP (NN 田｜Tshân) (NN 裡｜lín))
+    (VP
+      (VE 有｜ū)
+      (NP
+        (NP
+          (DP (DT 上｜sióng))
+          (DNP (ADJP (JJ 鮮｜tshinn)) (DEG 的｜ê))
+          (ADJP (JJ 青｜tshenn))
+          (NP (NN 菜-佮｜tshài-kah)))
+        (NP (NN 果-子｜kué-tsí))))))","['規則變調', '規則變調', '規則變調', '規則變調', '本調#', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
+"愛-情｜Ài-tsîng 無｜bô 分｜hun siáng｜siáng 厲-害｜lī-hāi ，｜,
+","['Na', 'Na', 'Na', 'Na', 'Na', 'PUNC']","(ROOT
+  (IP
+    (NP (NN 愛-情｜Ài-tsîng))
+    (VP
+      (VP (VE 無｜bô) (NP (NN 分｜hun)))
+      (VP (NP (NN siáng｜siáng)) (VP (VA 厲-害｜lī-hāi))))
+    (PU ，｜,)))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#', '毋是台語']"
+"上｜Sióng 重｜tiông 要｜iàu 是｜sī 有｜iú 仁｜jîn 有｜iú 智｜tì 永-遠｜Íng-uán 相-愛｜siong-ài
+","['Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na', 'Na']","(ROOT
+  (IP
+    (NP (DT 上｜Sióng))
+    (VP
+      (ADVP (AD 重｜tiông))
+      (VP
+        (VV 要｜iàu)
+        (VP
+          (VP
+            (VC 是｜sī)
+            (VP
+              (VP (VE 有｜iú) (NP (NN 仁｜jîn)))
+              (VP (VE 有｜iú) (NP (NN 智｜tì)))))
+          (VP (ADVP (AD 永-遠｜Íng-uán)) (VP (VV 相-愛｜siong-ài))))))))","['規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '規則變調', '本調#']"
