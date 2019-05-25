@@ -1,0 +1,13 @@
+docker run -ti i3thuan5/hok8-bu7 bash
+
+pip install hue7jip8
+python manage.py 教典例句
+python manage.py shell
+
+
+
+from 臺灣言語服務.models import 訓練過渡格式
+with open('kautian.txt','wt') as tong:
+  for tsu in 訓練過渡格式.objects.filter(種類='語句'):
+     print(tsu.文本,file=tong)
+
