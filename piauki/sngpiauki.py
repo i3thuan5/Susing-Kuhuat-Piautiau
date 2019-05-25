@@ -1,6 +1,6 @@
 
 from csv import DictWriter
-from sys import stdin, stdout
+from sys import stdin, stdout, stderr
 
 from kiatko import susing, huanik, kuhuat, uann_tso_taigi_kuhuat, pian_jitshuan
 
@@ -18,7 +18,12 @@ def main():
     sia.writeheader()
     for hunsu in stdin:
         if hunsu.strip():
-            詞性, tshiu, 變調名 = sng(hunsu.strip())
+            try:
+                詞性, tshiu, 變調名 = sng(hunsu.strip())
+            except RuntimeError as tshogoo:
+                print(tshogoo, file=stderr)
+            except IndexError as tshogoo:
+                print(tshogoo, hunsu.strip(), file=stderr)
             sia.writerow({
                 '分詞': hunsu,
                 '詞性': 詞性,
