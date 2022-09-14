@@ -19,3 +19,8 @@ cat 結案/kautian-leku.txt | head -n 1000 | time docker-compose run -T piauki p
 # cat 結案/kautian.txt | time docker-compose run -T piauki python sngpiauki.py > kautian.csv # 傷濟罕字， stanford 500 error
 cat 結案/kautian.txt | time docker-compose run -T piauki python sngpiantiau.py > kautian2.csv
 ```
+
+## 解說
+
+- `piauki/sngpiauki.py`有`分詞`, `詞性`, `句法`kah`變調`
+- `piauki/sngpiantiau.py`有`分詞`kah`變調`，因為有ê字，`Stanford parser`bô才調處理
